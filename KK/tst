@@ -1,0 +1,17 @@
+#!/bin/sh
+if [ $# = 0 ]; then
+  FONTO=testvortoj.l3
+else
+  FONTO=$1
+fi
+test -s $FONTO || exit 7
+
+export LC_ALL=C
+rm -f /tmp/e1.txt
+cd ..
+make test
+test -s hyphen_eo.tex || exit 9
+cd KK
+./test_eo.pl $FONTO | iconv -f LATIN3 -t UTF-8 > /tmp/e1.txt
+diff etalono.txt /tmp/e1.txt
+

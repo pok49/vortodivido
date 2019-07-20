@@ -1,0 +1,46 @@
+#!/bin/bash
+#
+# Provu REDukti la sxablonaron
+
+VDIR=~/Dropbox/Eo/Iloj/Vortodivido
+FONTO="$VDIR/KK/testvortoj.l3"
+ETALONO="$VDIR/KK/etalono.txt"
+
+host=`uname -n`
+if [ $host = "hp12" ]; then
+  RED=/home/sergio/Documents/Eo/Work/redukto
+else
+  RED=/home/sergio/Documents/Eo/Iloj/hyphenation/redukto
+fi
+
+#set -x
+export LC_ALL=C
+cd $VDIR
+# pwd
+make test
+test -s hyphen_eo.tex || exit 9
+cp hyphen_eo.tex $RED/h0.tex
+
+cd $RED
+# pwd
+rm -f r.l3 r0.l3 h.tex
+# set +x
+
+declare -i i=`cat h0.tex|wc -l`
+#i=20
+echo "Longo $i"
+
+while let --i; [ $i -gt 0 ]; do
+    rm -f /tmp/e1.txt
+    p=`sed -n ${i}p h0.tex`
+    sed ${i}d h0.tex > h.tex
+    echo "$i: $p"
+    ./test_eo.pl $FONTO | iconv -f LATIN3 -t UTF-8 > /tmp/e1.txt
+    test -s /tmp/e1.txt || exit 7
+    test -z /tmp/e1.txt && exit 6
+    diff -q $ETALONO /tmp/e1.txt && echo "$p" >> r.l3
+    unset p
+done
+test -e r.l3 || exit 8
+sed 's/[1-9]//g' r.l3 > r0.l3
+paste r.l3 r0.l3 > $VDIR/KK/r2.l3
