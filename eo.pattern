@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- hyphenations description for FBReader/CoolReader
 %
 % File name: eo.pattern
 % Unicode hyphenation patterns for Esperanto.
 %
-% Time-stamp: <2019-07-20 22:16:41 sergio>
+% Time-stamp: <2019-07-21 09:34:59 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 % 
@@ -14,9 +14,6 @@
 % of the License, or any later version.
 -->
 <HyphenationDescription>
-<pattern>#</pattern>
-<pattern>â1</pattern>
-<pattern>ê1</pattern>
 <pattern>1ŝ2tejn</pattern>
 <pattern>1a2ĉ1aj </pattern>
 <pattern>1a2ĵ1aj </pattern>
@@ -1402,7 +1399,6 @@
 <pattern>kie2s</pattern>
 <pattern> kin2e3t</pattern>
 <pattern>kl2a3r</pattern>
-<pattern>êkl2i3d</pattern>
 <pattern> kl4</pattern>
 <pattern>kla2v3a4r</pattern>
 <pattern>klarn2e3t</pattern>
@@ -1475,7 +1471,6 @@
 <pattern> kviv2i3t</pattern>
 <pattern>kvodlib2e3t</pattern>
 <pattern> kvor2u3m</pattern>
-<pattern>lê1ten2ant</pattern>
 <pattern>l2e3g</pattern>
 <pattern>l2ig</pattern>
 <pattern>l4s3l</pattern>
@@ -1938,7 +1933,6 @@
 <pattern> tok2a3t</pattern>
 <pattern>tolst2oj </pattern>
 <pattern>tom2a3t</pattern>
-<pattern>âtorit2a3t</pattern>
 <pattern>tr2e3m</pattern>
 <pattern>tr2et</pattern>
 <pattern> tr4</pattern>

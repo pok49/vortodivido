@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- hyphenations description for FBReader/CoolReader
 %
 % File name: eo.pattern

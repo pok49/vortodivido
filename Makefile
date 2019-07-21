@@ -32,7 +32,7 @@ eo.pattern: hyph_eo_XX.dic
 	cp fbr-cr-header.txt $(TMP)/eo.pattern
 	sed -n '/Time-stamp/,/any later version/p' eohyph.m4 >> $(TMP)/eo.pattern
 	echo '-->\n<HyphenationDescription>' >> $(TMP)/eo.pattern
-	sed '/^UTF-8$$/d;s/\./ /g;s/^/<pattern>/;s:$$:</pattern>:' hyph_eo_XX.dic >> $(TMP)/eo.pattern
+	sed '/^UTF-8$$/d;/^#/d;s/\./ /g;s/^/<pattern>/;s:$$:</pattern>:' hyph_eo_XX.dic >> $(TMP)/eo.pattern
 	echo '</HyphenationDescription>' >> $(TMP)/eo.pattern
 	mv $(TMP)/eo.pattern ./
 

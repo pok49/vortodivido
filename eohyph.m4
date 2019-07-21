@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2019-07-20 22:16:41 sergio>
+% Time-stamp: <2019-07-21 09:34:59 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 % 
@@ -650,7 +650,7 @@ s1v % 4s1z foriginda, æar plejparte en la pola-hungara Warszawa, Haszpra ktp.
 % Ý:
 4ý1 ýa2 ýe2 ýi2 ýo2 ýu2
 % alternativaj reguloj por la diftonga þava alfabeto (aý = â, eý = ê):
-â1 ê1 âtorit2a3t êkl2i3d lê1ten2ant
+ifdef({DIFT}, {â1 ê1 âtorit2a3t êkl2i3d lê1ten2ant})
 %
 4v3b2 4v1c2 4v1d 4v1f 4v1g 4v1h4 2v1j2 inter3v2ju
 4v1k 4v1l 4v1m 4v1n 4v1p 2v1r2 4v1s 4v1t 4v1v
