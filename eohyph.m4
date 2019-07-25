@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2019-07-21 09:34:59 sergio>
+% Time-stamp: <2019-07-22 17:29:03 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 % 
@@ -691,9 +691,10 @@ paro2l3 % ??
 .re2ø re3øim re3øust
 .sen2t2em sent3emo
 sinjo2r3
+.su2æ3i2nf % su#æinfano
 þi2p1
 vor2t1 vort2od vort2op
-a2lie %interalie
+a2lie % interalie
 sek2s1eksc .unu2a unu3a2nim u2e3nask % unuataga, unuenaskito
 se2kvinber skra2p1 skva2m1
 ta2g1l2

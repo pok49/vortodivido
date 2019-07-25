@@ -539,9 +539,7 @@ atlantiko	at-lan-ti-ko
 atlanto	at-lan-to
 atleto	at-le-to
 atmosfero	at-mo-s-fe-ro
-âtomato	âto-ma-to
 atomo	ato-mo
-âtoritato	âto-ri-ta-to
 aŭdaca	aŭ-da-ca
 aŭdadis	aŭ-d-ad-is
 aŭdante	aŭ-d-an-te
@@ -1778,7 +1776,6 @@ ekkrii	ek-krii
 eklamas	ek-lam-as
 eklezio	ek-le-zio
 eklumas	ek-lum-as
-êklidaj	êkli-d-aj
 ekmalamis	ek-mal-am-is
 ekmalĝojis	ek-mal-ĝoj-is
 ekmemoru	ek-me-mo-ru
@@ -4571,7 +4568,6 @@ lernolibroj	ler-no-li-br-oj
 lernolibron	ler-no-li-br-on
 lerta	ler-ta
 lesivo	le-si-vo
-lêtenanto	lê-te-nan-to
 leteron	le-te-r-on
 leterpapero	le-ter-pa-pe-ro
 leŭtenanto	leŭ-te-nan-to
@@ -4963,7 +4959,7 @@ malŝatinda	mal-ŝa-t-inda
 malŝaton	mal-ŝat-on
 malŝpari	mal-ŝpa-ri
 malŝtopi	mal-ŝto-pi
-maltâga	mal-tâ-ga
+maltaŭga	mal-taŭ-ga
 maltrankvila	mal-trank-vi-la
 maltrankvilaj	mal-trank-vi-l-aj
 maltrankviliĝas	mal-trank-vi-l-iĝ-as
@@ -5601,7 +5597,6 @@ nesto	nes-to
 nesufiĉa	ne-su-fi-ĉa
 netaŭgeco	ne-taŭ-g-eco
 neto	ne-to
-nêtralaj	nê-tra-l-aj
 neŭtrala	neŭ-tra-la
 neŭtralan	neŭ-tra-l-an
 neŭtraleco	neŭ-tra-l-eco
@@ -8036,6 +8031,7 @@ subtila	sub-ti-la
 subtrahi	sub-tra-hi
 subuteo	su-bu-teo
 suĉi	su-ĉi
+suĉinfanoj	suĉ-in-fa-n-oj
 sudafrikajn	sud-af-ri-k-ajn
 sudamerikaj	sud-ame-ri-k-aj
 sudaŭstraliaj	sud-aŭ-s-tra-li-aj
