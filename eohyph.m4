@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2019-07-22 17:29:03 sergio>
+% Time-stamp: <2019-09-02 20:00:45 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 % 
@@ -669,6 +669,7 @@ ifdef({DIFT}, {â1 ê1 âtorit2a3t êkl2i3d lê1ten2ant})
 a2spekt % grava-spekta
 .bi2o
 .bu2þ
+.cen2t cen3t2r % cen#testro
 de2k1o2k de2k1u2n % dudekoka (20a)
 1e2lemen2t1
 3e2senc 1e2sprim
