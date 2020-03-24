@@ -4,7 +4,7 @@
 % File name: eo.pattern
 % Unicode hyphenation patterns for Esperanto.
 %
-% Time-stamp: <2019-07-21 09:34:59 sergio>
+% Time-stamp: <2020-02-17 22:55:11 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 % 
@@ -881,7 +881,7 @@
 <pattern>4t1k</pattern>
 <pattern>4t1m</pattern>
 <pattern>4t1n</pattern>
-<pattern>4t1p</pattern>
+<pattern>4t1p2</pattern>
 <pattern>4t1t</pattern>
 <pattern>4t1v</pattern>
 <pattern>4t1z</pattern>
@@ -976,6 +976,7 @@
 <pattern>am2a3r</pattern>
 <pattern> amet2i3s3t</pattern>
 <pattern>amul2e3t</pattern>
+<pattern> an2a3k</pattern>
 <pattern> and2u3j</pattern>
 <pattern> ang2i3l</pattern>
 <pattern>ang2u3l</pattern>
@@ -1273,7 +1274,6 @@
 <pattern> grav2i3t</pattern>
 <pattern> gru3m</pattern>
 <pattern> gu3m</pattern>
-<pattern> gv2i3d</pattern>
 <pattern> halel2u3j</pattern>
 <pattern> haml2et</pattern>
 <pattern>har2a3kir</pattern>
@@ -1310,8 +1310,7 @@
 <pattern> ĉi4e</pattern>
 <pattern> ĉi4o</pattern>
 <pattern> ĉi4u3</pattern>
-<pattern>ia2</pattern>
-<pattern> ia3</pattern>
+<pattern>i4u3o</pattern>
 <pattern> ĉia4m1</pattern>
 <pattern>ias2</pattern>
 <pattern>ŝibol2e3t</pattern>
@@ -1347,8 +1346,6 @@
 <pattern> ĉio4m</pattern>
 <pattern>ĉio5manĝ</pattern>
 <pattern>is1la2m3</pattern>
-<pattern>iu2</pattern>
-<pattern> iu3</pattern>
 <pattern>iud2</pattern>
 <pattern>izob2a3r</pattern>
 <pattern>ĉj2</pattern>
@@ -1467,6 +1464,7 @@
 <pattern>kvar3o2p</pattern>
 <pattern>kvatern2a3r</pattern>
 <pattern>kvi2n1</pattern>
+<pattern> kvi3r2i3t</pattern>
 <pattern>kvin3o2p</pattern>
 <pattern> kviv2i3t</pattern>
 <pattern>kvodlib2e3t</pattern>
@@ -1480,6 +1478,7 @@
 <pattern>labi3r2in3t</pattern>
 <pattern>ĥlam2i3d</pattern>
 <pattern>lap2i3d2a3r</pattern>
+<pattern>le2ĝ</pattern>
 <pattern> le3m</pattern>
 <pattern>leŭten2an3t</pattern>
 <pattern> li3s3t</pattern>
@@ -1596,14 +1595,13 @@
 <pattern>nap4o5leo</pattern>
 <pattern>naŭt2i3l</pattern>
 <pattern> nav2i3g</pattern>
-<pattern> ne2ni</pattern>
+<pattern> ne2nia3</pattern>
 <pattern> ne3t</pattern>
 <pattern> neb2u3l</pattern>
 <pattern> negl2i3ĝ</pattern>
 <pattern> nei2</pattern>
 <pattern> nel2</pattern>
 <pattern> nema2l1</pattern>
-<pattern> neni2a3</pattern>
 <pattern> neof2i3t</pattern>
 <pattern> ni4a3</pattern>
 <pattern> no4v</pattern>
@@ -1611,6 +1609,7 @@
 <pattern>nor2d1a2z</pattern>
 <pattern> norv2e3g</pattern>
 <pattern> nu3l</pattern>
+<pattern> num2i3d</pattern>
 <pattern>o1</pattern>
 <pattern>ŭo2</pattern>
 <pattern>o2fic</pattern>
@@ -1628,9 +1627,11 @@
 <pattern>oks2i3d</pattern>
 <pattern> okt2an3t</pattern>
 <pattern>ol2i3t</pattern>
+<pattern>oli2v</pattern>
 <pattern> om2a3r</pattern>
 <pattern> om2e3g</pattern>
 <pattern> oml2e3t</pattern>
+<pattern>on2d1r</pattern>
 <pattern> opid2u3m</pattern>
 <pattern>opos2u3m</pattern>
 <pattern>or1k2e3str</pattern>
@@ -1685,6 +1686,7 @@
 <pattern>plebisc2i3t</pattern>
 <pattern>pleja2</pattern>
 <pattern>plu2m1in2g</pattern>
+<pattern> plu2r1</pattern>
 <pattern> plu3m</pattern>
 <pattern> po2ŝ</pattern>
 <pattern> po2ŝ2t1</pattern>
@@ -1734,6 +1736,7 @@
 <pattern> pu3m</pattern>
 <pattern> pup2i3l</pattern>
 <pattern> pust2u3l</pattern>
+<pattern>r2d1r</pattern>
 <pattern>r2e3g</pattern>
 <pattern>r2et1aj </pattern>
 <pattern>r2et1ajn </pattern>
@@ -1745,6 +1748,7 @@
 <pattern>r2ete </pattern>
 <pattern>r2eto </pattern>
 <pattern>r2id</pattern>
+<pattern>r2k1l</pattern>
 <pattern>r2s3f</pattern>
 <pattern>r2s3m</pattern>
 <pattern>r3l2i3g</pattern>
@@ -1810,7 +1814,6 @@
 <pattern> se2p3o2p</pattern>
 <pattern> se2s3o2n</pattern>
 <pattern> se2s3o2p</pattern>
-<pattern> se3n2ek</pattern>
 <pattern>sek2s1eksc</pattern>
 <pattern>sek2u3l2a3r</pattern>
 <pattern>sekr2e3t</pattern>
@@ -1821,6 +1824,7 @@
 <pattern>sen2il</pattern>
 <pattern> sen2t2em</pattern>
 <pattern> sen3s4t</pattern>
+<pattern> sene2l1i2r</pattern>
 <pattern>sent3emo</pattern>
 <pattern> ser2u3m</pattern>
 <pattern>seren2a3d</pattern>
@@ -1886,6 +1890,7 @@
 <pattern> stra3t2e3g</pattern>
 <pattern>strob2i3l</pattern>
 <pattern>strof2a4n3t2</pattern>
+<pattern> su2ĉ3i2nf</pattern>
 <pattern> su2b1</pattern>
 <pattern> su2d1aŭ</pattern>
 <pattern> su2d1a2f</pattern>
@@ -1968,6 +1973,7 @@
 <pattern> uv2u3l</pattern>
 <pattern>uzulinterfaco</pattern>
 <pattern>v2a3r</pattern>
+<pattern>v2i3d</pattern>
 <pattern>ŝv2i3t</pattern>
 <pattern>val2i3d</pattern>
 <pattern> van2i3l</pattern>
@@ -1995,6 +2001,8 @@
 <pattern>vir2us</pattern>
 <pattern>viz2i3t</pattern>
 <pattern>viza2ĝ1</pattern>
+<pattern> vo2j1</pattern>
+<pattern> vo3j2aĝ</pattern>
 <pattern>vodev2i3l</pattern>
 <pattern>vol2on3t</pattern>
 <pattern>vol2u3m</pattern>

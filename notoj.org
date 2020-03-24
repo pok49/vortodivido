@@ -1,0 +1,14 @@
+* Reducing redundant rules
+
+** Source-line numbers
+'-s'
+'--synclines'
+     Generate synchronization lines, for use by the C preprocessor or
+     (...) Source file name and line number
+     information is conveyed by directives of the form '#line LINENUM
+     "FILE"', which are inserted as needed into the middle of the
+     output.  Such directives mean that the following line originated or
+     was expanded from the contents of input file FILE at line LINENUM.
+     The '"FILE"' part is often omitted when the file name did not
+     change from the previous directive.
+     (info "(m4)Preprocessor features")

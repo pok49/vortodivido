@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2019-07-22 17:29:03 sergio>
+% Time-stamp: <2020-02-17 22:55:11 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 % 
@@ -37,7 +37,7 @@ a1 e1 i1 o1 u1       % ebligu tranæon post la vokaloj
 ae2 % niae#poke
 % i3a o3a u3a
 ea2 e3e4 2eu2 % poste-ulo
-ia2 .ia3 .neni2a3 kia4l tia4l kie2s % i3e .ki2a3
+.ne2nia3 kia4l tia4l kie2s % i3e .ki2a3
 oa2 o3e oi2 % so-ifo
 % a3i e3i i3i o3i u3i
 % a3o
@@ -45,7 +45,7 @@ oa2 o3e oi2 % so-ifo
 % i3o o3o u3o 
 % a3u e3u i3u o3u u3u
 e2sper
-iu2 .iu3 % iuo2 % æiuokaze
+%iu2 .iu3 % iuo2 % æiuokaze
 2ou % lingvou#zo
 uo2 % duopo, duobla
 % konsonantaj fina¼oj:
@@ -197,7 +197,7 @@ nom(1e2j) 1e2j1ig 1e2j1iø
 % EKSTER-
 .ekste2r1
 % EL-
-.el1i2r .el1aæet .el1uz .el3v2
+.el1i2r .sene2l1i2r .el1aæet .el1uz .el3v2
 % EM:
 nom(1e2m) ver(1e2m) 1e2m1ec
 blasf2e3m .boh2e3m diad2e3m .dil2e3m .ed2e3m
@@ -256,11 +256,12 @@ nom(1i2d)
 .bol2i3d .br2i3d c2i3d  % + .muc2i3d .luc2i3d genoc2i3d koinc2i3d .inc2i3d .dec2i3d
 .dav2i3d div2i3d eýkl2i3d
 .eg2i3d .flor2i3d .fr2i3d
-.gv2i3d hibr2i3d
+v2i3d %gv#ide, eksterv#ide
+hibr2i3d
 hum2i3d ¶lam2i3d .ins2i3d kan3t2ar2i3d
 .konf2i3d krizal2i3d % kun1s4 % kunSID
 .lib2i3d likv2i3d .liv2i3d
-.madr2i3d morb2i3d
+.madr2i3d morb2i3d .num2i3d
 oks2i3d perf2i3d pi3ram2id r2id
 rap2i3d rez2i3d rig2i3d % frig2i3d; .si3d
 sol2i3d .str2i3d telev2i3d tim2i3d
@@ -365,7 +366,7 @@ dinam2i3t .ef1r2i3t 1ek2s3c4i3t eksplic2i3t .el2i3t .emer2i3t .erm2i3t
 .erud2i3t .ev2i3t .fr2i3t .gl2i3t .graf2i3t .gran2i3t
 .grav2i3t hermafrod2i3t hez2i3t hipokr2i3t im2i3t .inc2i3t
 infin2i3t inkogn2i3t interm2i3t .inv2i3t kapac2i3t komprom2i3t
-.konf2i3t .kred2i3t .kv2i3t .kval2i3t .kviv2i3t .li3t .mi3t
+.konf2i3t .kred2i3t .kvi3r2i3t .kv2i3t .kval2i3t .kviv2i3t .li3t .mi3t
 malak2i3t .margar2i3t .marm2i3t .med2i3t megal2i3t mer2i3t
 mil2i4t1 asimil3i4t
 .mosk2i3t .neof2i3t okcip2i3t ol2i3t % .orb2i3t
@@ -408,8 +409,10 @@ mi5asm mi5aý
 .mi4s3
 .mi5s4al mi5s4il .mi5s4ia .mi5s4ie .mi5s4ii .mi5s4io .mi5s4iu
 % NE-
-.ne2ni .nel2 .nei2
+.nel2 .nei2
 4ne. % [ili þaj-] ne kontraýas mian proponon
+% NENIUokaze ktp:
+i4u3o
 % NIA-
 .ni4a3
 % NJ:
@@ -459,6 +462,8 @@ vol2on3t
 % PLEN-
 .ple2n3 % plenAØA
 2oplen
+% PLUR-
+.plu2r1
 % POR-
 .po2r
 % POST-
@@ -476,7 +481,6 @@ pos3t2ament pos3t2e2n post2esign pos3t2iljon pos3t2u3l
 sa3m2ar .sa3m2u3m sa3m2uraj sa2m1ur2b
 % SEN-
 .se2n1 .sen3s4t % sen-streæa
-.se3n2ek % .se3n2aa .se3n2ao
 sen2e2skal  
 % SIA-
 .si4a3
@@ -541,7 +545,9 @@ vi5a4nd % vi5atik
 .vi2r1
 vir2g  vir2us vi3r2ulent
 % ===
-1a2fabl 1a2gra 1a2kr kv2a3kr 1a2per p2a3per 1a2va1r
+1a2fabl 1a2gra
+1a2kr .an2a3k % an#akronismo
+kv2a3kr 1a2per p2a3per 1a2va1r
 4ologi 4ografi 2fik 3fiks
 %
 4b1c 4b1b2 4b1d 4b1f 4b1g 4b1h4 4b1j2 4b1k b1l b2lov b2lek b2lok b2lu
@@ -584,7 +590,9 @@ d1z 4d1æ 4d1ø 4d1¼ 4d1þ2
 4¼1b 4¼1c 4¼1d 4¼1f 4¼1g 4¼1h4 4¼1j2 4¼1k 4¼1l 4¼1m 4¼1n 4¼1p
 4¼1s 4¼1t 4¼1v 4¼1z 4¼1æ 4¼1ø 4¼1¼ 4¼1þ
 %
-4k1b2 4k1c 4k1d 4k1f 4k1g 4k1h4 4k1j2 4k3k2 4k1m
+4k1b2 4k1c 4k1d 4k1f 4k1g 4k1h4 4k1j2 4k3k2
+r2k1l % cir#kludo
+4k1m
 2k1n 3k2nab 3k2ned
 4k1p 4k1s
 k2s1t2r
@@ -614,9 +622,10 @@ n2s3t2r % PAG
 4p1b2 4p1c2 4p1d2 2p1f2 4p1g2 4p1h4 2p1j2 2p1k2 2p1m2 p1n2 2p1p2 2p1s2 2p1t 4p1v2 4p1z2 4p1æ2
 4p1ø2 4p1¼2 2p1þ2
 %
-4r1b 4r1c 4r1d 4r1f
+4r1b 4r1c 4r1d r2d1r 4r1f
 2r1g zor2g bur2g 
-4r1h4 4r1j2 4r1k 4r1l2 4r1m 4r1n 4r1p 4r1r4
+4r1h4 4r1j2 4r1k 4r1l2
+4r1m 4r1n 4r1p 4r1r4
 4r1s2 r2s3f % dorsflanke, versfarado
 r2s3m % diversmaniera, versmezuro
 4r1t 2r1v 2r1z 2r1æ 2r1ø 2r1¼ 2r1þ2
@@ -643,7 +652,9 @@ s1v % 4s1z foriginda, æar plejparte en la pola-hungara Warszawa, Haszpra ktp.
 4þ1z 2þ1æ2 4þ1ø 4þ1¼ 4þ1þ2
 .þte2l1
 %
-4t1b 4t1c 4t1d 4t1f 2stf 4t1g 4t1h4 4t1j2 4t1k 2t1l2 4t1m 4t1n 4st1n 4t1p 4t3s2 4t1t 4t1v
+4t1b 4t1c 4t1d 4t1f 2stf 4t1g 4t1h4 4t1j2 4t1k 2t1l2 4t1m 4t1n 4st1n
+4t1p2 % vortp#aro
+4t3s2 4t1t 4t1v
 4t1z .fi2t2z1 t2zg t2zs % plejparte en la fremdaj Nitzsche, Ratzinger, Fitzgerald
 4t1æ 4t1ø 4t1¼ 4t1þ2
 %
@@ -680,11 +691,14 @@ fo2j .fra2z1 fra3z2eo
 gra2n2d1 gran3d2io
 komuni2k1
 laý2dind laý2d2a3t % laý/data :: laýd/ata
+le2ø % malle#øa¼o
 o2fic % æefo-ficejo, neo-fica
 3o4lea 3o4lei 3o4leo nap4o5leo % fiþoleo
 laý2t1le4g %laýt-legi
 lo2n2g1 lon3g2itud 1o2rel % longo#rela
 1o2dor % bono#dora
+on2d1r % mon#dregado
+oli2v %oli#voleo
 paro2l3 % ??
 .pa2s pa3ser
 .pu2þ
@@ -693,6 +707,7 @@ paro2l3 % ??
 sinjo2r3
 .su2æ3i2nf % su#æinfano
 þi2p1
+.vo2j1 .vo3j2aø
 vor2t1 vort2od vort2op
 a2lie % interalie
 sek2s1eksc .unu2a unu3a2nim u2e3nask % unuataga, unuenaskito
