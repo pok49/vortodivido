@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <registration>
+        <simple-license accept-by="admin" suppress-on-update="false" >
+            <license-text xlink:href="README_eo.txt" lang="en" license-id="en" />
+        </simple-license>
+    </registration>
+
+    <version value="6" />
+
+    <identifier value="esperanto.hyphenation.dictionaries" />
+
+    <display-name>
+        <name lang="en">Esperanto hyphenation dictionary</name>
+        <name lang="eo">Vortodivida ŝablonaro por Esperanto</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="2.4" d:name="Esperanto hyphenation pack for OpenOffice.org 2.4 and LibreOffice" />
+    </dependencies>
+    <icon>
+        <default xlink:href="standardo.png" />
+    </icon>
+    <publisher>
+        <name xlink:href="https://github.com/pok49/vortodivido" lang="eo">Sergio Pokrovskij</name>
+    </publisher>
+
+</description>

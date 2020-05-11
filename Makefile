@@ -1,12 +1,6 @@
 # Where to install the *.hash files; you could try
 # /usr/share/cr3/hyph
-# emacs_hy = /usr/local/share/emacs/site-lisp/hyphen/eo_XX.l3
-# emacs_hy = /usr/share/emacs/site-lisp/hyphen/eo_XX.l3
-ifeq "$(shell uname -n)" "hp12"
-  emacs_hy = /usr/share/emacs/site-lisp/hyphen/eo_XX.l3
-else
-  emacs_hy = /usr/local/share/emacs/site-lisp/hyphen/eo_XX.l3
-endif
+emacs_hy = /usr/local/share/emacs/site-lisp/hyphen/eo_XX.l3
 TMP = /tmp
 ##########################
 # No more user settings // Fino de la uzulaj agordajxoj.
@@ -40,8 +34,9 @@ oo:	hyph_eo_XX.oxt
 
 # hyph_eo_XX.oxt: hyph_eo_XX.zip hyph_eo_XX.dic
 #	zip hyph_eo_XX.zip hyph_eo_XX.dic -O hyph_eo_XX.oxt
-hyph_eo_XX.oxt: hyph_eo_XX.dic description.xml
-	zip -f hyph_eo_XX.oxt
+hyph_eo_XX.oxt: hyph_eo_XX.dic oxt/description.xml
+	cp hyph_eo_XX.dic oxt/
+	cd oxt && zip -u hyph_eo_XX.oxt && cp hyph_eo_XX.oxt .. 
 
 emacs: $(emacs_hy)
 $(emacs_hy):	hyphen_eo.l3
