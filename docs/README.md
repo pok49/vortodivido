@@ -20,13 +20,17 @@ install it you have to locate the `hyph` directory in the `cr3` (i.e.
 `hyph` in `/strorage/sdcard0/.cr3/`, and to put `eo.pattern` into it.
 
 *Note.* If you modify and build `eo.pattern` yourself, you may find it
- advantageous to make a link to your git build from the `hyph`
- directory. E.g. I’ve set
+advantageous to make a link to your git build from the `hyph`
+directory. E.g. I’ve set
 ```console
 $ sudo ln -s /home/sergio/git/vortodivido/eo.pattern /usr/share/cr3/hyph/Esperanto.pattern
 ```
-To use the package with FBReader (and AlReader?) you need to rebuild
- the reader with the file.
+To use the package with AlReader you need to rebuild the reader with
+the file.
+
+### For OpenOffice/LibreOffice
+The package `hyph_eo_XX.oxt` can be routinely installed as
+normal extension via Tools→Extension Manager.
 
 ## En Esperanto:
 Ĉi tiu ŝablonaro por vortodivido estis unue farita de Sergio
