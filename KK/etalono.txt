@@ -823,6 +823,7 @@ boli	bo-li
 bolido	bo-li-do
 bombono	bom-bo-no
 bona	bona
+Bonaero	bon-aero
 bonaj	bon-aj
 bonaĵo	bon-aĵo
 bonan	bon-an
@@ -2082,6 +2083,7 @@ enpreno	en-pre-no
 enprenu	en-pre-nu
 enprofundiĝis	en-pro-fun-d-iĝ-is
 ensaluti	en-sa-lu-ti
+enspezfonto	en-spez-fonto
 enspezi	en-spe-zi
 enŝlosis	en-ŝlo-s-is
 enŝlosita	en-ŝlo-s-ita
@@ -4591,6 +4593,7 @@ lianoj	li-a-n-oj
 liaso	li-a-so
 liaurba	lia-ur-ba
 libera	li-be-ra
+liberaera	li-be-r-aera
 libere	li-be-re
 libereco	li-be-r-eco
 liberi	li-be-ri
@@ -6933,6 +6936,7 @@ reiri	re-iri
 reiris	re-ir-is
 reĵetis	re-ĵe-t-is
 rekaŝu	re-ka-ŝu
+reklamafiŝoj	re-kla-m-afi-ŝ-oj
 reklami	re-kla-mi
 reklamo	re-kla-mo
 reklamon	re-kla-m-on
@@ -7872,6 +7876,7 @@ sovaĝaj	so-va-ĝ-aj
 sovaĝe	so-va-ĝe
 soveto	so-ve-to
 spaco	spa-co
+sovetuniaj	so-vet-uni-aj
 spagetoj	spa-ge-t-oj
 spato	spato
 speciala	spe-ci-a-la
@@ -8956,7 +8961,7 @@ vialanda	via-lan-da
 vian	vian
 viando	vi-an-do
 viaspeca	via-spe-ca
-viatiko	via-ti-ko
+viatiko	vi-a-ti-ko
 vicĉambelano	vic-ĉam-be-la-no
 vicedzino	vic-edzi-no
 vicero	vic-e-ro
@@ -9046,6 +9051,7 @@ vivipova	vivi-po-va
 vivipovaj	vivi-po-v-aj
 vivipoveco	vivi-po-v-eco
 vivis	viv-is
+vivkvalito	viv-kva-l-ito
 vivmaniero	viv-ma-ni-e-ro
 vivo	vivo
 vivoplena	vivo-ple-na

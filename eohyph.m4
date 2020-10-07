@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-03-24 11:31:23 sergio>
+% Time-stamp: <2020-10-02 11:23:26 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 % 
@@ -35,6 +35,7 @@ a1 e1 i1 o1 u1       % ebligu tranæon post la vokaloj
 2a3a2 %praa#vo
 2ao2 %tiao#kaze
 ae2 % niae#poke
+1a2er % libera#era
 % i3a o3a u3a
 ea2 e3e4 2eu2 % poste-ulo
 .ne2nia3 kia4l tia4l kie2s % i3e .ki2a3
@@ -536,7 +537,7 @@ nom(1u2m) ver(1u2m) 1u2m3ec
 .su3m .res2u3m kons2u3m opos2u3m bi5t2u3m .kost2u3m % .zu3m
 % VIA-
 .vi4a3
-vi5a4nd % vi5atik
+vi5a4nd vi5atik
 % VIC-
 .vi2c1
 % nom(.vi3c)
@@ -664,10 +665,10 @@ s1v % 4s1z foriginda, æar plejparte en la pola-hungara Warszawa, Haszpra ktp.
 ifdef({DIFT}, {â1 ê1 âtorit2a3t êkl2i3d lê1ten2ant})
 %
 4v3b2 4v1c2 4v1d 4v1f 4v1g 4v1h4 2v1j2 inter3v2ju
-4v1k 4v1l 4v1m 4v1n 4v1p 2v1r2 4v1s 4v1t 4v1v
+4v1k2 4v1l 4v1m 4v1n 4v1p 2v1r2 4v1s 4v1t 4v1v
 4v1z 4v1æ 4v1ø 4v1¼ 4v1þ
 %
-4z1b 4z1c 4z1d 4z1f 4z1g 4z1h4 4z1j2 4z1k 4z1l
+4z1b 4z1c 4z1d 4z1f4 4z1g 4z1h4 4z1j2 4z1k 4z1l
 4z1m 4z1n 4z1p 4z1r 4z1s 4z1t 4z1v 4z1æ 4z1ø 4z1¼ 4z1þ
 % MLL:
 .re2sp. % respektive
@@ -686,7 +687,7 @@ de2k1o2k de2k1u2n % dudekoka (20a)
 3e2senc 1e2sprim
 2k3e2rar 4m3e2rar 2s3e2rar % tradukeraro
 e2st % kunesto, foresti, alesto
-.fi2þ1
+.fi2þ1 1a2fiþ % reklama#fiþ
 fo2j .fra2z1 fra3z2eo
 .fre2þ
 gra2n2d1 gran3d2io
@@ -707,6 +708,7 @@ paro2l3 % ??
 .sen2t2em sent3emo
 sinjo2r3
 .su2æ3i2nf % su#æinfano
+sove4t1u2ni
 þi2p1
 .vo2j1 .vo3j2aø
 vor2t1 vort2od vort2op
