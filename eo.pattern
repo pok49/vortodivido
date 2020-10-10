@@ -4,7 +4,7 @@
 % File name: eo.pattern
 % Unicode hyphenation patterns for Esperanto.
 %
-% Time-stamp: <2020-10-02 11:23:26 sergio>
+% Time-stamp: <2020-10-08 18:41:29 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 % 
@@ -14,21 +14,15 @@
 % of the License, or any later version.
 -->
 <HyphenationDescription>
-<pattern>1ŝ2tejn</pattern>
 <pattern>1a2ĉ1aj </pattern>
-<pattern>1a2ĵ1aj </pattern>
 <pattern>1a2ĉ1ajn </pattern>
-<pattern>1a2ĵ1ajn </pattern>
 <pattern>1a2ĉ1oj </pattern>
-<pattern>1a2ĵ1oj </pattern>
 <pattern>1a2ĉ1ojn </pattern>
-<pattern>1a2ĵ1ojn </pattern>
 <pattern>1a2ĉ1on </pattern>
-<pattern>1a2ĵ1on </pattern>
 <pattern>1a2ĉ3an </pattern>
-<pattern>1a2ĵ3an </pattern>
 <pattern>1a2ĉa </pattern>
-<pattern>1a2ĵa </pattern>
+<pattern>1a2ĉe </pattern>
+<pattern>1a2ĉo </pattern>
 <pattern>1a2d1aj </pattern>
 <pattern>1a2d1ajn </pattern>
 <pattern>1a2d1as </pattern>
@@ -46,19 +40,24 @@
 <pattern>1a2dmin</pattern>
 <pattern>1a2do </pattern>
 <pattern>1a2du </pattern>
-<pattern>1a2ĉe </pattern>
-<pattern>1a2ĵe </pattern>
 <pattern>1a2er</pattern>
 <pattern>1a2f3rik</pattern>
 <pattern>1a2fabl</pattern>
 <pattern>1a2fiŝ</pattern>
 <pattern>1a2gra</pattern>
+<pattern>1a2ĵ1aj </pattern>
+<pattern>1a2ĵ1ajn </pattern>
+<pattern>1a2ĵ1oj </pattern>
+<pattern>1a2ĵ1ojn </pattern>
+<pattern>1a2ĵ1on </pattern>
+<pattern>1a2ĵ3an </pattern>
+<pattern>1a2ĵa </pattern>
+<pattern>1a2ĵe </pattern>
+<pattern>1a2ĵo </pattern>
 <pattern>1a2kir1</pattern>
 <pattern>1a2kr</pattern>
 <pattern>1a2kv</pattern>
 <pattern>1a2merik</pattern>
-<pattern>1a2ĉo </pattern>
-<pattern>1a2ĵo </pattern>
 <pattern>1a2per</pattern>
 <pattern>1a2r1aj </pattern>
 <pattern>1a2r1ajn </pattern>
@@ -69,8 +68,8 @@
 <pattern>1a2r3an </pattern>
 <pattern>1a2ra </pattern>
 <pattern>1a2re </pattern>
-<pattern>1a2riĝ</pattern>
 <pattern>1a2rig</pattern>
+<pattern>1a2riĝ</pattern>
 <pattern>1a2ro </pattern>
 <pattern>1a2t1aj </pattern>
 <pattern>1a2t1ajn </pattern>
@@ -105,9 +104,9 @@
 <pattern>1an2t1ig</pattern>
 <pattern>1as </pattern>
 <pattern>1e2ben</pattern>
-<pattern>1e2bl1aĵ</pattern>
 <pattern>1e2bl1aj </pattern>
 <pattern>1e2bl1ajn </pattern>
+<pattern>1e2bl1aĵ</pattern>
 <pattern>1e2bl1as </pattern>
 <pattern>1e2bl1ec</pattern>
 <pattern>1e2bl1is </pattern>
@@ -151,8 +150,8 @@
 <pattern>1e2gu </pattern>
 <pattern>1e2j1aj </pattern>
 <pattern>1e2j1ajn </pattern>
-<pattern>1e2j1iĝ</pattern>
 <pattern>1e2j1ig</pattern>
+<pattern>1e2j1iĝ</pattern>
 <pattern>1e2j1oj </pattern>
 <pattern>1e2j1ojn </pattern>
 <pattern>1e2j1on </pattern>
@@ -207,21 +206,6 @@
 <pattern>1e2to </pattern>
 <pattern>1e2tu </pattern>
 <pattern>1ek2s3c4i3t</pattern>
-<pattern>1i2ĝ1a2d</pattern>
-<pattern>1i2ĝ1aj </pattern>
-<pattern>1i2ĝ1ajn </pattern>
-<pattern>1i2ĝ1as </pattern>
-<pattern>1i2ĝ1e2m</pattern>
-<pattern>1i2ĝ1is </pattern>
-<pattern>1i2ĝ1oj </pattern>
-<pattern>1i2ĝ1ojn </pattern>
-<pattern>1i2ĝ1on </pattern>
-<pattern>1i2ĝ1us </pattern>
-<pattern>1i2ĝ3an </pattern>
-<pattern>1i2ĝ3e4m</pattern>
-<pattern>1i2ĝ3os </pattern>
-<pattern>1i2ĝa </pattern>
-<pattern>1i2ĝant</pattern>
 <pattern>1i2d1aj </pattern>
 <pattern>1i2d1ajn </pattern>
 <pattern>1i2d1ar1aj </pattern>
@@ -249,7 +233,6 @@
 <pattern>1i2da </pattern>
 <pattern>1i2de </pattern>
 <pattern>1i2do </pattern>
-<pattern>1i2ĝe </pattern>
 <pattern>1i2g1a2d</pattern>
 <pattern>1i2g1aj </pattern>
 <pattern>1i2g1ajn </pattern>
@@ -274,8 +257,27 @@
 <pattern>1i2go </pattern>
 <pattern>1i2gont</pattern>
 <pattern>1i2gu </pattern>
+<pattern>1i2ĝ1a2d</pattern>
+<pattern>1i2ĝ1aj </pattern>
+<pattern>1i2ĝ1ajn </pattern>
+<pattern>1i2ĝ1as </pattern>
+<pattern>1i2ĝ1e2m</pattern>
+<pattern>1i2ĝ1is </pattern>
+<pattern>1i2ĝ1oj </pattern>
+<pattern>1i2ĝ1ojn </pattern>
+<pattern>1i2ĝ1on </pattern>
+<pattern>1i2ĝ1us </pattern>
+<pattern>1i2ĝ3an </pattern>
+<pattern>1i2ĝ3e4m</pattern>
+<pattern>1i2ĝ3os </pattern>
+<pattern>1i2ĝa </pattern>
+<pattern>1i2ĝant</pattern>
+<pattern>1i2ĝe </pattern>
 <pattern>1i2ĝi </pattern>
 <pattern>1i2ĝint</pattern>
+<pattern>1i2ĝo </pattern>
+<pattern>1i2ĝont</pattern>
+<pattern>1i2ĝu </pattern>
 <pattern>1i2l1aj </pattern>
 <pattern>1i2l1ajn </pattern>
 <pattern>1i2l1ar</pattern>
@@ -286,8 +288,6 @@
 <pattern>1i2la </pattern>
 <pattern>1i2le </pattern>
 <pattern>1i2lo </pattern>
-<pattern>1i2ĝo </pattern>
-<pattern>1i2ĝont</pattern>
 <pattern>1i2s2m3ec</pattern>
 <pattern>1i2s2t1aj </pattern>
 <pattern>1i2s2t1ajn </pattern>
@@ -319,7 +319,6 @@
 <pattern>1i2ta </pattern>
 <pattern>1i2te </pattern>
 <pattern>1i2to </pattern>
-<pattern>1i2ĝu </pattern>
 <pattern>1in1t1aj </pattern>
 <pattern>1in1t1ajn </pattern>
 <pattern>1in1t1oj </pattern>
@@ -336,8 +335,8 @@
 <pattern>1in2d1us </pattern>
 <pattern>1in2d3an </pattern>
 <pattern>1in2d3ec</pattern>
-<pattern>1in2d3iĝ</pattern>
 <pattern>1in2d3ig</pattern>
+<pattern>1in2d3iĝ</pattern>
 <pattern>1in2d3os </pattern>
 <pattern>1in2da </pattern>
 <pattern>1in2de </pattern>
@@ -359,8 +358,6 @@
 <pattern>1is2ma </pattern>
 <pattern>1is2me </pattern>
 <pattern>1is2mo </pattern>
-<pattern>ŝ1m</pattern>
-<pattern>ŝ1n</pattern>
 <pattern>1o2bl1aj </pattern>
 <pattern>1o2bl1ajn </pattern>
 <pattern>1o2bl1ec</pattern>
@@ -389,14 +386,13 @@
 <pattern>1on2te </pattern>
 <pattern>1on2to </pattern>
 <pattern>1os </pattern>
-<pattern>ŝ1p</pattern>
 <pattern>1s2c2h</pattern>
 <pattern>1s2trek</pattern>
-<pattern>ŝ1t</pattern>
+<pattern>1ŝ2tejn</pattern>
 <pattern>1u2j1aj </pattern>
 <pattern>1u2j1ajn </pattern>
-<pattern>1u2j1iĝ</pattern>
 <pattern>1u2j1ig</pattern>
+<pattern>1u2j1iĝ</pattern>
 <pattern>1u2j1oj </pattern>
 <pattern>1u2j1ojn </pattern>
 <pattern>1u2j1on </pattern>
@@ -443,31 +439,24 @@
 <pattern>1u2mu </pattern>
 <pattern>1u2nuo</pattern>
 <pattern>1us </pattern>
-<pattern>ŝ1v</pattern>
-<pattern>2ĉ1ĝ2</pattern>
-<pattern>2ĉ1ŝ2</pattern>
-<pattern>2ŝ1ĉ2</pattern>
-<pattern>2ĝ1b2</pattern>
-<pattern>2ŝ1c2</pattern>
-<pattern>2ŝ1d2</pattern>
-<pattern>2ĉ1g2</pattern>
-<pattern>2ŝ1g2</pattern>
-<pattern>2ĥ1s2</pattern>
 <pattern>2a3a2</pattern>
 <pattern>2ao2</pattern>
 <pattern>2b1ŝ2</pattern>
 <pattern>2c1s2</pattern>
-<pattern>ĝ2e3m</pattern>
+<pattern>2ĉ1g2</pattern>
+<pattern>2ĉ1ĝ2</pattern>
+<pattern>2ĉ1ŝ2</pattern>
 <pattern>2e3o</pattern>
-<pattern>ĵ2e3t</pattern>
 <pattern>2eu2</pattern>
-<pattern>2f1ĵ</pattern>
 <pattern>2f1j2</pattern>
+<pattern>2f1ĵ</pattern>
 <pattern>2f1t</pattern>
 <pattern>2f3k</pattern>
 <pattern>2fik</pattern>
 <pattern>2g1d2</pattern>
 <pattern>2g1m</pattern>
+<pattern>2ĝ1b2</pattern>
+<pattern>2ĥ1s2</pattern>
 <pattern>2i4larb</pattern>
 <pattern>2ipov</pattern>
 <pattern>2j1s2</pattern>
@@ -485,24 +474,21 @@
 <pattern>2nk </pattern>
 <pattern>2ns </pattern>
 <pattern>2nt </pattern>
-<pattern>ŝ2nur</pattern>
 <pattern>2oplen</pattern>
 <pattern>2ou</pattern>
-<pattern>2p1ŝ2</pattern>
 <pattern>2p1f2</pattern>
 <pattern>2p1j2</pattern>
 <pattern>2p1k2</pattern>
 <pattern>2p1m2</pattern>
 <pattern>2p1p2</pattern>
 <pattern>2p1s2</pattern>
+<pattern>2p1ŝ2</pattern>
 <pattern>2p1t</pattern>
-<pattern>ŝ2p2ar</pattern>
-<pattern>ŝ2pin</pattern>
 <pattern>2r1ĉ</pattern>
+<pattern>2r1g</pattern>
 <pattern>2r1ĝ</pattern>
 <pattern>2r1ĵ</pattern>
 <pattern>2r1ŝ2</pattern>
-<pattern>2r1g</pattern>
 <pattern>2r1v</pattern>
 <pattern>2r1z</pattern>
 <pattern>2s1g2</pattern>
@@ -513,14 +499,15 @@
 <pattern>2spre</pattern>
 <pattern>2st </pattern>
 <pattern>2stf</pattern>
+<pattern>2ŝ1c2</pattern>
+<pattern>2ŝ1ĉ2</pattern>
+<pattern>2ŝ1d2</pattern>
+<pattern>2ŝ1g2</pattern>
 <pattern>2t1l2</pattern>
-<pattern>ŝ2t2a3t</pattern>
 <pattern>2u3l2ard</pattern>
 <pattern>2u3l2ari</pattern>
 <pattern>2v1j2</pattern>
 <pattern>2v1r2</pattern>
-<pattern>ŝ2veb</pattern>
-<pattern>ŝ2vel</pattern>
 <pattern>3a2c2i2d</pattern>
 <pattern>3a2mas</pattern>
 <pattern>3a2par2a3t</pattern>
@@ -556,99 +543,16 @@
 <pattern>3s2merald</pattern>
 <pattern>3s2tr2a2t</pattern>
 <pattern>3s2tu1d</pattern>
-<pattern>4ĉ1ĉ</pattern>
-<pattern>4ĉ1ĵ</pattern>
-<pattern>4ĝ1ĉ</pattern>
-<pattern>4ĝ1ĝ</pattern>
-<pattern>4ĝ1ĵ</pattern>
-<pattern>4ĝ1ŝ</pattern>
-<pattern>4ĥ1ĉ</pattern>
-<pattern>4ĥ1ĝ</pattern>
-<pattern>4ĥ1ĵ</pattern>
-<pattern>4ĥ1ŝ</pattern>
-<pattern>4ĵ1ĉ</pattern>
-<pattern>4ĵ1ĝ</pattern>
-<pattern>4ĵ1ĵ</pattern>
-<pattern>4ĵ1ŝ</pattern>
-<pattern>4ŝ1ĝ</pattern>
-<pattern>4ŝ1ĵ</pattern>
-<pattern>4ŭ1</pattern>
-<pattern>4ŝ1ŝ2</pattern>
-<pattern>4ĉ1b</pattern>
-<pattern>4ĥ1b</pattern>
-<pattern>4ĵ1b</pattern>
-<pattern>4ŝ1b</pattern>
-<pattern>4ĉ1c</pattern>
-<pattern>4ĝ1c</pattern>
-<pattern>4ĥ1c</pattern>
-<pattern>4ĵ1c</pattern>
-<pattern>4ĉ1d</pattern>
-<pattern>4ĝ1d</pattern>
-<pattern>4ĥ1d</pattern>
-<pattern>4ĵ1d</pattern>
-<pattern>4ĉ1f</pattern>
-<pattern>4ĝ1f</pattern>
-<pattern>4ĥ1f</pattern>
-<pattern>4ĵ1f</pattern>
-<pattern>4ŝ1f</pattern>
-<pattern>4ĝ1g</pattern>
-<pattern>4ĥ1g</pattern>
-<pattern>4ĵ1g</pattern>
-<pattern>4ĉ1h4</pattern>
-<pattern>4ĝ1h4</pattern>
-<pattern>4ĥ1h4</pattern>
-<pattern>4ĵ1h4</pattern>
-<pattern>4ŝ1h4</pattern>
-<pattern>4ĝ1j2</pattern>
-<pattern>4ĥ1j2</pattern>
-<pattern>4ĵ1j2</pattern>
-<pattern>4ĉ1k</pattern>
-<pattern>4ĝ1k</pattern>
-<pattern>4ĥ1k</pattern>
-<pattern>4ĵ1k</pattern>
-<pattern>4ŝ1k</pattern>
-<pattern>4ĝ1l</pattern>
-<pattern>4ĵ1l</pattern>
-<pattern>4ĉ1l2</pattern>
-<pattern>4ĉ1m</pattern>
-<pattern>4ĝ1m</pattern>
-<pattern>4ĥ1m</pattern>
-<pattern>4ĵ1m</pattern>
-<pattern>4ĉ1n</pattern>
-<pattern>4ĝ1n</pattern>
-<pattern>4ĥ1n</pattern>
-<pattern>4ĵ1n</pattern>
-<pattern>4ĉ1p</pattern>
-<pattern>4ĝ1p</pattern>
-<pattern>4ĥ1p</pattern>
-<pattern>4ĵ1p</pattern>
-<pattern>4ĉ1s</pattern>
-<pattern>4ĝ1s</pattern>
-<pattern>4ĵ1s</pattern>
-<pattern>4ŝ1s</pattern>
-<pattern>4ĉ1t</pattern>
-<pattern>4ĝ1t</pattern>
-<pattern>4ĥ1t</pattern>
-<pattern>4ĵ1t</pattern>
-<pattern>4ĉ1v</pattern>
-<pattern>4ĝ1v</pattern>
-<pattern>4ĥ1v</pattern>
-<pattern>4ĵ1v</pattern>
-<pattern>4ĉ1z</pattern>
-<pattern>4ĝ1z</pattern>
-<pattern>4ĥ1z</pattern>
-<pattern>4ĵ1z</pattern>
-<pattern>4ŝ1z</pattern>
-<pattern>4b1ĉ</pattern>
-<pattern>4b1ĝ</pattern>
-<pattern>4b1ĵ</pattern>
 <pattern>4b1b2</pattern>
 <pattern>4b1c</pattern>
+<pattern>4b1ĉ</pattern>
 <pattern>4b1d</pattern>
 <pattern>4b1f</pattern>
 <pattern>4b1g</pattern>
+<pattern>4b1ĝ</pattern>
 <pattern>4b1h4</pattern>
 <pattern>4b1j2</pattern>
+<pattern>4b1ĵ</pattern>
 <pattern>4b1k</pattern>
 <pattern>4b1m</pattern>
 <pattern>4b1n</pattern>
@@ -658,127 +562,200 @@
 <pattern>4b1t</pattern>
 <pattern>4b1v</pattern>
 <pattern>4b1z</pattern>
-<pattern>4c1ĉ</pattern>
-<pattern>4c1ĝ</pattern>
-<pattern>4c1ĵ</pattern>
-<pattern>4c1ŝ</pattern>
 <pattern>4c1b</pattern>
 <pattern>4c1c2</pattern>
+<pattern>4c1ĉ</pattern>
 <pattern>4c1d</pattern>
 <pattern>4c1f</pattern>
 <pattern>4c1g</pattern>
+<pattern>4c1ĝ</pattern>
 <pattern>4c1h4</pattern>
 <pattern>4c1j2</pattern>
+<pattern>4c1ĵ</pattern>
 <pattern>4c1k</pattern>
 <pattern>4c1l</pattern>
 <pattern>4c1m</pattern>
 <pattern>4c1n</pattern>
 <pattern>4c1p2</pattern>
 <pattern>4c1r</pattern>
+<pattern>4c1ŝ</pattern>
 <pattern>4c1t</pattern>
 <pattern>4c1v</pattern>
 <pattern>4c1z</pattern>
-<pattern>4d1ĉ</pattern>
-<pattern>4d1ĝ</pattern>
-<pattern>4d1ĵ</pattern>
-<pattern>4d1ŝ2</pattern>
+<pattern>4ĉ1b</pattern>
+<pattern>4ĉ1c</pattern>
+<pattern>4ĉ1ĉ</pattern>
+<pattern>4ĉ1d</pattern>
+<pattern>4ĉ1f</pattern>
+<pattern>4ĉ1h4</pattern>
+<pattern>4ĉ1ĵ</pattern>
+<pattern>4ĉ1k</pattern>
+<pattern>4ĉ1l2</pattern>
+<pattern>4ĉ1m</pattern>
+<pattern>4ĉ1n</pattern>
+<pattern>4ĉ1p</pattern>
+<pattern>4ĉ1s</pattern>
+<pattern>4ĉ1t</pattern>
+<pattern>4ĉ1v</pattern>
+<pattern>4ĉ1z</pattern>
 <pattern>4d1b</pattern>
 <pattern>4d1c</pattern>
+<pattern>4d1ĉ</pattern>
 <pattern>4d1d2</pattern>
 <pattern>4d1f</pattern>
 <pattern>4d1g</pattern>
+<pattern>4d1ĝ</pattern>
 <pattern>4d1h4</pattern>
 <pattern>4d1j2</pattern>
+<pattern>4d1ĵ</pattern>
 <pattern>4d1k</pattern>
 <pattern>4d1l4</pattern>
 <pattern>4d1m</pattern>
 <pattern>4d1n2</pattern>
 <pattern>4d1p</pattern>
+<pattern>4d1ŝ2</pattern>
 <pattern>4d1t</pattern>
 <pattern>4d1v</pattern>
 <pattern>4d3s2</pattern>
-<pattern>4f1ĉ</pattern>
-<pattern>4f1ĝ</pattern>
-<pattern>4f1ŝ4</pattern>
 <pattern>4f1b</pattern>
 <pattern>4f1c</pattern>
+<pattern>4f1ĉ</pattern>
 <pattern>4f1d</pattern>
 <pattern>4f1f2</pattern>
 <pattern>4f1g</pattern>
+<pattern>4f1ĝ</pattern>
 <pattern>4f1h4</pattern>
 <pattern>4f1m</pattern>
 <pattern>4f1n</pattern>
 <pattern>4f1p</pattern>
 <pattern>4f1s4</pattern>
+<pattern>4f1ŝ4</pattern>
 <pattern>4f1v</pattern>
 <pattern>4f1z</pattern>
-<pattern>4g1ĉ</pattern>
-<pattern>4g1ĝ</pattern>
-<pattern>4g1ĵ</pattern>
-<pattern>4g1ŝ</pattern>
 <pattern>4g1b</pattern>
 <pattern>4g1c</pattern>
+<pattern>4g1ĉ</pattern>
 <pattern>4g1f</pattern>
 <pattern>4g1g2</pattern>
+<pattern>4g1ĝ</pattern>
 <pattern>4g1h4</pattern>
 <pattern>4g1j2</pattern>
+<pattern>4g1ĵ</pattern>
 <pattern>4g1k</pattern>
 <pattern>4g1n</pattern>
 <pattern>4g1p</pattern>
 <pattern>4g1s</pattern>
+<pattern>4g1ŝ</pattern>
 <pattern>4g1t</pattern>
 <pattern>4g1z</pattern>
+<pattern>4ĝ1c</pattern>
+<pattern>4ĝ1ĉ</pattern>
+<pattern>4ĝ1d</pattern>
+<pattern>4ĝ1f</pattern>
+<pattern>4ĝ1g</pattern>
+<pattern>4ĝ1ĝ</pattern>
+<pattern>4ĝ1h4</pattern>
+<pattern>4ĝ1j2</pattern>
+<pattern>4ĝ1ĵ</pattern>
+<pattern>4ĝ1k</pattern>
+<pattern>4ĝ1l</pattern>
+<pattern>4ĝ1m</pattern>
+<pattern>4ĝ1n</pattern>
+<pattern>4ĝ1p</pattern>
+<pattern>4ĝ1s</pattern>
+<pattern>4ĝ1ŝ</pattern>
+<pattern>4ĝ1t</pattern>
+<pattern>4ĝ1v</pattern>
+<pattern>4ĝ1z</pattern>
 <pattern>4h1ĉ</pattern>
 <pattern>4h1ĝ</pattern>
 <pattern>4h1ĵ</pattern>
 <pattern>4h1ŝ</pattern>
-<pattern>4j1ĉ</pattern>
-<pattern>4j1ĝ</pattern>
-<pattern>4j1ĵ</pattern>
-<pattern>4j1ŝ</pattern>
+<pattern>4ĥ1b</pattern>
+<pattern>4ĥ1c</pattern>
+<pattern>4ĥ1ĉ</pattern>
+<pattern>4ĥ1d</pattern>
+<pattern>4ĥ1f</pattern>
+<pattern>4ĥ1g</pattern>
+<pattern>4ĥ1ĝ</pattern>
+<pattern>4ĥ1h4</pattern>
+<pattern>4ĥ1j2</pattern>
+<pattern>4ĥ1ĵ</pattern>
+<pattern>4ĥ1k</pattern>
+<pattern>4ĥ1m</pattern>
+<pattern>4ĥ1n</pattern>
+<pattern>4ĥ1p</pattern>
+<pattern>4ĥ1ŝ</pattern>
+<pattern>4ĥ1t</pattern>
+<pattern>4ĥ1v</pattern>
+<pattern>4ĥ1z</pattern>
 <pattern>4j1b</pattern>
 <pattern>4j1c</pattern>
+<pattern>4j1ĉ</pattern>
 <pattern>4j1d</pattern>
 <pattern>4j1f</pattern>
 <pattern>4j1g</pattern>
+<pattern>4j1ĝ</pattern>
 <pattern>4j1h4</pattern>
+<pattern>4j1ĵ</pattern>
 <pattern>4j1k</pattern>
 <pattern>4j1l</pattern>
 <pattern>4j1m</pattern>
 <pattern>4j1n</pattern>
 <pattern>4j1p</pattern>
 <pattern>4j1r</pattern>
+<pattern>4j1ŝ</pattern>
 <pattern>4j1t</pattern>
 <pattern>4j1v</pattern>
 <pattern>4j1z</pattern>
 <pattern>4j2s3t</pattern>
-<pattern>4k1ĉ</pattern>
-<pattern>4k1ĝ</pattern>
-<pattern>4k1ĵ</pattern>
-<pattern>4k1ŝ2</pattern>
+<pattern>4ĵ1b</pattern>
+<pattern>4ĵ1c</pattern>
+<pattern>4ĵ1ĉ</pattern>
+<pattern>4ĵ1d</pattern>
+<pattern>4ĵ1f</pattern>
+<pattern>4ĵ1g</pattern>
+<pattern>4ĵ1ĝ</pattern>
+<pattern>4ĵ1h4</pattern>
+<pattern>4ĵ1j2</pattern>
+<pattern>4ĵ1ĵ</pattern>
+<pattern>4ĵ1k</pattern>
+<pattern>4ĵ1l</pattern>
+<pattern>4ĵ1m</pattern>
+<pattern>4ĵ1n</pattern>
+<pattern>4ĵ1p</pattern>
+<pattern>4ĵ1s</pattern>
+<pattern>4ĵ1ŝ</pattern>
+<pattern>4ĵ1t</pattern>
+<pattern>4ĵ1v</pattern>
+<pattern>4ĵ1z</pattern>
 <pattern>4k1b2</pattern>
 <pattern>4k1c</pattern>
+<pattern>4k1ĉ</pattern>
 <pattern>4k1d</pattern>
 <pattern>4k1f</pattern>
 <pattern>4k1g</pattern>
+<pattern>4k1ĝ</pattern>
 <pattern>4k1h4</pattern>
 <pattern>4k1j2</pattern>
+<pattern>4k1ĵ</pattern>
 <pattern>4k1m</pattern>
 <pattern>4k1p</pattern>
 <pattern>4k1s</pattern>
+<pattern>4k1ŝ2</pattern>
 <pattern>4k1t</pattern>
 <pattern>4k1z</pattern>
 <pattern>4k3k2</pattern>
-<pattern>4l1ĉ</pattern>
-<pattern>4l1ĝ</pattern>
-<pattern>4l1ĵ</pattern>
 <pattern>4l1b</pattern>
 <pattern>4l1c</pattern>
+<pattern>4l1ĉ</pattern>
 <pattern>4l1d</pattern>
 <pattern>4l1f</pattern>
 <pattern>4l1g</pattern>
+<pattern>4l1ĝ</pattern>
 <pattern>4l1h4</pattern>
 <pattern>4l1j2</pattern>
+<pattern>4l1ĵ</pattern>
 <pattern>4l1k</pattern>
 <pattern>4l1l2</pattern>
 <pattern>4l1m</pattern>
@@ -790,43 +767,43 @@
 <pattern>4l1z</pattern>
 <pattern>4l3p</pattern>
 <pattern>4l5ŝ2</pattern>
-<pattern>4m1ĉ</pattern>
-<pattern>4m1ĝ</pattern>
-<pattern>4m1ĵ</pattern>
-<pattern>4m1ŝ</pattern>
 <pattern>4m1b</pattern>
 <pattern>4m1c</pattern>
+<pattern>4m1ĉ</pattern>
 <pattern>4m1d</pattern>
 <pattern>4m1g</pattern>
+<pattern>4m1ĝ</pattern>
 <pattern>4m1h4</pattern>
 <pattern>4m1j2</pattern>
+<pattern>4m1ĵ</pattern>
 <pattern>4m1l</pattern>
 <pattern>4m1n</pattern>
 <pattern>4m1p</pattern>
 <pattern>4m1r</pattern>
 <pattern>4m1s2</pattern>
+<pattern>4m1ŝ</pattern>
 <pattern>4m1t</pattern>
 <pattern>4m1v</pattern>
 <pattern>4m1z</pattern>
 <pattern>4m3e2rar</pattern>
 <pattern>4m3k</pattern>
 <pattern>4m3m2</pattern>
-<pattern>4n1ĉ</pattern>
-<pattern>4n1ĝ</pattern>
-<pattern>4n1ĵ</pattern>
-<pattern>4n1ŝ2</pattern>
 <pattern>4n1b</pattern>
 <pattern>4n1c</pattern>
+<pattern>4n1ĉ</pattern>
 <pattern>4n1d</pattern>
 <pattern>4n1f</pattern>
 <pattern>4n1g</pattern>
+<pattern>4n1ĝ</pattern>
 <pattern>4n1h4</pattern>
+<pattern>4n1ĵ</pattern>
 <pattern>4n1k</pattern>
 <pattern>4n1l2</pattern>
 <pattern>4n1n</pattern>
 <pattern>4n1p2</pattern>
 <pattern>4n1r</pattern>
 <pattern>4n1s2</pattern>
+<pattern>4n1ŝ2</pattern>
 <pattern>4n1t</pattern>
 <pattern>4n1v2</pattern>
 <pattern>4n1z</pattern>
@@ -834,14 +811,14 @@
 <pattern>4oĉambr</pattern>
 <pattern>4ografi</pattern>
 <pattern>4ologi</pattern>
-<pattern>4p1ĉ2</pattern>
-<pattern>4p1ĝ2</pattern>
-<pattern>4p1ĵ2</pattern>
 <pattern>4p1b2</pattern>
 <pattern>4p1c2</pattern>
+<pattern>4p1ĉ2</pattern>
 <pattern>4p1d2</pattern>
 <pattern>4p1g2</pattern>
+<pattern>4p1ĝ2</pattern>
 <pattern>4p1h4</pattern>
+<pattern>4p1ĵ2</pattern>
 <pattern>4p1v2</pattern>
 <pattern>4p1z2</pattern>
 <pattern>4r1b</pattern>
@@ -859,65 +836,74 @@
 <pattern>4r1s2</pattern>
 <pattern>4r1t</pattern>
 <pattern>4s1ĉ</pattern>
-<pattern>4s1ĝ</pattern>
-<pattern>4s1ĵ</pattern>
 <pattern>4s1d</pattern>
+<pattern>4s1ĝ</pattern>
 <pattern>4s1h4</pattern>
 <pattern>4s1j2</pattern>
+<pattern>4s1ĵ</pattern>
 <pattern>4s1n</pattern>
-<pattern>4s3ŝ2</pattern>
 <pattern>4s3b2</pattern>
 <pattern>4s3s2</pattern>
+<pattern>4s3ŝ2</pattern>
 <pattern>4st1n</pattern>
-<pattern>4t1ĉ</pattern>
-<pattern>4t1ĝ</pattern>
-<pattern>4t1ĵ</pattern>
-<pattern>4t1ŝ2</pattern>
+<pattern>4ŝ1b</pattern>
+<pattern>4ŝ1f</pattern>
+<pattern>4ŝ1ĝ</pattern>
+<pattern>4ŝ1h4</pattern>
+<pattern>4ŝ1ĵ</pattern>
+<pattern>4ŝ1k</pattern>
+<pattern>4ŝ1s</pattern>
+<pattern>4ŝ1ŝ2</pattern>
+<pattern>4ŝ1z</pattern>
 <pattern>4t1b</pattern>
 <pattern>4t1c</pattern>
+<pattern>4t1ĉ</pattern>
 <pattern>4t1d</pattern>
 <pattern>4t1f</pattern>
 <pattern>4t1g</pattern>
+<pattern>4t1ĝ</pattern>
 <pattern>4t1h4</pattern>
 <pattern>4t1j2</pattern>
+<pattern>4t1ĵ</pattern>
 <pattern>4t1k</pattern>
 <pattern>4t1m</pattern>
 <pattern>4t1n</pattern>
 <pattern>4t1p2</pattern>
+<pattern>4t1ŝ2</pattern>
 <pattern>4t1t</pattern>
 <pattern>4t1v</pattern>
 <pattern>4t1z</pattern>
 <pattern>4t3s2</pattern>
-<pattern>4v1ĉ</pattern>
-<pattern>4v1ĝ</pattern>
-<pattern>4v1ĵ</pattern>
-<pattern>4v1ŝ</pattern>
+<pattern>4ŭ1</pattern>
 <pattern>4v1c2</pattern>
+<pattern>4v1ĉ</pattern>
 <pattern>4v1d</pattern>
 <pattern>4v1f</pattern>
 <pattern>4v1g</pattern>
+<pattern>4v1ĝ</pattern>
 <pattern>4v1h4</pattern>
+<pattern>4v1ĵ</pattern>
 <pattern>4v1k2</pattern>
 <pattern>4v1l</pattern>
 <pattern>4v1m</pattern>
 <pattern>4v1n</pattern>
 <pattern>4v1p</pattern>
 <pattern>4v1s</pattern>
+<pattern>4v1ŝ</pattern>
 <pattern>4v1t</pattern>
 <pattern>4v1v</pattern>
 <pattern>4v1z</pattern>
 <pattern>4v3b2</pattern>
-<pattern>4z1ĉ</pattern>
-<pattern>4z1ĝ</pattern>
-<pattern>4z1ĵ</pattern>
-<pattern>4z1ŝ</pattern>
 <pattern>4z1b</pattern>
 <pattern>4z1c</pattern>
+<pattern>4z1ĉ</pattern>
 <pattern>4z1d</pattern>
 <pattern>4z1f4</pattern>
 <pattern>4z1g</pattern>
+<pattern>4z1ĝ</pattern>
 <pattern>4z1h4</pattern>
 <pattern>4z1j2</pattern>
+<pattern>4z1ĵ</pattern>
 <pattern>4z1k</pattern>
 <pattern>4z1l</pattern>
 <pattern>4z1m</pattern>
@@ -925,6 +911,7 @@
 <pattern>4z1p</pattern>
 <pattern>4z1r</pattern>
 <pattern>4z1s</pattern>
+<pattern>4z1ŝ</pattern>
 <pattern>4z1t</pattern>
 <pattern>4z1v</pattern>
 <pattern>5m2anier</pattern>
@@ -932,20 +919,18 @@
 <pattern>5s4led</pattern>
 <pattern>5s4mirg</pattern>
 <pattern>a1</pattern>
-<pattern>ŭa2</pattern>
-<pattern>a2ĉ2e3t</pattern>
 <pattern>a2b1r</pattern>
 <pattern>a2bu3t2i3l</pattern>
 <pattern>a2cet2i3l</pattern>
+<pattern>a2ĉ2e3t</pattern>
 <pattern>a2dek2v2a3t</pattern>
 <pattern>a2g1reg2a3t</pattern>
 <pattern>a2k1rob2a3t</pattern>
 <pattern>a2kur2a3t</pattern>
-<pattern>a2liĝ</pattern>
 <pattern>a2lie</pattern>
+<pattern>a2liĝ</pattern>
 <pattern>a2nali</pattern>
 <pattern>a2rom2a3t</pattern>
-<pattern> ĉa2s</pattern>
 <pattern>a2spekt</pattern>
 <pattern> ab2a3t</pattern>
 <pattern> ab2is3m</pattern>
@@ -962,7 +947,6 @@
 <pattern> aj2n1</pattern>
 <pattern> aj3n2u</pattern>
 <pattern>ak1red2i3t</pattern>
-<pattern> ĵak2e3t</pattern>
 <pattern> akr2i3d</pattern>
 <pattern> akum2u3l</pattern>
 <pattern>al2i3g2a3tor</pattern>
@@ -1056,10 +1040,10 @@
 <pattern> bon3e2du</pattern>
 <pattern> bon3ec</pattern>
 <pattern> bon3eg</pattern>
-<pattern> br2i3ĝ</pattern>
 <pattern> br2i3d</pattern>
 <pattern> br2i3g</pattern>
 <pattern>br2i3g2a3d</pattern>
+<pattern> br2i3ĝ</pattern>
 <pattern>br2i3l</pattern>
 <pattern> br2i3t</pattern>
 <pattern> br4</pattern>
@@ -1070,9 +1054,9 @@
 <pattern> brok2a3t</pattern>
 <pattern> brul3</pattern>
 <pattern> bu2ŝ</pattern>
-<pattern> buĝ2e3t</pattern>
 <pattern> bu3l</pattern>
 <pattern> bu3m</pattern>
+<pattern> buĝ2e3t</pattern>
 <pattern>bulg2a3r</pattern>
 <pattern>bur2g</pattern>
 <pattern>c2i3d</pattern>
@@ -1092,6 +1076,20 @@
 <pattern> cirkv2i3t</pattern>
 <pattern> civ2i3l</pattern>
 <pattern> civ2i3t</pattern>
+<pattern> ĉa2s</pattern>
+<pattern> ĉe2f1</pattern>
+<pattern>ĉi2e2l1</pattern>
+<pattern> ĉi4a3</pattern>
+<pattern> ĉi4e</pattern>
+<pattern> ĉi4o</pattern>
+<pattern> ĉi4u3</pattern>
+<pattern> ĉia4m1</pattern>
+<pattern> ĉie4s1</pattern>
+<pattern>ĉinĉ2i3l</pattern>
+<pattern> ĉio4m</pattern>
+<pattern>ĉio5manĝ</pattern>
+<pattern>ĉj2</pattern>
+<pattern>ĉokol2a3d</pattern>
 <pattern>d1z</pattern>
 <pattern> dakt2i3l</pattern>
 <pattern> dav2i3d</pattern>
@@ -1142,9 +1140,7 @@
 <pattern> du2on1</pattern>
 <pattern> duk2a3t</pattern>
 <pattern>e1</pattern>
-<pattern>ŭe2</pattern>
 <pattern>e2cig</pattern>
-<pattern> ĉe2f1</pattern>
 <pattern>e2sper</pattern>
 <pattern>e2st</pattern>
 <pattern>e3e4</pattern>
@@ -1177,7 +1173,6 @@
 <pattern>ek4s3kuz</pattern>
 <pattern> eka2m</pattern>
 <pattern> ekf4</pattern>
-<pattern>eŭkl2i3d</pattern>
 <pattern> ekma2l1</pattern>
 <pattern>eksplic2i3t</pattern>
 <pattern> ekste2r1</pattern>
@@ -1197,13 +1192,13 @@
 <pattern> en1e2st</pattern>
 <pattern> en1i2r</pattern>
 <pattern> enk2e3t</pattern>
-<pattern> ĝent2i3l</pattern>
 <pattern>epit2e3t</pattern>
 <pattern>er2a3r3</pattern>
 <pattern> erm2i3t</pattern>
 <pattern> erud2i3t</pattern>
 <pattern> et2a3t</pattern>
 <pattern> et2i3l</pattern>
+<pattern>eŭkl2i3d</pattern>
 <pattern> ev2i3t</pattern>
 <pattern>f2a3r</pattern>
 <pattern>f2ar3b</pattern>
@@ -1278,6 +1273,10 @@
 <pattern> grav2i3t</pattern>
 <pattern> gru3m</pattern>
 <pattern> gu3m</pattern>
+<pattern>ĝ2e3m</pattern>
+<pattern> ĝent2i3l</pattern>
+<pattern> ĝi2s1</pattern>
+<pattern> ĝi4a3</pattern>
 <pattern> halel2u3j</pattern>
 <pattern> haml2et</pattern>
 <pattern>har2a3kir</pattern>
@@ -1301,29 +1300,16 @@
 <pattern> hu3m</pattern>
 <pattern>hum2i3d</pattern>
 <pattern>hung2a3r</pattern>
+<pattern>ĥlam2i3d</pattern>
 <pattern>i1</pattern>
-<pattern>ŭi2</pattern>
-<pattern>ĉi2e2l1</pattern>
-<pattern>ŝi2p1</pattern>
 <pattern>i2r</pattern>
-<pattern> ĝi2s1</pattern>
 <pattern>i3rurg</pattern>
-<pattern> ĉi4a3</pattern>
-<pattern> ĝi4a3</pattern>
-<pattern> ŝi4a3</pattern>
-<pattern> ĉi4e</pattern>
-<pattern> ĉi4o</pattern>
-<pattern> ĉi4u3</pattern>
 <pattern>i4u3o</pattern>
-<pattern> ĉia4m1</pattern>
 <pattern>ias2</pattern>
-<pattern>ŝibol2e3t</pattern>
-<pattern> ĉie4s1</pattern>
 <pattern>ilu3zi</pattern>
 <pattern>im2i3t</pattern>
-<pattern>in2giĝ</pattern>
 <pattern>in2gig</pattern>
-<pattern>ĉinĉ2i3l</pattern>
+<pattern>in2giĝ</pattern>
 <pattern> in3d4i2g</pattern>
 <pattern>in3d4iĝen</pattern>
 <pattern> inc2i3t</pattern>
@@ -1347,12 +1333,9 @@
 <pattern> inv2i3t</pattern>
 <pattern>invent2a3r</pattern>
 <pattern> io2m1</pattern>
-<pattern> ĉio4m</pattern>
-<pattern>ĉio5manĝ</pattern>
 <pattern>is1la2m3</pattern>
 <pattern>iud2</pattern>
 <pattern>izob2a3r</pattern>
-<pattern>ĉj2</pattern>
 <pattern>j2ar</pattern>
 <pattern>j2u2n</pattern>
 <pattern> jac2in3t</pattern>
@@ -1360,6 +1343,9 @@
 <pattern> ju3l</pattern>
 <pattern> jub2i3l</pattern>
 <pattern>jug2u3l2a3r</pattern>
+<pattern>ĵ2e3t</pattern>
+<pattern> ĵak2e3t</pattern>
+<pattern> ĵu3l</pattern>
 <pattern>k1v</pattern>
 <pattern> k2a4n3t2i3n</pattern>
 <pattern>k2an3t</pattern>
@@ -1476,12 +1462,11 @@
 <pattern>l2e3g</pattern>
 <pattern>l2ig</pattern>
 <pattern>l4s3l</pattern>
+<pattern>labi3r2in3t</pattern>
+<pattern>lap2i3d2a3r</pattern>
 <pattern>laŭ2d2a3t</pattern>
 <pattern>laŭ2dind</pattern>
 <pattern>laŭ2t1le4g</pattern>
-<pattern>labi3r2in3t</pattern>
-<pattern>ĥlam2i3d</pattern>
-<pattern>lap2i3d2a3r</pattern>
 <pattern>le2ĝ</pattern>
 <pattern> le3m</pattern>
 <pattern>leŭten2an3t</pattern>
@@ -1502,7 +1487,6 @@
 <pattern> lu3l</pattern>
 <pattern> lu3m</pattern>
 <pattern> luk2u3m</pattern>
-<pattern> ŝm2</pattern>
 <pattern>m2et</pattern>
 <pattern>m2i3l</pattern>
 <pattern>m4f3k</pattern>
@@ -1531,7 +1515,6 @@
 <pattern>mastod2on3t</pattern>
 <pattern>matrik2u3l</pattern>
 <pattern>mb2l2</pattern>
-<pattern>meĥ2a3n2is3m</pattern>
 <pattern> me2m1</pattern>
 <pattern> me2z1</pattern>
 <pattern> me3b1l</pattern>
@@ -1544,6 +1527,7 @@
 <pattern> mecen2a3t</pattern>
 <pattern> med2i3t</pattern>
 <pattern>megal2i3t</pattern>
+<pattern>meĥ2a3n2is3m</pattern>
 <pattern>mek2a3n2is3m</pattern>
 <pattern> melol2on3t</pattern>
 <pattern> mem3a2</pattern>
@@ -1555,8 +1539,8 @@
 <pattern> mi3t</pattern>
 <pattern> mi4a3</pattern>
 <pattern> mi4s3</pattern>
-<pattern>mi5aŭ</pattern>
 <pattern>mi5asm</pattern>
+<pattern>mi5aŭ</pattern>
 <pattern> mi5s4al</pattern>
 <pattern> mi5s4ia</pattern>
 <pattern> mi5s4ie</pattern>
@@ -1615,7 +1599,6 @@
 <pattern> nu3l</pattern>
 <pattern> num2i3d</pattern>
 <pattern>o1</pattern>
-<pattern>ŭo2</pattern>
 <pattern>o2fic</pattern>
 <pattern>o3e</pattern>
 <pattern>oa2</pattern>
@@ -1626,7 +1609,6 @@
 <pattern> ok3o2p</pattern>
 <pattern> okciden2t1</pattern>
 <pattern>okcip2i3t</pattern>
-<pattern>ĉokol2a3d</pattern>
 <pattern>okr2a3t</pattern>
 <pattern>oks2i3d</pattern>
 <pattern> okt2an3t</pattern>
@@ -1647,14 +1629,13 @@
 <pattern> ort2o3rel</pattern>
 <pattern>p1n2</pattern>
 <pattern>p2a3per</pattern>
-<pattern>ŝp2at</pattern>
 <pattern>p2e3c</pattern>
 <pattern>p2et</pattern>
 <pattern>p2i3t4eci</pattern>
-<pattern> pa2ŝ</pattern>
 <pattern> pa2s</pattern>
-<pattern> paĉ2u3l</pattern>
+<pattern> pa2ŝ</pattern>
 <pattern>pa3ser</pattern>
+<pattern> paĉ2u3l</pattern>
 <pattern> pal2a3t</pattern>
 <pattern> pal2e3str</pattern>
 <pattern>palp2i3t</pattern>
@@ -1692,16 +1673,13 @@
 <pattern>plu2m1in2g</pattern>
 <pattern> plu2r1</pattern>
 <pattern> plu3m</pattern>
-<pattern> po2ŝ</pattern>
-<pattern> po2ŝ2t1</pattern>
 <pattern> po2e3m</pattern>
 <pattern> po2e3t</pattern>
 <pattern>po2marb</pattern>
 <pattern> po2r</pattern>
 <pattern> po2s2t1</pattern>
-<pattern>poŝ3t2ele</pattern>
-<pattern>poŝ3t2ranĉ</pattern>
-<pattern>poŝ3t2uk</pattern>
+<pattern> po2ŝ</pattern>
+<pattern> po2ŝ2t1</pattern>
 <pattern> pol2a3r</pattern>
 <pattern> pom2a3d</pattern>
 <pattern> pon3t</pattern>
@@ -1712,6 +1690,9 @@
 <pattern>pos3t2iljon</pattern>
 <pattern>pos3t2u3l</pattern>
 <pattern>post2esign</pattern>
+<pattern>poŝ3t2ele</pattern>
+<pattern>poŝ3t2ranĉ</pattern>
+<pattern>poŝ3t2uk</pattern>
 <pattern>pr2e3m</pattern>
 <pattern>pr2et</pattern>
 <pattern> pr2is3m</pattern>
@@ -1761,8 +1742,8 @@
 <pattern> rak2e3t</pattern>
 <pattern> rak2on3t</pattern>
 <pattern>rap2i3d</pattern>
-<pattern> re2ĝ</pattern>
 <pattern> re2f3l2ig</pattern>
+<pattern> re2ĝ</pattern>
 <pattern> re2sp </pattern>
 <pattern> re2spond</pattern>
 <pattern> re2spublik</pattern>
@@ -1895,12 +1876,12 @@
 <pattern> stra3t2e3g</pattern>
 <pattern>strob2i3l</pattern>
 <pattern>strof2a4n3t2</pattern>
-<pattern> su2ĉ3i2nf</pattern>
 <pattern> su2b1</pattern>
-<pattern> su2d1aŭ</pattern>
+<pattern> su2ĉ3i2nf</pattern>
 <pattern> su2d1a2f</pattern>
 <pattern> su2d1a2m</pattern>
 <pattern> su2d1a2zi</pattern>
+<pattern> su2d1aŭ</pattern>
 <pattern> su2d1eŭr</pattern>
 <pattern> su2d1r</pattern>
 <pattern> su3b2i3t</pattern>
@@ -1911,6 +1892,24 @@
 <pattern>surog2a3t</pattern>
 <pattern> sv4</pattern>
 <pattern>svah2i3l</pattern>
+<pattern>ŝ1m</pattern>
+<pattern>ŝ1n</pattern>
+<pattern>ŝ1p</pattern>
+<pattern>ŝ1t</pattern>
+<pattern>ŝ1v</pattern>
+<pattern>ŝ2nur</pattern>
+<pattern>ŝ2p2ar</pattern>
+<pattern>ŝ2pin</pattern>
+<pattern>ŝ2t2a3t</pattern>
+<pattern>ŝ2veb</pattern>
+<pattern>ŝ2vel</pattern>
+<pattern>ŝi2p1</pattern>
+<pattern> ŝi4a3</pattern>
+<pattern>ŝibol2e3t</pattern>
+<pattern> ŝm2</pattern>
+<pattern>ŝp2at</pattern>
+<pattern> ŝte2l1</pattern>
+<pattern>ŝv2i3t</pattern>
 <pattern>t2e3m</pattern>
 <pattern>t2zg</pattern>
 <pattern>t2zs</pattern>
@@ -1923,7 +1922,6 @@
 <pattern> tand2e3m</pattern>
 <pattern>tarant2u3l</pattern>
 <pattern>tat2a3r</pattern>
-<pattern> ŝte2l1</pattern>
 <pattern>te4or2em</pattern>
 <pattern>telev2i3d</pattern>
 <pattern>tereb2in3t</pattern>
@@ -1964,11 +1962,9 @@
 <pattern>tuberk2u3l</pattern>
 <pattern>turb2u3l</pattern>
 <pattern>u1</pattern>
-<pattern>ŭu2</pattern>
 <pattern>u2e3nask</pattern>
 <pattern>u2t2i3l</pattern>
 <pattern>u2z</pattern>
-<pattern> ĵu3l</pattern>
 <pattern> ul2u3l</pattern>
 <pattern>ultim2a3t</pattern>
 <pattern>universit2a3t</pattern>
@@ -1976,10 +1972,14 @@
 <pattern>unu3a2nim</pattern>
 <pattern>uo2</pattern>
 <pattern> uv2u3l</pattern>
+<pattern>ŭa2</pattern>
+<pattern>ŭe2</pattern>
+<pattern>ŭi2</pattern>
+<pattern>ŭo2</pattern>
+<pattern>ŭu2</pattern>
 <pattern>uzulinterfaco</pattern>
 <pattern>v2a3r</pattern>
 <pattern>v2i3d</pattern>
-<pattern>ŝv2i3t</pattern>
 <pattern>val2i3d</pattern>
 <pattern> van2i3l</pattern>
 <pattern>var2m3</pattern>
@@ -1988,9 +1988,9 @@
 <pattern> vel2a3r</pattern>
 <pattern> vend2e3t</pattern>
 <pattern> vert2i3ĝ</pattern>
-<pattern> vi2ŝ</pattern>
 <pattern> vi2c1</pattern>
 <pattern> vi2r1</pattern>
+<pattern> vi2ŝ</pattern>
 <pattern> vi2v1</pattern>
 <pattern> vi3c2ia</pattern>
 <pattern> vi3c2io</pattern>
@@ -2005,6 +2005,7 @@
 <pattern>vinj2et</pattern>
 <pattern>vir2g</pattern>
 <pattern>vir2us</pattern>
+<pattern>vir3genr</pattern>
 <pattern>viz2i3t</pattern>
 <pattern>viza2ĝ1</pattern>
 <pattern> vo2j1</pattern>
@@ -2019,7 +2020,7 @@
 <pattern>vort2op</pattern>
 <pattern>vulg2a3r</pattern>
 <pattern>vulg2a3t</pattern>
-<pattern>warin5g2hi2en</pattern>
+<pattern> warin5g2hi2en</pattern>
 <pattern>zen2i3t</pattern>
 <pattern>zo2o</pattern>
 <pattern>zor2g</pattern>

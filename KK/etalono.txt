@@ -272,7 +272,7 @@ amatore	ama-to-re
 amatoreco	ama-to-r-eco
 amatoro	ama-to-ro
 amatoroj	ama-to-r-oj
-ambasado	am-ba-s-ado
+ambasado	am-ba-sa-do
 ambasadoro	am-ba-sa-do-ro
 ambaŭ	am-baŭ
 amdeklaro	am-de-kla-ro
@@ -395,7 +395,7 @@ aperos	ape-r-os
 aperturo	aper-tu-ro
 aperus	ape-r-us
 apetito	ape-ti-to
-aplaŭdado	aplaŭ-d-ado
+aplaŭdadojn	aplaŭ-d-ad-ojn
 aplaŭdi	aplaŭ-di
 apliki	apli-ki
 apliko	apli-ko
@@ -607,6 +607,7 @@ azilo	azi-lo
 azio	azio
 azotacido	azo-t-aci-do
 azoto	azo-to
+babiladajn	ba-bi-l-ad-ajn
 babiladis	ba-bi-l-ad-is
 babilado	ba-bi-l-ado
 babilema	ba-bi-l-ema
@@ -3273,6 +3274,7 @@ informiĝi	in-for-m-iĝi
 informita	in-for-m-ita
 informoj	in-for-m-oj
 ingigo	ing-igo
+ingenro	in-gen-ro
 inĝeniero	in-ĝe-ni-e-ro
 inica	ini-ca
 iniciati	ini-ci-a-ti
@@ -7712,7 +7714,7 @@ sinonimo	sino-ni-mo
 sinoptika	sinop-ti-ka
 sinpelado	sin-pe-l-ado
 sinprezento	sin-pre-zen-to
-sinregada	sin-re-g-ada
+sinregadajn	sin-re-g-ad-ajn
 sinsekva	sin-se-k-va
 sinsekve	sin-se-k-ve
 sinsekvon	sin-se-k-v-on
@@ -9013,7 +9015,7 @@ vipuro	vi-pu-ro
 viran	vir-an
 vireco	vir-eco
 virga	virga
-virgenro	virgen-ro
+virgenro	vir-gen-ro
 virgulino	virg-ul-ino
 virinan	vir-i-n-an
 virineco	vir-i-n-eco

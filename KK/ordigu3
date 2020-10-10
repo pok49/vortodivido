@@ -1,8 +1,9 @@
 #!/bin/bash
 cp $1 $1.bak || exit 1
-declare lok=`locale -a | grep '^eo\>.*\.utf8'`
-if [ -n $lok ]; then
-# lok=eo.utf8
+# declare lok=`locale -a | grep '^eo\>.*\.utf8'`
+# if [ -n $lok ]; then
+# `sort is broken for lok=eo.utf8
+if false; then
     export LC_ALL=$lok
     export LC_COLLATE=$lok
     export LC_CTYPE=$lok

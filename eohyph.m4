@@ -1,10 +1,10 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-10-02 11:23:26 sergio>
+% Time-stamp: <2020-10-09 22:14:45 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
-% 
+%
 % This program can be redistributed and/or modified under the terms of
 % GPL 2.0 or the LaTeX Project Public License Distributed from CTAN
 % archives in directory macros/latex/base/lppl.txt; either version 1
@@ -42,8 +42,8 @@ ea2 e3e4 2eu2 % poste-ulo
 oa2 o3e oi2 % so-ifo
 % a3i e3i i3i o3i u3i
 % a3o
-2e3o % mal+e-olo 
-% i3o o3o u3o 
+2e3o % mal+e-olo
+% i3o o3o u3o
 % a3u e3u i3u o3u u3u
 e2sper
 %iu2 .iu3 % iuo2 % æiuokaze
@@ -54,7 +54,7 @@ uo2 % duopo, duobla
 %
 % .bl4
 .br4 .gl4 .gr4 .kl4 .kr4 .kv4 .pl4
-% .gn4 .kn4 
+% .gn4 .kn4
 % .dr4 .dl4
 .fl4
 % .fr4
@@ -67,7 +67,7 @@ uo2 % duopo, duobla
 nom(1a2æ)
 % AD:
 nom(1a2d) ver(1a2d)
-.avok2a3d .bal2a3d cik2a3d æokol2a3d fas2a3d gr2a3d
+ambas2a3d .avok2a3d .bal2a3d cik2a3d æokol2a3d fas2a3d gr2a3d
 inv2a3d kamar2a3d .kan2a3d limon2a3d
 persv2a3d pl2aæ .pom2a3d seren2a3d
 % AJN-:
@@ -124,7 +124,7 @@ k2v2a4r1 kvatern2a3r
 lap2i3d2a3r .mol2a3r najb4a1r .om2a3r partik2u3l2a3r
 .pol2a3r pop2u3l2a3r prep2a3r prim2a3r
 rad2a3r remp2a3r rip2a3r v2a3r % a2v2a3r
-kla2v3a4r 
+kla2v3a4r
 sanit2a3r sek2u3l2a3r sekund2a3r sing2u3l2ar skal2a3r s2t2a3r % gardos-t-aro
 þ2p2ar sol2i3d2a3r tal2a3r tat2a3r
 .vel2a3r vulg2a3r
@@ -341,7 +341,7 @@ tereb2in3t
 % INTER-
 1inte2r1
 inte3r2es inte3r2ez inte3r2upt
-2linter # uzulinterfaco
+2linter % uzulinterfaco
 % nom(.inte3r) ver(.inte3r) .inte3ren.
 %
 .io2m1 %iomete
@@ -482,7 +482,7 @@ pos3t2ament pos3t2e2n post2esign pos3t2iljon pos3t2u3l
 sa3m2ar .sa3m2u3m sa3m2uraj sa2m1ur2b
 % SEN-
 .se2n1 .sen3s4t % sen-streæa
-sen2e2skal  
+sen2e2skal
 % SIA-
 .si4a3
 % SIN-
@@ -528,7 +528,7 @@ reg2u2l1 retik2u3l .ruk2u3l .sim2u3l skrup2u3l somnamb2u3l speg2u3l
 .spek2u3l .stim2u3l .tab2u3l tarant2u3l .tru3l tuberk2u3l
 turb2u3l .ul2u3l .uv2u3l .vi4st2ul
 %
-1u2l1ar 2u3l2ari 2u3l2ard .pedik2u3l2ar 
+1u2l1ar 2u3l2ari 2u3l2ard .pedik2u3l2ar
 % UM:
 nom(1u2m) ver(1u2m) 1u2m3ec
 .alb2u3m .bu3m .opid2u3m referend2u3m .fu3m parf2u3m .gu3m
@@ -544,7 +544,7 @@ vi5a4nd vi5atik
 .vi3c2ia .vi3c2io
 % VIR-
 .vi2r1
-vir2g  vir2us vi3r2ulent
+vir2g vir3genr  vir2us vi3r2ulent
 % ===
 1a2fabl 1a2gra
 1a2kr .an2a3k % an#akronismo
@@ -624,7 +624,7 @@ n2s3t2r % PAG
 4p1ø2 4p1¼2 2p1þ2
 %
 4r1b 4r1c 4r1d r2d1r 4r1f
-2r1g zor2g bur2g 
+2r1g zor2g bur2g
 4r1h4 4r1j2 4r1k 4r1l2
 4r1m 4r1n 4r1p 4r1r4
 4r1s2 r2s3f % dorsflanke, versfarado
@@ -717,7 +717,7 @@ sek2s1eksc .unu2a unu3a2nim u2e3nask % unuataga, unuenaskito
 se2kvinber skra2p1 skva2m1
 ta2g1l2
 tolst2oj.
-%.un2u 
+%.un2u
 1u2nuo j2u2n % kom2un
 u2z ku3z mu3z ilu3zi klu3z kru3z % elu#zi
 lin2g2v1uz vor2t1uz
@@ -730,7 +730,7 @@ ifdef({RAR}, {3s2lofoks 3s2lojd 3s2malt 3s2milak .ri3g .ri3t .ru3m .tu3l mar2þ1j
 .or5t2ho % orthodox
 1s2c2h % la germana "sch"
 .kalo3c2say
-warin5g2hi2en
+.warin5g2hi2en
 %%%%%%%%%% Pattern end
 
 % Version history
