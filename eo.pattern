@@ -4,10 +4,10 @@
 % File name: eo.pattern
 % Unicode hyphenation patterns for Esperanto.
 %
-% Time-stamp: <2020-10-08 18:41:29 sergio>
+% Time-stamp: <2020-10-11 15:08:25 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
-% 
+%
 % This program can be redistributed and/or modified under the terms of
 % GPL 2.0 or the LaTeX Project Public License Distributed from CTAN
 % archives in directory macros/latex/base/lppl.txt; either version 1
@@ -69,7 +69,6 @@
 <pattern>1a2ra </pattern>
 <pattern>1a2re </pattern>
 <pattern>1a2rig</pattern>
-<pattern>1a2riĝ</pattern>
 <pattern>1a2ro </pattern>
 <pattern>1a2t1aj </pattern>
 <pattern>1a2t1ajn </pattern>
@@ -92,17 +91,9 @@
 <pattern>1an1te </pattern>
 <pattern>1an1to </pattern>
 <pattern>1an2t1ec</pattern>
-<pattern>1an2t1i2n1aj </pattern>
-<pattern>1an2t1i2n1ajn </pattern>
-<pattern>1an2t1i2n1oj </pattern>
-<pattern>1an2t1i2n1ojn </pattern>
-<pattern>1an2t1i2n1on </pattern>
-<pattern>1an2t1i2n3an </pattern>
-<pattern>1an2t1i2na </pattern>
-<pattern>1an2t1i2ne </pattern>
-<pattern>1an2t1i2no </pattern>
 <pattern>1an2t1ig</pattern>
 <pattern>1as </pattern>
+<pattern>1av2i3d</pattern>
 <pattern>1e2ben</pattern>
 <pattern>1e2bl1aj </pattern>
 <pattern>1e2bl1ajn </pattern>
@@ -208,15 +199,6 @@
 <pattern>1ek2s3c4i3t</pattern>
 <pattern>1i2d1aj </pattern>
 <pattern>1i2d1ajn </pattern>
-<pattern>1i2d1ar1aj </pattern>
-<pattern>1i2d1ar1ajn </pattern>
-<pattern>1i2d1ar1oj </pattern>
-<pattern>1i2d1ar1ojn </pattern>
-<pattern>1i2d1ar1on </pattern>
-<pattern>1i2d1ar3an </pattern>
-<pattern>1i2d1ara </pattern>
-<pattern>1i2d1are </pattern>
-<pattern>1i2d1aro </pattern>
 <pattern>1i2d1i2n1aj </pattern>
 <pattern>1i2d1i2n1ajn </pattern>
 <pattern>1i2d1i2n1oj </pattern>
@@ -936,7 +918,6 @@
 <pattern> ab2is3m</pattern>
 <pattern> abs2i3d</pattern>
 <pattern> abs2in3t</pattern>
-<pattern>adam2a4n3t2i3n</pattern>
 <pattern>adiab2a3t</pattern>
 <pattern>adjut2an3t</pattern>
 <pattern>advok2a3t</pattern>
@@ -946,8 +927,8 @@
 <pattern> ag2i3t</pattern>
 <pattern> aj2n1</pattern>
 <pattern> aj3n2u</pattern>
+<pattern> ak1r2i3d</pattern>
 <pattern>ak1red2i3t</pattern>
-<pattern> akr2i3d</pattern>
 <pattern> akum2u3l</pattern>
 <pattern>al2i3g2a3tor</pattern>
 <pattern> al2t</pattern>
@@ -960,6 +941,7 @@
 <pattern>alop2a3t</pattern>
 <pattern>alum2e3t</pattern>
 <pattern>am2a3r</pattern>
+<pattern>ambas2a3d</pattern>
 <pattern> amet2i3s3t</pattern>
 <pattern>amul2e3t</pattern>
 <pattern> an2a3k</pattern>
@@ -986,7 +968,6 @@
 <pattern> at1l2an3t</pattern>
 <pattern> at1l2e3t</pattern>
 <pattern>aŭtorit2a3t</pattern>
-<pattern> av2i3d</pattern>
 <pattern> avok2a3d</pattern>
 <pattern> az2i3l</pattern>
 <pattern>b1l</pattern>
@@ -1050,7 +1031,6 @@
 <pattern>bracel2e3t</pattern>
 <pattern> braz2i3l</pattern>
 <pattern>brev2e3t</pattern>
-<pattern>brig2a4n3t2i3n</pattern>
 <pattern> brok2a3t</pattern>
 <pattern> brul3</pattern>
 <pattern> bu2ŝ</pattern>
@@ -1246,7 +1226,6 @@
 <pattern> fu3m</pattern>
 <pattern> fus2i3l</pattern>
 <pattern>g1v</pattern>
-<pattern>gal2a4n3t2i3n</pattern>
 <pattern> gal2an3t</pattern>
 <pattern>galin2u3l</pattern>
 <pattern>garg2a3r</pattern>
@@ -1347,7 +1326,6 @@
 <pattern> ĵak2e3t</pattern>
 <pattern> ĵu3l</pattern>
 <pattern>k1v</pattern>
-<pattern> k2a4n3t2i3n</pattern>
 <pattern>k2an3t</pattern>
 <pattern>k2ar3b</pattern>
 <pattern>k2n2ar3</pattern>
@@ -1763,6 +1741,7 @@
 <pattern>rez2i3d</pattern>
 <pattern> rez2i3s3t</pattern>
 <pattern>rezult2a3t</pattern>
+<pattern>ri2ĉ</pattern>
 <pattern>rig2i3d</pattern>
 <pattern>ril2a3t</pattern>
 <pattern>rip2a3r</pattern>
@@ -1779,6 +1758,7 @@
 <pattern>s1t</pattern>
 <pattern>s1v</pattern>
 <pattern>s2ci</pattern>
+<pattern>s2e3m</pattern>
 <pattern>s2krib</pattern>
 <pattern>s2p2e3c</pattern>
 <pattern>s2t2a3r</pattern>
@@ -1875,7 +1855,6 @@
 <pattern> str4</pattern>
 <pattern> stra3t2e3g</pattern>
 <pattern>strob2i3l</pattern>
-<pattern>strof2a4n3t2</pattern>
 <pattern> su2b1</pattern>
 <pattern> su2ĉ3i2nf</pattern>
 <pattern> su2d1a2f</pattern>
@@ -1977,7 +1956,6 @@
 <pattern>ŭi2</pattern>
 <pattern>ŭo2</pattern>
 <pattern>ŭu2</pattern>
-<pattern>uzulinterfaco</pattern>
 <pattern>v2a3r</pattern>
 <pattern>v2i3d</pattern>
 <pattern>val2i3d</pattern>

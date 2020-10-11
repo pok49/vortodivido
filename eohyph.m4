@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-10-09 22:14:45 sergio>
+% Time-stamp: <2020-10-11 15:08:25 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -112,7 +112,7 @@ leýten2an3t mom2ant .okt2an3t
 % APUD:
 .apu2d1
 % AR:
-nom(1a2r) 1a2rig 1a2riø
+nom(1a2r) 1a2rig % 1a2riø
 am2a3r barb2a3r3 baz2a3r3 biz2a3r bulg2a3r .cez2a3r .ci3d2a3r cig2a3r
 din2a3r dr2a3t dol2a3r er2a3r3 f2a3r % bonfARO, fanfaro
 j2ar % kvinjara, dujara bojaro
@@ -204,7 +204,7 @@ nom(1e2m) ver(1e2m) 1e2m1ec
 blasf2e3m .boh2e3m diad2e3m .dil2e3m .ed2e3m
 embl2e3m emfiz2e3m .ekz2e3m fon2e3m graf2e3m ø2e3m 1i2ø3e4m .har2e3m jerusal2e3m
 .le3m morf2e3m .po2e3m pr2e3m % .alpr2e3m .ekpr2e3m
-prob1l2e4m3 .sk2e3m t2e3m % .anat2e3m .tot2e3m krizant2em
+prob1l2e4m3 .sk2e3m s2e3m t2e3m % .anat2e3m .tot2e3m krizant2em
 .tand2e3m te4or2em tr2e3m % .ektr2e3m ekstr2e3m sist2e3m
 % EN-
 .en1i2r .en1e2st
@@ -253,7 +253,7 @@ fen2e3st3r or1k2e3str .pal2e3str
 % ID:
 nom(1i2d)
 .abs2i3d 3a2c2i2d st4a3c2i3 % sulfurACIDO, sed STACIdomo
-.akr2i3d .aps2i3d .ar2i3d .askar2i3d .asp2i3d .av2i3d
+.ak1r2i3d .aps2i3d .ar2i3d .askar2i3d .asp2i3d 1av2i3d
 .bol2i3d .br2i3d c2i3d  % + .muc2i3d .luc2i3d genoc2i3d koinc2i3d .inc2i3d .dec2i3d
 .dav2i3d div2i3d eýkl2i3d
 .eg2i3d .flor2i3d .fr2i3d
@@ -268,7 +268,8 @@ rap2i3d rez2i3d rig2i3d % frig2i3d; .si3d
 sol2i3d .str2i3d telev2i3d tim2i3d
 val2i3d % inval2i3d
 %
-nom(1i2d1ar)  nom(1i2d1i2n) % .pir2i3d2in
+% nom(1i2d1ar)
+nom(1i2d1i2n) % .pir2i3d2in
 % IG:
 nom(1i2g) ver(1i2g)
 .br2i3g .di3g .fi3g .in3d4i2g % ind-igo <> in-digo
@@ -314,11 +315,11 @@ nom(1i2s2t1i2n)
 % ul-in:
 nom(1u2l1i2n)
 ins2ul2i3n
-% ant-in:
-nom(1an2t1i2n)
-adam2a4n3t2i3n % a4n3t2i3nom
-brig2a4n3t2i3n gal2a4n3t2i3n .k2a4n3t2i3n
-strof2a4n3t2
+% % ant-in:
+% nom(1an2t1i2n)
+% adam2a4n3t2i3n % a4n3t2i3nom
+% brig2a4n3t2i3n gal2a4n3t2i3n .k2a4n3t2i3n
+% strof2a4n3t2
 % IND:
 adj(1in2d) ver(1in2d) 1in2do. 1in2don. 1in2d3ec 1in2d3ig 1in2d3iø
 .bin3d .hin3d .lin3d rozal4in3d .bl4in3d .pin3d tamar4in3d % .þin3d
@@ -705,6 +706,7 @@ paro2l3 % ??
 .pa2s pa3ser
 .pu2þ
 .re2ø re3øim re3øust
+ri2æ
 .sen2t2em sent3emo
 sinjo2r3
 .su2æ3i2nf % su#æinfano

@@ -1,0 +1,36 @@
+#!/bin/bash
+#
+# Provu REDukti la sxablonaron
+
+VDIR=~/Git/vortodivido
+RED=$VDIR/KK/redukto
+
+#set -x
+export LC_ALL=C
+cd $VDIR/KK
+pwd
+./tst || exit 1
+echo "Vortodivido estas en kohera stato"
+cd $RED
+pwd
+rm -f r.l3 r0.l3 h.l3.tex h0.l3 /tmp/e1.l3
+./mk-nums
+
+declare -i i=`cat h0.l3|wc -l`
+i=200
+echo "Longo $i"
+
+#while let --i; [ $i -gt 1 ]; do
+while let --i; [ $i -gt 19 ]; do
+    p=`sed -n ${i}p h0.l3`
+    sed ${i}d h1.l3 > h.l3.tex
+    echo "$i: $p"
+    ./test_eo.pl ../testvortoj.l3 > /tmp/e1.l3
+    test -s /tmp/e1.l3 || exit 7
+    diff -q ../etalono.l3 /tmp/e1.l3 && echo "$p" >> r.l3
+    unset p
+done
+if test -e r.l3; then
+    sed 's/[1-9]//g' r.l3 > r0.l3
+    paste r.l3 r0.l3 > r2.l3
+fi

@@ -54,7 +54,6 @@ UTF-8
 1a2ra.
 1a2re.
 1a2rig
-1a2riĝ
 1a2ro.
 1a2t1aj.
 1a2t1ajn.
@@ -77,17 +76,9 @@ UTF-8
 1an1te.
 1an1to.
 1an2t1ec
-1an2t1i2n1aj.
-1an2t1i2n1ajn.
-1an2t1i2n1oj.
-1an2t1i2n1ojn.
-1an2t1i2n1on.
-1an2t1i2n3an.
-1an2t1i2na.
-1an2t1i2ne.
-1an2t1i2no.
 1an2t1ig
 1as.
+1av2i3d
 1e2ben
 1e2bl1aj.
 1e2bl1ajn.
@@ -193,15 +184,6 @@ UTF-8
 1ek2s3c4i3t
 1i2d1aj.
 1i2d1ajn.
-1i2d1ar1aj.
-1i2d1ar1ajn.
-1i2d1ar1oj.
-1i2d1ar1ojn.
-1i2d1ar1on.
-1i2d1ar3an.
-1i2d1ara.
-1i2d1are.
-1i2d1aro.
 1i2d1i2n1aj.
 1i2d1i2n1ajn.
 1i2d1i2n1oj.
@@ -921,7 +903,6 @@ a2spekt
 .ab2is3m
 .abs2i3d
 .abs2in3t
-adam2a4n3t2i3n
 adiab2a3t
 adjut2an3t
 advok2a3t
@@ -931,8 +912,8 @@ afrik2a3t
 .ag2i3t
 .aj2n1
 .aj3n2u
+.ak1r2i3d
 ak1red2i3t
-.akr2i3d
 .akum2u3l
 al2i3g2a3tor
 .al2t
@@ -945,6 +926,7 @@ alfab2e3t
 alop2a3t
 alum2e3t
 am2a3r
+ambas2a3d
 .amet2i3s3t
 amul2e3t
 .an2a3k
@@ -971,7 +953,6 @@ asimil3i4t
 .at1l2an3t
 .at1l2e3t
 aŭtorit2a3t
-.av2i3d
 .avok2a3d
 .az2i3l
 b1l
@@ -1035,7 +1016,6 @@ br2i3l
 bracel2e3t
 .braz2i3l
 brev2e3t
-brig2a4n3t2i3n
 .brok2a3t
 .brul3
 .bu2ŝ
@@ -1231,7 +1211,6 @@ frit2i3l2a3ri
 .fu3m
 .fus2i3l
 g1v
-gal2a4n3t2i3n
 .gal2an3t
 galin2u3l
 garg2a3r
@@ -1332,7 +1311,6 @@ jug2u3l2a3r
 .ĵak2e3t
 .ĵu3l
 k1v
-.k2a4n3t2i3n
 k2an3t
 k2ar3b
 k2n2ar3
@@ -1748,6 +1726,7 @@ retik2u3l
 rez2i3d
 .rez2i3s3t
 rezult2a3t
+ri2ĉ
 rig2i3d
 ril2a3t
 rip2a3r
@@ -1764,6 +1743,7 @@ s1p
 s1t
 s1v
 s2ci
+s2e3m
 s2krib
 s2p2e3c
 s2t2a3r
@@ -1860,7 +1840,6 @@ stigm2a3t
 .str4
 .stra3t2e3g
 strob2i3l
-strof2a4n3t2
 .su2b1
 .su2ĉ3i2nf
 .su2d1a2f
@@ -1962,7 +1941,6 @@ uo2
 ŭi2
 ŭo2
 ŭu2
-uzulinterfaco
 v2a3r
 v2i3d
 val2i3d

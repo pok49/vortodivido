@@ -1,0 +1,26 @@
+#!/bin/bash
+# -*- coding: latin-3 -*-
+export LC_CTYPE=C
+
+tr -s ' ' < ~/Git/vortodivido/eohyph.m4 |\
+sed -e '1s/changecom.*//; s/ *%.*$//; s/ *$//' |\
+awk '{print $0 "#" NR}' | m4 - | ./nums.pl |\
+sed -e 's/æ/czZ/g; s/Æ/CzZ/g' \
+    -e 's/ø/gzZ/g; s/Ø/GzZ/g' \
+    -e 's/¶/hzZ/g; s/¦/HzZ/g' \
+    -e 's/¼/jzZ/g; s/¬/JzZ/g' \
+    -e 's/þ/szZ/g; s/Þ/SzZ/g' \
+    -e 's/ý/uzZ/g; s/Ý/UzZ/g' |\
+sort -t\# -k1,1 -du |\
+sed -e 's/czZ/æ/g; s/CzZ/Æ/g' \
+    -e 's/gzZ/ø/g; s/GzZ/Ø/g' \
+    -e 's/hzZ/¶/g; s/HzZ/¦/g' \
+    -e 's/jzZ/¼/g; s/JzZ/¬/g' \
+    -e 's/szZ/þ/g; s/SzZ/Þ/g' \
+    -e 's/uzZ/ý/g; s/UzZ/Ý/g' \
+    -e '1i\
+\\patterns{' -e '$a\
+\}' > h0.l3
+
+sed -e 's/\#.*//' h0.l3 > h1.l3
+
