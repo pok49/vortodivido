@@ -20,8 +20,7 @@ declare -i i=`cat h0.l3|wc -l`
 i=200
 echo "Longo $i"
 
-#while let --i; [ $i -gt 1 ]; do
-while let --i; [ $i -gt 19 ]; do
+while let --i; [ $i -gt 1 ]; do
     p=`sed -n ${i}p h0.l3`
     sed ${i}d h1.l3 > h.l3.tex
     echo "$i: $p"

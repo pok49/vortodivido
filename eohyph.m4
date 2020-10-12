@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-10-11 15:08:25 sergio>
+% Time-stamp: <2020-10-12 22:07:18 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -23,8 +23,10 @@ divert(0)dnl
 changequote({, })
 
 % Makrooj por la fina¼oj:
-define(adj, {$1a. {$1}1aj. {$1}1ajn. {$1}3an. $1e.})
-define(nom, {adj($1) $1o. {$1}1oj. {$1}1ojn. {$1}1on.})
+define(adj_e, {$1a. {$1}1aj. {$1}1ajn. {$1}3an.})
+define(adj, {adj_e($1) $1e.})
+define(nom_e, {adj_e($1) $1o. {$1}1oj. {$1}1ojn. {$1}1on.})
+define(nom, {nom_e($1) $1e.})
 define(ver, {{$1}1as. $1i. {$1}1is. {$1}3os. $1u. {$1}1us.})
 
 3aj. 3an. 3ajn.
@@ -67,7 +69,8 @@ uo2 % duopo, duobla
 nom(1a2æ)
 % AD:
 nom(1a2d) ver(1a2d)
-ambas2a3d .avok2a3d .bal2a3d cik2a3d æokol2a3d fas2a3d gr2a3d
+.ag1a2d
+ambas2a3d .avok2a3d .bal2a3d cik2a3d æokol2a3d fas2a3d gr2a3d migr3a4d
 inv2a3d kamar2a3d .kan2a3d limon2a3d
 persv2a3d pl2aæ .pom2a3d seren2a3d
 % AJN-:
@@ -75,7 +78,7 @@ persv2a3d pl2aæ .pom2a3d seren2a3d
 % A¬:
 nom(1a2¼)
 % AL-
-a2liø % novaliøinto
+.al1est a2liø % novaliøinto
 % ALT-
 .al2t
 al3tabl al3t2a3r al3ter al3trui
@@ -112,7 +115,7 @@ leýten2an3t mom2ant .okt2an3t
 % APUD:
 .apu2d1
 % AR:
-nom(1a2r) 1a2rig % 1a2riø
+nom(1a2r) % 1a2rig tra3rig 1a2riø
 am2a3r barb2a3r3 baz2a3r3 biz2a3r bulg2a3r .cez2a3r .ci3d2a3r cig2a3r
 din2a3r dr2a3t dol2a3r er2a3r3 f2a3r % bonfARO, fanfaro
 j2ar % kvinjara, dujara bojaro
@@ -184,7 +187,7 @@ nom(1e2c) e2cig
 .apr2e3c .de3c p2e3c %kromp-ecoj
 % EG:
 nom(1e2g) ver(1e2g)
-l2e3g r2e3g % .del2e3g .fl2e3g kol2e3g rel2e3g
+l2e3g .r2eg ekr2eg gr2eg re3gal % .del2e3g .fl2e3g kol2e3g rel2e3g
 .om2e3g .stra3t2e3g .norv2e3g
 % EJ:
 nom(1e2j) 1e2j1ig 1e2j1iø
@@ -200,14 +203,15 @@ nom(1e2j) 1e2j1ig 1e2j1iø
 % EL-
 .el1i2r .sene2l1i2r .el1aæet .el1uz .el3v2
 % EM:
-nom(1e2m) ver(1e2m) 1e2m1ec
+adj(1e2m) 1e2mo. 1e2mon. 1e2m1ec
+1e2m1as. 1e2m3os. % = ver(1e2m) sen -i, -is, -u, -us
 blasf2e3m .boh2e3m diad2e3m .dil2e3m .ed2e3m
 embl2e3m emfiz2e3m .ekz2e3m fon2e3m graf2e3m ø2e3m 1i2ø3e4m .har2e3m jerusal2e3m
 .le3m morf2e3m .po2e3m pr2e3m % .alpr2e3m .ekpr2e3m
 prob1l2e4m3 .sk2e3m s2e3m t2e3m % .anat2e3m .tot2e3m krizant2em
 .tand2e3m te4or2em tr2e3m % .ektr2e3m ekstr2e3m sist2e3m
 % EN-
-.en1i2r .en1e2st
+.en1i2r .en1e2st .en1a2m .en1u2z
 % % END:
 % adj(1en2d) ver(1en2d) 1en2do. 1en2don.
 % .am2en3d .at2en3d .def2en3d .et2en3d .kal2en3d kresæ2en3d .men3d .of2en3d
@@ -251,13 +255,13 @@ fen2e3st3r or1k2e3str .pal2e3str
 % ØIS-
 .øi2s1
 % ID:
-nom(1i2d)
+nom_e(1i2d)
 .abs2i3d 3a2c2i2d st4a3c2i3 % sulfurACIDO, sed STACIdomo
 .ak1r2i3d .aps2i3d .ar2i3d .askar2i3d .asp2i3d 1av2i3d
 .bol2i3d .br2i3d c2i3d  % + .muc2i3d .luc2i3d genoc2i3d koinc2i3d .inc2i3d .dec2i3d
-.dav2i3d div2i3d eýkl2i3d
+eýkl2i3d
 .eg2i3d .flor2i3d .fr2i3d
-v2i3d %gv#ide, eksterv#ide
+v2i2d e2vi3dent bo2v3id divi3d %gv#ide, eksterv#ide tute#vidente
 hibr2i3d
 hum2i3d ¶lam2i3d .ins2i3d kan3t2ar2i3d
 .konf2i3d krizal2i3d % kun1s4 % kunSID
@@ -265,7 +269,7 @@ hum2i3d ¶lam2i3d .ins2i3d kan3t2ar2i3d
 .madr2i3d morb2i3d .num2i3d
 oks2i3d perf2i3d pi3ram2id r2id
 rap2i3d rez2i3d rig2i3d % frig2i3d; .si3d
-sol2i3d .str2i3d telev2i3d tim2i3d
+sol2i3d .str2i3d tim2i3d
 val2i3d % inval2i3d
 %
 % nom(1i2d1ar)
@@ -274,12 +278,13 @@ nom(1i2d1i2n) % .pir2i3d2in
 nom(1i2g) ver(1i2g)
 .br2i3g .di3g .fi3g .in3d4i2g % ind-igo <> in-digo
 .inst2i3g .intr2i3g .kvadr2i3g
-l2ig pfen2i3g .pi3g .prod2i3g r3l2i3g %harLIG*o
+l2ig a2l3ig
+pfen2i3g .pi3g .prod2i3g r3l2i3g %harLIG*o
 .rodr2i3g .str2i3g .ti3g .nav2i3g
 %
 1i2gebl
 1i2gant 1i2gint 1i2gont
-1i2gat al2i3g2a3tor
+1i2gat .al4i3g2a3tor
 1i2git % 1i2got
 %
 1i2g1a2d br2i3g2a3d
@@ -343,7 +348,6 @@ tereb2in3t
 1inte2r1
 inte3r2es inte3r2ez inte3r2upt
 2linter % uzulinterfaco
-% nom(.inte3r) ver(.inte3r) .inte3ren.
 %
 .io2m1 %iomete
 % IR
@@ -373,7 +377,8 @@ malak2i3t .margar2i3t .marm2i3t .med2i3t megal2i3t mer2i3t
 mil2i4t1 asimil3i4t
 .mosk2i3t .neof2i3t okcip2i3t ol2i3t % .orb2i3t
 palp2i3t .paraz2i3t
-.pi3r2i3t plebisc2i3t precip2i3t prestid2i3g2i3t preter2i3t prof2i3t
+.pi3r2i3t plebisc2i3t precip2i3t
+pre2s pre3skrib prestid2i3g2i3t preter2i3t prof2i3t
 prozel2i3t rehabil2i3t % .rekviz2i3t
 sanskr2i3t satel2i3t
 sibar2i3t .sk2i3t .sp2i3t spi3r2i3t .spl2i3t spr2i3t stalagm2i3t
@@ -680,9 +685,11 @@ ifdef({DIFT}, {â1 ê1 âtorit2a3t êkl2i3d lê1ten2ant})
 1a2f3rik 1a2merik
 1a2kir1 har2a3kir %militakiro
 a2spekt % grava-spekta
+.aý2d .aý3dac
 .bi2o
 .bu2þ
 .cen2t cen3t2r % cen#testro
+daý2r
 de2k1o2k de2k1u2n % dudekoka (20a)
 1e2lemen2t1
 3e2senc 1e2sprim
@@ -691,6 +698,7 @@ e2st % kunesto, foresti, alesto
 .fi2þ1 1a2fiþ % reklama#fiþ
 fo2j .fra2z1 fra3z2eo
 .fre2þ
+%gar2d
 gra2n2d1 gran3d2io
 komuni2k1
 laý2dind laý2d2a3t % laý/data :: laýd/ata
@@ -703,10 +711,11 @@ lo2n2g1 lon3g2itud 1o2rel % longo#rela
 on2d1r % mon#dregado
 oli2v %oli#voleo
 paro2l3 % ??
-.pa2s pa3ser
+.pa2s pa3ser pa3sa3ø
 .pu2þ
 .re2ø re3øim re3øust
 ri2æ
+sa2ø
 .sen2t2em sent3emo
 sinjo2r3
 .su2æ3i2nf % su#æinfano
@@ -722,7 +731,8 @@ tolst2oj.
 %.un2u
 1u2nuo j2u2n % kom2un
 u2z ku3z mu3z ilu3zi klu3z kru3z % elu#zi
-lin2g2v1uz vor2t1uz
+lin2g2v1uz
+vor2t1uz
 .vi2þ
 .vi2v1 2ipov viza2ø1
 zo2o
