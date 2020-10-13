@@ -53,7 +53,6 @@ UTF-8
 1a2r3an.
 1a2ra.
 1a2re.
-1a2rig
 1a2ro.
 1a2t1aj.
 1a2t1ajn.
@@ -142,19 +141,13 @@ UTF-8
 1e2m1ajn.
 1e2m1as.
 1e2m1ec
-1e2m1is.
-1e2m1oj.
-1e2m1ojn.
-1e2m1on.
 1e2m1u2l
-1e2m1us.
 1e2m3an.
 1e2m3os.
 1e2ma.
 1e2me.
-1e2mi.
 1e2mo.
-1e2mu.
+1e2mon.
 1e2s1tr
 1e2sprim
 1e2str1i2n1aj.
@@ -181,7 +174,7 @@ UTF-8
 1e2ti.
 1e2to.
 1e2tu.
-1ek2s3c4i3t
+1ek4s3c4i2t
 1i2d1aj.
 1i2d1ajn.
 1i2d1i2n1aj.
@@ -198,7 +191,6 @@ UTF-8
 1i2d1on.
 1i2d3an.
 1i2da.
-1i2de.
 1i2do.
 1i2g1a2d
 1i2g1aj.
@@ -307,10 +299,8 @@ UTF-8
 1in2d3os.
 1in2da.
 1in2de.
-1in2di.
 1in2do.
 1in2don.
-1in2du.
 1in2t3ar
 1in2t3ec
 1in2t3us
@@ -428,19 +418,13 @@ UTF-8
 2ipov
 2j1s2
 2jis.
-2jn.
 2k1n
 2k3e2rar
 2l3ĥ2
 2linter
-2lp.
-2lt.
 2m3f2
 2n1j
 2n1m
-2nk.
-2ns.
-2nt.
 2oplen
 2ou
 2p1f2
@@ -464,7 +448,6 @@ UTF-8
 2s1r2
 2s3e2rar
 2spre
-2st.
 2stf
 2ŝ1c2
 2ŝ1ĉ2
@@ -483,6 +466,7 @@ UTF-8
 3aj.
 3ajn.
 3an.
+3e2kz
 3e2senc
 3fiks
 3k2nab
@@ -894,6 +878,7 @@ a2dek2v2a3t
 a2g1reg2a3t
 a2k1rob2a3t
 a2kur2a3t
+a2l3ig
 a2lie
 a2liĝ
 a2nali
@@ -908,6 +893,7 @@ adjut2an3t
 advok2a3t
 ae2
 afrik2a3t
+.ag1a2d
 .ag2a3t
 .ag2i3t
 .aj2n1
@@ -915,12 +901,13 @@ afrik2a3t
 .ak1r2i3d
 ak1red2i3t
 .akum2u3l
-al2i3g2a3tor
+.al1est
 .al2t
 al3t2a3r
 al3tabl
 al3ter
 al3trui
+.al4i3g2a3tor
 .alb2u3m
 alfab2e3t
 alop2a3t
@@ -952,6 +939,8 @@ asimil3i4t
 .asp2i3d
 .at1l2an3t
 .at1l2e3t
+.aŭ2d
+.aŭ3dac
 aŭtorit2a3t
 .avok2a3d
 .az2i3l
@@ -998,6 +987,7 @@ biz2a3r
 .bl4in3d
 blasf2e3m
 .bo2n1
+bo2v3id
 .bo3n2ev
 .boh2e3m
 .bol2e3t
@@ -1057,7 +1047,7 @@ cik2a3d
 ĉokol2a3d
 d1z
 .dakt2i3l
-.dav2i3d
+daŭ2r
 de2k1o2k
 de2k1u2n
 de2k3o2na
@@ -1093,9 +1083,9 @@ diplom2a3t
 disk1r2et
 disk2on3t
 .dist2i3l
-div2i3d
 diver2s3
 diver3s4aspec
+divi3d
 dol2a3r
 .domic2i3l
 dor2m3
@@ -1108,6 +1098,7 @@ e1
 e2cig
 e2sper
 e2st
+e2vi3dent
 e3e4
 e3m2u3ls
 ea2
@@ -1139,6 +1130,7 @@ ek4s3kuz
 .eka2m
 .ekf4
 .ekma2l1
+ekr2eg
 eksplic2i3t
 .ekste2r1
 .ekz2e3m
@@ -1154,8 +1146,10 @@ elizab2e3t
 embl2e3m
 .emer2i3t
 emfiz2e3m
+.en1a2m
 .en1e2st
 .en1i2r
+.en1u2z
 .enk2e3t
 epit2e3t
 er2a3r3
@@ -1224,6 +1218,7 @@ git2a3r3
 .gla3t
 .gor2i3l
 gr2a3d
+gr2eg
 .gr2i3l
 .gr4
 gra2n2d1
@@ -1362,8 +1357,8 @@ koag2u3l
 .kom2e3t
 komis2a3r
 .komit2a3t
+komp2a2t
 komp2a3r
-komp2a3t
 .komp2i3l
 kompl2e3t
 komprom2i3t
@@ -1511,6 +1506,7 @@ mi5aŭ
 mi5s4il
 .mi5s4io
 .mi5s4iu
+migr3a4d
 mil2i4t1
 mil3o2n
 mil3o2p
@@ -1597,6 +1593,7 @@ p2et
 p2i3t4eci
 .pa2s
 .pa2ŝ
+pa3sa3ĝ
 pa3ser
 .paĉ2u3l
 .pal2a3t
@@ -1660,7 +1657,9 @@ pr2e3m
 pr2et
 .pr2is3m
 .pr4
+pre2s
 pre2st2i3ĝ
+pre3skrib
 precip2i3t
 .prel2a3t
 prep2a3r
@@ -1685,7 +1684,7 @@ pterodakt2i3l
 .pup2i3l
 .pust2u3l
 r2d1r
-r2e3g
+.r2eg
 r2et1aj.
 r2et1ajn.
 r2et1oj.
@@ -1711,6 +1710,7 @@ rap2i3d
 .re2spond
 .re2spublik
 .re2tro
+re3gal
 re3ĝim
 re3ĝust
 referend2u3m
@@ -1747,6 +1747,7 @@ s2e3m
 s2krib
 s2p2e3c
 s2t2a3r
+sa2ĝ
 .sa2m
 sa2m1ur2b
 sa3m2ar
@@ -1887,7 +1888,6 @@ tamar4in3d
 tarant2u3l
 tat2a3r
 te4or2em
-telev2i3d
 tereb2in3t
 .term2i3t
 .ti3g
@@ -1931,6 +1931,7 @@ u2t2i3l
 u2z
 .ul2u3l
 ultim2a3t
+.un2u3l4e
 universit2a3t
 .unu2a
 unu3a2nim
@@ -1942,7 +1943,8 @@ uo2
 ŭo2
 ŭu2
 v2a3r
-v2i3d
+v2i2d
+v2in3d
 val2i3d
 .van2i3l
 var2m3
@@ -1964,7 +1966,6 @@ vi3r2ulent
 .vi4st2ul
 vi5a4nd
 vi5atik
-.vin3d
 vinj2et
 vir2g
 vir2us

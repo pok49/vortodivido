@@ -17,10 +17,10 @@ rm -f r.l3 r0.l3 h.l3.tex h0.l3 /tmp/e1.l3
 ./mk-nums
 
 declare -i i=`cat h0.l3|wc -l`
-i=400
+i=600
 echo "Longo $i"
 
-while let --i; [ $i -gt 199 ]; do
+while let --i; [ $i -gt 399 ]; do
     p=`sed -n ${i}p h0.l3`
     sed ${i}d h1.l3 > h.l3.tex
     echo "$i: $p"

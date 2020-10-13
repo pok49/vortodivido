@@ -4,7 +4,7 @@
 % File name: eo.pattern
 % Unicode hyphenation patterns for Esperanto.
 %
-% Time-stamp: <2020-10-11 15:08:25 sergio>
+% Time-stamp: <2020-10-13 13:39:53 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -68,7 +68,6 @@
 <pattern>1a2r3an </pattern>
 <pattern>1a2ra </pattern>
 <pattern>1a2re </pattern>
-<pattern>1a2rig</pattern>
 <pattern>1a2ro </pattern>
 <pattern>1a2t1aj </pattern>
 <pattern>1a2t1ajn </pattern>
@@ -157,19 +156,13 @@
 <pattern>1e2m1ajn </pattern>
 <pattern>1e2m1as </pattern>
 <pattern>1e2m1ec</pattern>
-<pattern>1e2m1is </pattern>
-<pattern>1e2m1oj </pattern>
-<pattern>1e2m1ojn </pattern>
-<pattern>1e2m1on </pattern>
 <pattern>1e2m1u2l</pattern>
-<pattern>1e2m1us </pattern>
 <pattern>1e2m3an </pattern>
 <pattern>1e2m3os </pattern>
 <pattern>1e2ma </pattern>
 <pattern>1e2me </pattern>
-<pattern>1e2mi </pattern>
 <pattern>1e2mo </pattern>
-<pattern>1e2mu </pattern>
+<pattern>1e2mon </pattern>
 <pattern>1e2s1tr</pattern>
 <pattern>1e2sprim</pattern>
 <pattern>1e2str1i2n1aj </pattern>
@@ -196,7 +189,7 @@
 <pattern>1e2ti </pattern>
 <pattern>1e2to </pattern>
 <pattern>1e2tu </pattern>
-<pattern>1ek2s3c4i3t</pattern>
+<pattern>1ek4s3c4i2t</pattern>
 <pattern>1i2d1aj </pattern>
 <pattern>1i2d1ajn </pattern>
 <pattern>1i2d1i2n1aj </pattern>
@@ -213,7 +206,6 @@
 <pattern>1i2d1on </pattern>
 <pattern>1i2d3an </pattern>
 <pattern>1i2da </pattern>
-<pattern>1i2de </pattern>
 <pattern>1i2do </pattern>
 <pattern>1i2g1a2d</pattern>
 <pattern>1i2g1aj </pattern>
@@ -322,10 +314,8 @@
 <pattern>1in2d3os </pattern>
 <pattern>1in2da </pattern>
 <pattern>1in2de </pattern>
-<pattern>1in2di </pattern>
 <pattern>1in2do </pattern>
 <pattern>1in2don </pattern>
-<pattern>1in2du </pattern>
 <pattern>1in2t3ar</pattern>
 <pattern>1in2t3ec</pattern>
 <pattern>1in2t3us</pattern>
@@ -443,19 +433,13 @@
 <pattern>2ipov</pattern>
 <pattern>2j1s2</pattern>
 <pattern>2jis </pattern>
-<pattern>2jn </pattern>
 <pattern>2k1n</pattern>
 <pattern>2k3e2rar</pattern>
 <pattern>2l3ĥ2</pattern>
 <pattern>2linter</pattern>
-<pattern>2lp </pattern>
-<pattern>2lt </pattern>
 <pattern>2m3f2</pattern>
 <pattern>2n1j</pattern>
 <pattern>2n1m</pattern>
-<pattern>2nk </pattern>
-<pattern>2ns </pattern>
-<pattern>2nt </pattern>
 <pattern>2oplen</pattern>
 <pattern>2ou</pattern>
 <pattern>2p1f2</pattern>
@@ -479,7 +463,6 @@
 <pattern>2s1r2</pattern>
 <pattern>2s3e2rar</pattern>
 <pattern>2spre</pattern>
-<pattern>2st </pattern>
 <pattern>2stf</pattern>
 <pattern>2ŝ1c2</pattern>
 <pattern>2ŝ1ĉ2</pattern>
@@ -498,6 +481,7 @@
 <pattern>3aj </pattern>
 <pattern>3ajn </pattern>
 <pattern>3an </pattern>
+<pattern>3e2kz</pattern>
 <pattern>3e2senc</pattern>
 <pattern>3fiks</pattern>
 <pattern>3k2nab</pattern>
@@ -909,6 +893,7 @@
 <pattern>a2g1reg2a3t</pattern>
 <pattern>a2k1rob2a3t</pattern>
 <pattern>a2kur2a3t</pattern>
+<pattern>a2l3ig</pattern>
 <pattern>a2lie</pattern>
 <pattern>a2liĝ</pattern>
 <pattern>a2nali</pattern>
@@ -923,6 +908,7 @@
 <pattern>advok2a3t</pattern>
 <pattern>ae2</pattern>
 <pattern>afrik2a3t</pattern>
+<pattern> ag1a2d</pattern>
 <pattern> ag2a3t</pattern>
 <pattern> ag2i3t</pattern>
 <pattern> aj2n1</pattern>
@@ -930,12 +916,13 @@
 <pattern> ak1r2i3d</pattern>
 <pattern>ak1red2i3t</pattern>
 <pattern> akum2u3l</pattern>
-<pattern>al2i3g2a3tor</pattern>
+<pattern> al1est</pattern>
 <pattern> al2t</pattern>
 <pattern>al3t2a3r</pattern>
 <pattern>al3tabl</pattern>
 <pattern>al3ter</pattern>
 <pattern>al3trui</pattern>
+<pattern> al4i3g2a3tor</pattern>
 <pattern> alb2u3m</pattern>
 <pattern>alfab2e3t</pattern>
 <pattern>alop2a3t</pattern>
@@ -967,6 +954,8 @@
 <pattern> asp2i3d</pattern>
 <pattern> at1l2an3t</pattern>
 <pattern> at1l2e3t</pattern>
+<pattern> aŭ2d</pattern>
+<pattern> aŭ3dac</pattern>
 <pattern>aŭtorit2a3t</pattern>
 <pattern> avok2a3d</pattern>
 <pattern> az2i3l</pattern>
@@ -1013,6 +1002,7 @@
 <pattern> bl4in3d</pattern>
 <pattern>blasf2e3m</pattern>
 <pattern> bo2n1</pattern>
+<pattern>bo2v3id</pattern>
 <pattern> bo3n2ev</pattern>
 <pattern> boh2e3m</pattern>
 <pattern> bol2e3t</pattern>
@@ -1072,7 +1062,7 @@
 <pattern>ĉokol2a3d</pattern>
 <pattern>d1z</pattern>
 <pattern> dakt2i3l</pattern>
-<pattern> dav2i3d</pattern>
+<pattern>daŭ2r</pattern>
 <pattern>de2k1o2k</pattern>
 <pattern>de2k1u2n</pattern>
 <pattern>de2k3o2na</pattern>
@@ -1108,9 +1098,9 @@
 <pattern>disk1r2et</pattern>
 <pattern>disk2on3t</pattern>
 <pattern> dist2i3l</pattern>
-<pattern>div2i3d</pattern>
 <pattern>diver2s3</pattern>
 <pattern>diver3s4aspec</pattern>
+<pattern>divi3d</pattern>
 <pattern>dol2a3r</pattern>
 <pattern> domic2i3l</pattern>
 <pattern>dor2m3</pattern>
@@ -1123,6 +1113,7 @@
 <pattern>e2cig</pattern>
 <pattern>e2sper</pattern>
 <pattern>e2st</pattern>
+<pattern>e2vi3dent</pattern>
 <pattern>e3e4</pattern>
 <pattern>e3m2u3ls</pattern>
 <pattern>ea2</pattern>
@@ -1154,6 +1145,7 @@
 <pattern> eka2m</pattern>
 <pattern> ekf4</pattern>
 <pattern> ekma2l1</pattern>
+<pattern>ekr2eg</pattern>
 <pattern>eksplic2i3t</pattern>
 <pattern> ekste2r1</pattern>
 <pattern> ekz2e3m</pattern>
@@ -1169,8 +1161,10 @@
 <pattern>embl2e3m</pattern>
 <pattern> emer2i3t</pattern>
 <pattern>emfiz2e3m</pattern>
+<pattern> en1a2m</pattern>
 <pattern> en1e2st</pattern>
 <pattern> en1i2r</pattern>
+<pattern> en1u2z</pattern>
 <pattern> enk2e3t</pattern>
 <pattern>epit2e3t</pattern>
 <pattern>er2a3r3</pattern>
@@ -1239,6 +1233,7 @@
 <pattern> gla3t</pattern>
 <pattern> gor2i3l</pattern>
 <pattern>gr2a3d</pattern>
+<pattern>gr2eg</pattern>
 <pattern> gr2i3l</pattern>
 <pattern> gr4</pattern>
 <pattern>gra2n2d1</pattern>
@@ -1377,8 +1372,8 @@
 <pattern> kom2e3t</pattern>
 <pattern>komis2a3r</pattern>
 <pattern> komit2a3t</pattern>
+<pattern>komp2a2t</pattern>
 <pattern>komp2a3r</pattern>
-<pattern>komp2a3t</pattern>
 <pattern> komp2i3l</pattern>
 <pattern>kompl2e3t</pattern>
 <pattern>komprom2i3t</pattern>
@@ -1526,6 +1521,7 @@
 <pattern>mi5s4il</pattern>
 <pattern> mi5s4io</pattern>
 <pattern> mi5s4iu</pattern>
+<pattern>migr3a4d</pattern>
 <pattern>mil2i4t1</pattern>
 <pattern>mil3o2n</pattern>
 <pattern>mil3o2p</pattern>
@@ -1612,6 +1608,7 @@
 <pattern>p2i3t4eci</pattern>
 <pattern> pa2s</pattern>
 <pattern> pa2ŝ</pattern>
+<pattern>pa3sa3ĝ</pattern>
 <pattern>pa3ser</pattern>
 <pattern> paĉ2u3l</pattern>
 <pattern> pal2a3t</pattern>
@@ -1675,7 +1672,9 @@
 <pattern>pr2et</pattern>
 <pattern> pr2is3m</pattern>
 <pattern> pr4</pattern>
+<pattern>pre2s</pattern>
 <pattern>pre2st2i3ĝ</pattern>
+<pattern>pre3skrib</pattern>
 <pattern>precip2i3t</pattern>
 <pattern> prel2a3t</pattern>
 <pattern>prep2a3r</pattern>
@@ -1700,7 +1699,7 @@
 <pattern> pup2i3l</pattern>
 <pattern> pust2u3l</pattern>
 <pattern>r2d1r</pattern>
-<pattern>r2e3g</pattern>
+<pattern> r2eg</pattern>
 <pattern>r2et1aj </pattern>
 <pattern>r2et1ajn </pattern>
 <pattern>r2et1oj </pattern>
@@ -1726,6 +1725,7 @@
 <pattern> re2spond</pattern>
 <pattern> re2spublik</pattern>
 <pattern> re2tro</pattern>
+<pattern>re3gal</pattern>
 <pattern>re3ĝim</pattern>
 <pattern>re3ĝust</pattern>
 <pattern>referend2u3m</pattern>
@@ -1762,6 +1762,7 @@
 <pattern>s2krib</pattern>
 <pattern>s2p2e3c</pattern>
 <pattern>s2t2a3r</pattern>
+<pattern>sa2ĝ</pattern>
 <pattern> sa2m</pattern>
 <pattern>sa2m1ur2b</pattern>
 <pattern>sa3m2ar</pattern>
@@ -1902,7 +1903,6 @@
 <pattern>tarant2u3l</pattern>
 <pattern>tat2a3r</pattern>
 <pattern>te4or2em</pattern>
-<pattern>telev2i3d</pattern>
 <pattern>tereb2in3t</pattern>
 <pattern> term2i3t</pattern>
 <pattern> ti3g</pattern>
@@ -1946,6 +1946,7 @@
 <pattern>u2z</pattern>
 <pattern> ul2u3l</pattern>
 <pattern>ultim2a3t</pattern>
+<pattern> un2u3l4e</pattern>
 <pattern>universit2a3t</pattern>
 <pattern> unu2a</pattern>
 <pattern>unu3a2nim</pattern>
@@ -1957,7 +1958,8 @@
 <pattern>ŭo2</pattern>
 <pattern>ŭu2</pattern>
 <pattern>v2a3r</pattern>
-<pattern>v2i3d</pattern>
+<pattern>v2i2d</pattern>
+<pattern>v2in3d</pattern>
 <pattern>val2i3d</pattern>
 <pattern> van2i3l</pattern>
 <pattern>var2m3</pattern>
@@ -1979,7 +1981,6 @@
 <pattern> vi4st2ul</pattern>
 <pattern>vi5a4nd</pattern>
 <pattern>vi5atik</pattern>
-<pattern> vin3d</pattern>
 <pattern>vinj2et</pattern>
 <pattern>vir2g</pattern>
 <pattern>vir2us</pattern>

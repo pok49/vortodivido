@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-10-13 12:29:01 sergio>
+% Time-stamp: <2020-10-13 13:39:53 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -53,7 +53,7 @@ e2sper
 2ou % lingvou#zo
 uo2 % duopo, duobla
 % konsonantaj fina¼oj:
-2jn. 2lp. 2lt. 2nk. 2ns. 2nt. 2st.
+%?? 2jn. 2lp. 2lt. 2nk. 2ns. 2nt. 2st.
 %
 % .bl4
 .br4 .gl4 .gr4 .kl4 .kr4 .kv4 .pl4
