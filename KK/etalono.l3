@@ -544,7 +544,7 @@ atingita	atin-g-ita
 atingon	atin-g-on
 atingos	atin-g-os
 atingota	atin-go-ta
-atlantiko	at-lan-ti-ko
+Atlantiko	at-lan-ti-ko
 atlanto	at-lan-to
 atleto	at-le-to
 atmosfero	at-mo-s-fe-ro
@@ -1228,6 +1228,7 @@ dankinde	dan-k-inde
 dankis	dan-k-is
 danko	dan-ko
 dankon	dan-k-on
+dankpreøo	dank-pre-øo
 danku	dan-ku
 dano	da-no
 dato	dato
@@ -1300,6 +1301,7 @@ deklarita	de-kla-r-ita
 deklaro	de-kla-ro
 deklinacioj	de-kli-na-ci-oj
 deklivo	de-kli-vo
+dekmiloj	dek-mi-l-oj
 dekoj	de-k-oj
 dekoka	dek-oka
 dekon	de-k-on
@@ -1822,6 +1824,7 @@ ekposedis	ek-po-se-d-is
 ekposedo	ek-po-se-do
 ekpovu	ek-po-vu
 ekpremo	ek-pre-mo
+ekrankurtenojn	ek-ran-kur-te-n-ojn
 ekrano	ek-ra-no
 ekregis	ek-reg-is
 ekridis	ek-ri-d-is
@@ -2490,6 +2493,7 @@ fiþoleo	fiþ-oleo
 fiþviando	fiþ-vi-an-do
 fiþvosto	fiþ-vo-s-to
 Fitzgerald	fitz-ge-rald
+Fitzpatrick	fitz-pa-trick
 fizikisto	fi-zi-k-isto
 fiziko	fi-zi-ko
 fiziologiaj	fi-zio-lo-gi-aj
@@ -3081,6 +3085,7 @@ helpos	help-os
 helpprogramo	help-pro-gra-mo
 helpu	helpu
 helpvortoj	help-vort-oj
+helpvokis	help-vo-k-is
 hemnon	hem-n-on
 henjo	he-njo
 henriette	hen-ri-et-te
@@ -4237,6 +4242,7 @@ kreiøis	kre-iø-is
 kreis	kre-is
 kreita	kre-ita
 kreita¼oj	kre-i-t-a¼-oj
+krejceroj	krej-ce-r-oj
 kremo	kremo
 kreo	kreo
 kreos	kre-os
@@ -4836,6 +4842,7 @@ malaperis	mal-ape-r-is
 malavara	mal-ava-ra
 malbela	mal-be-la
 malbeni	mal-be-ni
+malbindu	mal-bin-du
 malbona	mal-bona
 malbona¼oj	mal-bon-a¼-oj
 malbone	mal-bone
@@ -5115,7 +5122,7 @@ marþalo	mar-þa-lo
 marþi	mar-þi
 marþinta	mar-þin-ta
 marþiparo	mar-þip-aro
-marþjuøisto?	mar-þju-ø-isto
+marþjuøisto?	marþ-ju-ø-isto
 marta	mar-ta
 martami	mar-ta-mi
 martelo	mar-te-lo
@@ -5496,6 +5503,7 @@ mutuloj	mu-t-ul-oj
 muzelo	mu-ze-lo
 muzeo	mu-zeo
 muzikaj	mu-zi-k-aj
+muzikøenro	mu-zik-øen-ro
 muzikistoj	mu-zi-k-ist-oj
 muziko	mu-zi-ko
 nacia	na-cia
@@ -5773,6 +5781,7 @@ nuna	nu-na
 nunaj	nu-n-aj
 nuna¼on	nu-n-a¼-on
 nuntempaj	nun-tem-p-aj
+nutra¼æaregoj	nu-tra¼-æa-r-eg-oj
 nutra¼greno	nu-tra¼-gre-no
 nutri	nu-tri
 obeante	obe-an-te
@@ -6407,6 +6416,7 @@ pluan	plu-an
 plugæevaloj	plug-æe-va-l-oj
 plugi	plu-gi
 plugilo	plu-g-ilo
+plugtero	plug-te-ro
 plumbo	plum-bo
 plumæapo	plum-æa-po
 plumeraro	plum-era-ro
@@ -7228,6 +7238,7 @@ rimeno	ri-me-no
 rimo	ri-mo
 ringego	rin-g-ego
 ringo	rin-go
+ringtenilo	ring-te-n-ilo
 ripari	ri-pa-ri
 ripariston	ri-pa-r-ist-on
 riparo	ri-pa-ro
@@ -7483,6 +7494,7 @@ sekrete	se-kre-te
 sekrethava	se-kret-ha-va
 sekreto	se-kre-to
 sekreton	se-kre-t-on
+seksøuaj	seks-øu-aj
 seksekscita	seks-eks-cita
 seksismo	sek-s-ismo
 sekslogo	seks-lo-go
@@ -7655,6 +7667,7 @@ serion	se-ri-on
 serioza	se-ri-o-za
 seriozaj	se-ri-o-z-aj
 serioze	se-ri-o-ze
+seriozcela	se-ri-oz-ce-la
 seriozmiene	se-ri-oz-mi-ene
 serpento	ser-pen-to
 serumo	se-ru-mo
@@ -8378,6 +8391,7 @@ sviso	svi-so
 þtonon	þto-n-on
 þtopi	þto-pi
 þtopos	þto-p-os
+þtopvortoj	þtop-vort-oj
 þtormo	þtor-mo
 þtrumpo	þtrum-po
 þtuparo	þtu-p-aro
@@ -8614,6 +8628,7 @@ tradukojaro	tra-du-ko-jaro
 tradukos	tra-du-k-os
 traduku	tra-du-ku
 trafi	tra-fi
+trafikøendarmo	trafik-øen-dar-mo
 trafiko	trafi-ko
 trafoj	tra-f-oj
 tragedio	tra-ge-dio
@@ -8695,6 +8710,7 @@ trinkas	trin-k-as
 trinkeblan	trin-k-eb-l-an
 trinki	trin-ki
 trinkis	trin-k-is
+trinkmonon	trink-mo-n-on
 trinko	trin-ko
 trinkos	trin-k-os
 trinku	trin-ku
@@ -8702,6 +8718,7 @@ trinkus	trin-k-us
 triope	tri-ope
 trispesmilajn	tri-spes-mi-l-ajn
 tritiko	tri-ti-ko
+tritikpano	tri-tik-pa-no
 triumfas	tri-um-fas
 triumfiro??	tri-um-firo?
 triumfkanto	tri-umf-kan-to
@@ -8936,6 +8953,7 @@ vastan	va-s-t-an
 vaste	va-s-te
 vastigi	va-s-t-igi
 vastigo	va-s-t-igo
+Vaþingtono	va-þing-to-no
 vatikana	va-ti-ka-na
 vato	vato
 vazlavistinoj	vaz-la-v-ist-in-oj
@@ -8976,6 +8994,7 @@ venonta	ve-n-onta
 venontaj	ve-n-ont-aj
 venos	ve-n-os
 ventegoj	ven-t-eg-oj
+vent¼etis	vent-¼e-t-is
 vento	ven-to
 ventro	ven-tro
 ventumi	ven-t-umi
@@ -9024,6 +9043,7 @@ vespermanøo	ves-per-man-øo
 vespero	ves-pe-ro
 vespo	ve-s-po
 vesta¼pendigilo	ves-ta¼-pen-d-ig-ilo
+vesta¼æifonanta	ves-ta¼-æi-fo-n-an-ta
 vesta¼oj	ves-t-a¼-oj
 vestiøoj	ves-ti-ø-oj
 vestitaj	ves-t-it-aj
@@ -9216,6 +9236,7 @@ vortfaraj	vort-fa-r-aj
 vortfina¼oj	vort-fi-n-a¼-oj
 vortigi	vort-igi
 vort¼etis	vort-¼e-t-is
+vort¼ongla	vort-¼on-gla
 vortkonon	vort-ko-n-on
 vorto	vorto
 vortodivido	vorto-di-vi-do

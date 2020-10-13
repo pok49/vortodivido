@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-10-13 13:39:53 sergio>
+% Time-stamp: <2020-10-14 00:38:50 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -103,7 +103,7 @@ al3tabl al3t2a3r al3ter al3trui
 %
 % ANT:
 nom(1an1t)
-adjut2an3t .arog2an3t .at1l2an3t %.diam2an3t .ban3t
+adjut2an3t .arog2an3t %.at1l2an3t %.diam2an3t .ban3t
 dilet2an3t elef2an3t .gal2an3t .gig2an3t inf2a4n3t
 inst2an3t konson2an3t k2an3t % triumfk#anto .brok2an3t disk2an3t
 konst2an3t kvadr2an3t
@@ -194,10 +194,10 @@ l2e3g .r2eg ekr2eg gr2eg re3gal % .del2e3g .fl2e3g kol2e3g rel2e3g
 nom(1e2j) 1e2j1ig 1e2j1iø
 .be3j .pl2e2j1 malpl2e2j1 pleja2
 % EK-, EKS-
-.ek1 .eka2m .ekf4 .ek2ip .ek1i2r .ek1l2um .ek1l4a2m .ekma2l1
-.ek2onom .ek2olog
+.ek1 .eka2m .ekf4 .ek2ip .ek1l2um .ek1l4a2m .ekma2l1
+.ek2onom
 .ek2s1 ek3s2alt .ek3s2ci 1ek4s3c4i2t ek4s3ciz .ek3s2ekv .ek3s2ent .ek3s2id ek3s2ku ek4s3kur ek4s3kuz .ek3s2on
-.ek1r .ek3s2tar
+.ek3s2tar
 1e2kzem
 % EKSTER-
 .ekste2r1
@@ -206,8 +206,9 @@ nom(1e2j) 1e2j1ig 1e2j1iø
 % EM:
 adj(1e2m) 1e2mo. 1e2mon. 1e2m1ec
 1e2m1as. 1e2m3os. % = ver(1e2m) sen -i, -is, -u, -us
-blasf2e3m .boh2e3m diad2e3m .dil2e3m .ed2e3m
-embl2e3m emfiz2e3m .ekz2e3m fon2e3m graf2e3m ø2e3m 1i2ø3e4m .har2e3m jerusal2e3m
+% blasf2e3m
+.boh2e3m diad2e3m .dil2e3m .ed2e3m
+emfiz2e3m .ekz2e3m fon2e3m graf2e3m ø2e3m 1i2ø3e4m .har2e3m jerusal2e3m
 .le3m morf2e3m .po2e3m pr2e3m % .alpr2e3m .ekpr2e3m
 prob1l2e4m3 .sk2e3m s2e3m t2e3m % .anat2e3m .tot2e3m krizant2em
 .tand2e3m te4or2em tr2e3m % .ektr2e3m ekstr2e3m sist2e3m
@@ -328,7 +329,7 @@ ins2ul2i3n
 % strof2a4n3t2
 % IND:
 adj(1in2d) ver_0(1in2d) 1in2do. 1in2don. 1in2d3ec 1in2d3ig 1in2d3iø
-.bin3d .hin3d .lin3d rozal4in3d .bl4in3d .pin3d tamar4in3d % .þin3d
+b2ind .hin3d .lin3d rozal4in3d .bl4in3d .pin3d tamar4in3d % .þin3d
 v2in3d % rev#indis; % .in3d4ign
 in3d4iøen
 % % ING:
@@ -369,7 +370,7 @@ nom(1i2t) 1i2t3ec p2i3t4eci
 .ag2i3t ak1red2i3t antrac2i3t .apet2i3t b2i3t % .cenob2i3t .gamb2i3t .deb2i3t
 .band2i3t biskv2i3t
 .br2i3t .ci3t .cirkv2i3t .civ2i3t defic2i3t .di3g2i3t
-dinam2i3t .ef1r2i3t eksplic2i3t .el2i3t .emer2i3t .erm2i3t
+dinam2i3t .ef1r2i3t eksplic2i3t .el2i3t .erm2i3t
 .erud2i3t .ev2i3t .fr2i3t .gl2i3t .graf2i3t .gran2i3t
 .grav2i3t hermafrod2i3t hez2i3t hipokr2i3t im2i3t .inc2i3t
 infin2i3t inkogn2i3t interm2i3t .inv2i3t kapac2i3t komprom2i3t
@@ -636,7 +637,7 @@ n2s3t2r % PAG
 4r1m 4r1n 4r1p 4r1r4
 4r1s2 r2s3f % dorsflanke, versfarado
 r2s3m % diversmaniera, versmezuro
-4r1t 2r1v 2r1z 2r1æ 2r1ø 2r1¼ 2r1þ2
+4r1t 2r1v 2r1z 2r1æ 2r1ø 2r1¼ 2r1þ2 r2þ3j
 %
 4s3b2 s1c s2ci % æios#cia, nes#ciate, biblis#cienca
 4s1æ 4s1d s1f 2s1g2 4s1ø 4s1h4 4s1j2 4s1¼ s1k s2krib % pris-kribi
@@ -663,7 +664,7 @@ s1v % 4s1z foriginda, æar plejparte en la pola-hungara Warszawa, Haszpra ktp.
 4t1b 4t1c 4t1d 4t1f 2stf 4t1g 4t1h4 4t1j2 4t1k 2t1l2 4t1m 4t1n 4st1n
 4t1p2 % vortp#aro
 4t3s2 4t1t 4t1v
-4t1z .fi2t2z1 t2zg t2zs % plejparte en la fremdaj Nitzsche, Ratzinger, Fitzgerald
+4t1z .fi2t2z1 t2zs % plejparte en la fremdaj Nitzsche, Ratzinger, Fitzgerald
 4t1æ 4t1ø 4t1¼ 4t1þ2
 %
 % Ý:
