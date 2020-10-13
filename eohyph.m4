@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-10-12 22:07:18 sergio>
+% Time-stamp: <2020-10-13 12:29:01 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -27,6 +27,7 @@ define(adj_e, {$1a. {$1}1aj. {$1}1ajn. {$1}3an.})
 define(adj, {adj_e($1) $1e.})
 define(nom_e, {adj_e($1) $1o. {$1}1oj. {$1}1ojn. {$1}1on.})
 define(nom, {nom_e($1) $1e.})
+define(ver_0, {{$1}1as. {$1}1is. {$1}3os. {$1}1us.})
 define(ver, {{$1}1as. $1i. {$1}1is. {$1}3os. $1u. {$1}1us.})
 
 3aj. 3an. 3ajn.
@@ -142,7 +143,7 @@ a2rom2a3t .ba3t .bl2a3t .brok2a3t .deb2a3t delik2a3t
 diplom2a3t .duk2a3t .et2a3t fakult2a3t form2a3t fr2a3t % (bo|ge)frATOJ
 .gla3t .gran2a3t pl4at % cferPLAT*o, manPLATo ...
 .hep2a3t
-kandid2a3t .kar2a3t .kazem2a3t .klim2a3t .kom2a3t .komit2a3t komp2a3t
+kandid2a3t .kar2a3t .kazem2a3t .klim2a3t .kom2a3t .komit2a3t komp2a2t
 konkord2a3t .krav2a3t kro3m2a3t .magn2a3t
 majorit2a3t malgl2a3t .mand2a3t .mecen2a3t minorit2a3t mon2a3t
 .mul2a3t .musk2a3t
@@ -195,7 +196,7 @@ nom(1e2j) 1e2j1ig 1e2j1iø
 % EK-, EKS-
 .ek1 .eka2m .ekf4 .ek2ip .ek1i2r .ek1l2um .ek1l4a2m .ekma2l1
 .ek2onom .ek2olog
-.ek2s1 ek3s2alt .ek3s2ci ek4s3ciz .ek3s2ekv .ek3s2ent .ek3s2id ek3s2ku ek4s3kur ek4s3kuz .ek3s2on
+.ek2s1 ek3s2alt .ek3s2ci 1ek4s3c4i2t ek4s3ciz .ek3s2ekv .ek3s2ent .ek3s2id ek3s2ku ek4s3kur ek4s3kuz .ek3s2on
 .ek1r .ek3s2tar
 1e2kzem
 % EKSTER-
@@ -326,9 +327,9 @@ ins2ul2i3n
 % brig2a4n3t2i3n gal2a4n3t2i3n .k2a4n3t2i3n
 % strof2a4n3t2
 % IND:
-adj(1in2d) ver(1in2d) 1in2do. 1in2don. 1in2d3ec 1in2d3ig 1in2d3iø
+adj(1in2d) ver_0(1in2d) 1in2do. 1in2don. 1in2d3ec 1in2d3ig 1in2d3iø
 .bin3d .hin3d .lin3d rozal4in3d .bl4in3d .pin3d tamar4in3d % .þin3d
-.vin3d % .in3d4ign
+v2in3d % rev#indis; % .in3d4ign
 in3d4iøen
 % % ING:
 % nom(1in2g) 1in2gig
@@ -368,7 +369,7 @@ nom(1i2t) 1i2t3ec p2i3t4eci
 .ag2i3t ak1red2i3t antrac2i3t .apet2i3t b2i3t % .cenob2i3t .gamb2i3t .deb2i3t
 .band2i3t biskv2i3t
 .br2i3t .ci3t .cirkv2i3t .civ2i3t defic2i3t .di3g2i3t
-dinam2i3t .ef1r2i3t 1ek2s3c4i3t eksplic2i3t .el2i3t .emer2i3t .erm2i3t
+dinam2i3t .ef1r2i3t eksplic2i3t .el2i3t .emer2i3t .erm2i3t
 .erud2i3t .ev2i3t .fr2i3t .gl2i3t .graf2i3t .gran2i3t
 .grav2i3t hermafrod2i3t hez2i3t hipokr2i3t im2i3t .inc2i3t
 infin2i3t inkogn2i3t interm2i3t .inv2i3t kapac2i3t komprom2i3t
@@ -520,7 +521,7 @@ tran3s4ept tran3s4i2stor tran3s4it tran4s5i4tal tran3s4pir
 nom(1u2j) 1u2j1ig 1u2j1iø
 .and2u3j .halel2u3j
 % UL:
-nom(1u2l) 1e2m1u2l e3m2u3ls 1u2l3ec 1u2l3ej
+nom(1u2l) 1e2m1u2l e3m2u3ls 1u2l3ec .un2u3l4e 1u2l3ej
 %
 .akum2u3l ang2u3l .bu3l .bet2u3l .brul3 ejak2u3l .fist2u3l
 form2u3l .fu3l galin2u3l .gran2u3l .grat2u3l .herk2u3l
@@ -691,6 +692,7 @@ a2spekt % grava-spekta
 .cen2t cen3t2r % cen#testro
 daý2r
 de2k1o2k de2k1u2n % dudekoka (20a)
+3e2kz
 1e2lemen2t1
 3e2senc 1e2sprim
 2k3e2rar 4m3e2rar 2s3e2rar % tradukeraro

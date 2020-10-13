@@ -528,6 +528,7 @@ atentigis	aten-t-ig-is
 atentigu	aten-t-igu
 atentinda	aten-t-inda
 atentindan	aten-t-ind-an
+atentindas	aten-t-ind-as
 atentitaj	aten-t-it-aj
 atento	aten-to
 atenton	aten-t-on
@@ -798,6 +799,7 @@ bitumo	bi-tu-mo
 bizaro	bi-za-ro
 blanka	blan-ka
 blanka¼o	blan-k-a¼o
+blankuleco	blan-k-ul-eco
 blasfemi	bla-s-fe-mi
 blato	bla-to
 bleki	ble-ki
@@ -809,7 +811,7 @@ blonda	blon-da
 blondan	blon-d-an
 blondulo	blon-d-ulo
 blondulon	blon-d-ul-on
-bloveksciti	blo-v-eks-ci-ti
+bloveksciti	blo-v-eks-citi
 bloveþveli	blo-ve-þve-li
 blovi	blo-vi
 blovoþvelas	blo-vo-þve-l-as
@@ -832,6 +834,7 @@ boleto	bo-le-to
 boli	bo-li
 bolido	bo-li-do
 bombono	bom-bo-no
+bombonujojn	bom-bo-n-uj-ojn
 bona	bona
 Bonaero	bon-aero
 bonaj	bon-aj
@@ -1178,6 +1181,7 @@ colo	co-lo
 æirkaýpreni	æir-kaý-pre-ni
 æirkaýskribi	æir-kaý-skri-bi
 æirkaýþpinis	æir-kaý-þpi-n-is
+æirkaývindis	æir-kaý-vin-d-is
 æiu	æiu
 æiuflanke	æiu-flan-ke
 æiufoje	æiu-foje
@@ -1403,6 +1407,7 @@ deziregus	de-zir-eg-us
 deziri	de-ziri
 dezirinda	de-zir-inda
 dezirindeco	de-zir-ind-eco
+dezirindus	de-zir-ind-us
 deziris	de-zir-is
 deziro	de-ziro
 deziron	de-zir-on
@@ -1730,10 +1735,11 @@ edukados	edu-k-ad-os
 eduki	edu-ki
 edukita	edu-k-ita
 edzeco	edz-eco
-edziøa	edz-iøa
+edziøaj	edz-iø-aj
 edziøfeston	edziø-fes-t-on
 edziøi	edz-iøi
 edziøo	edz-iøo
+edziøonto	edz-iø-onto
 edziøpeton	edziø-pet-on
 edzinigi	edzi-n-igi
 edziniøi	edzi-n-iøi
@@ -1825,9 +1831,10 @@ ekscentra	eks-cen-tra
 ekscii	ek-scii
 eksciis	ek-sci-is
 ekscios	ek-sci-os
-eksciti	ek-s-ci-ti
-ekscitiøi	ek-s-ci-t-iøi
-ekscitmaþino	ek-s-cit-ma-þi-no
+eksciti	eks-citi
+ekscitiøe	eks-cit-iøe
+ekscitiøi	eks-cit-iøi
+ekscitmaþino	eks-cit-ma-þi-no
 eksciz	eks-ciz
 eksekvis	ek-se-k-v-is
 eksentis	ek-sen-t-is
@@ -1992,6 +1999,7 @@ elparolata	el-pa-rol-ata
 elparoli	el-pa-roli
 elparolitan	el-pa-rol-i-t-an
 elpaþadis	el-pa-þ-ad-is
+elpatrujiøintaj	el-pa-tr-uj-iø-in-t-aj
 elpenda¼o	el-pen-d-a¼o
 elpensi	el-pen-si
 elpensintaj	el-pen-sin-t-aj
@@ -2099,6 +2107,7 @@ enprenitaj	en-pre-n-it-aj
 enpreno	en-pre-no
 enprenu	en-pre-nu
 enprofundiøis	en-pro-fun-d-iø-is
+enrubujigus	en-ru-b-uj-ig-us
 ensaluti	en-sa-lu-ti
 enspezfonto	en-spez-fonto
 enspezi	en-spe-zi
@@ -2175,6 +2184,7 @@ esperantistoj	es-pe-ran-t-ist-oj
 esperanto	es-pe-r-an-to
 esperantologio	es-pe-ran-to-lo-gio
 esperanton	es-pe-r-an-t-on
+Esperantuje	es-pe-ran-t-uje
 esperas	es-pe-r-as
 espere	es-pe-re
 esperi	es-pe-ri
@@ -2459,7 +2469,6 @@ finiøadis	fi-n-iø-ad-is
 finiøas	fi-n-iø-as
 finiøi	fi-n-iøi
 finiøis	fi-n-iø-is
-finiøo	fi-n-iøo
 finiøoj	fi-n-iø-oj
 finis	fi-n-is
 finita	fi-n-ita
@@ -2484,6 +2493,7 @@ fiziko	fi-zi-ko
 fiziologiaj	fi-zio-lo-gi-aj
 flago	fla-go
 flagri	fla-gri
+flamiøema	fla-m-iø-ema
 flam¼etantaj	flam-¼e-t-an-t-aj
 flamo	fla-mo
 flankaj	flan-k-aj
@@ -2701,6 +2711,7 @@ fremda¼oj	frem-d-a¼-oj
 fremdan	frem-d-an
 fremdlandano	fremd-lan-da-no
 fremdlingva	fremd-lin-g-va
+fremdule	frem-d-ule
 fremdulo	frem-d-ulo
 freneza	fre-ne-za
 frenezaj	fre-ne-z-aj
@@ -2711,6 +2722,7 @@ freþgrado	freþ-gra-do
 freþvianda	freþ-vi-an-da
 freþvoæa	freþ-vo-æa
 frida	fri-da
+fridujaj	fri-d-uj-aj
 frigido	fri-gi-do
 fringo	frin-go
 fripono	fri-po-no
@@ -2779,6 +2791,7 @@ gajnus	gaj-n-us
 gajvizaøajn	gaj-vi-zaø-ajn
 galantino	ga-lan-ti-no
 galanto	ga-lan-to
+Galatujan	ga-la-t-uj-an
 galinulo	ga-li-nu-lo
 galo	ga-lo
 galoþfabrikistoj	ga-loþ-fab-ri-k-ist-oj
@@ -3098,7 +3111,8 @@ hieroglifaj	hi-e-ro-gli-f-aj
 higieno	hi-gi-e-no
 himno	him-no
 hindo	hin-do
-hindujon	hin-d-uj-on
+hindujajn	hin-d-uj-ajn
+Hindujon	hin-d-uj-on
 hipnoto	hi-p-no-to
 hipokrito	hi-po-kri-to
 hirundo	hi-run-do
@@ -3498,6 +3512,7 @@ jungi	jun-gi
 junio	junio
 junulaj	jun-ul-aj
 junularo	jun-ul-aro
+junula	jun-ula
 junulino	jun-ul-ino
 junulo	jun-ulo
 junulon	jun-ul-on
@@ -3862,11 +3877,11 @@ komparas	kom-pa-r-as
 kompareblan	kom-pa-r-eb-l-an
 kompari	kom-pa-ri
 komparo	kom-pa-ro
-kompatemon	kom-pa-te-m-on
-kompati	kom-pa-ti
-kompatinda	kom-pa-t-inda
-kompato	kom-pa-to
-kompatu	kom-pa-tu
+kompatemon	kom-pate-m-on
+kompati	kom-pati
+kompatindajn	kom-pat-ind-ajn
+kompato	kom-pato
+kompatu	kom-patu
 kompense	kom-pen-se
 kompensi	kom-pen-si
 kompetenta	kom-pe-ten-ta
@@ -4143,7 +4158,7 @@ korano	ko-ra-no
 korbo	kor-bo
 kordo	kor-do
 kore	ko-re
-korekscita	ko-r-eks-ci-ta
+korekscita	ko-r-eks-cita
 korekta	ko-rek-ta
 korektado	ko-rek-t-ado
 korektanta	ko-rek-t-an-ta
@@ -4211,6 +4226,7 @@ kredi	kre-di
 kredigas	kre-d-ig-as
 kredigi	kre-d-igi
 kredinda	kre-d-inda
+kredindon	kre-d-ind-on
 kredito	kre-di-to
 kredu	kre-du
 krei	krei
@@ -4264,6 +4280,7 @@ kritika	kri-ti-ka
 kritikantoj	kri-ti-kan-t-oj
 kritike	kri-ti-ke
 kritiki	kri-ti-ki
+kritikindis	kri-ti-k-ind-is
 krizalido	kri-za-li-do
 krizantemo	kri-zan-te-mo
 krizo	kri-zo
@@ -4350,6 +4367,7 @@ kunsenti	kun-sen-ti
 kunsido	kun-sido
 kunteksto	kun-tek-s-to
 kuntiri	kun-tiri
+kunuleco	kun-ul-eco
 kunulino	kun-ul-ino
 kunulo	kun-ulo
 kunuloj	kun-ul-oj
@@ -4632,6 +4650,7 @@ liberigi	li-be-r-igi
 liberigitaj	li-be-r-ig-it-aj
 liberigu	li-be-r-igu
 liberiøinte	li-be-r-iø-in-te
+liberigontan	li-be-r-ig-ont-an
 liberon	li-be-r-on
 libertempi	li-ber-tem-pi
 libido	li-bi-do
@@ -5088,6 +5107,7 @@ maro	maro
 maron	mar-on
 marono	ma-ro-no
 maroto	ma-ro-to
+marþekzerciøojn	mar-þ-ek-zer-c-iø-ojn
 marþalo	mar-þa-lo
 marþi	mar-þi
 marþinta	mar-þin-ta
@@ -5154,7 +5174,7 @@ membrano	mem-bra-no
 membro	mem-bro
 membroj	mem-br-oj
 memefiko	mem-efi-ko
-memekscito	mem-eks-ci-to
+memekscito	mem-eks-cito
 memekzameno	mem-ek-za-me-no
 memevidenta	mem-evi-den-ta
 memfida	mem-fida
@@ -5659,6 +5679,7 @@ nian	nian
 niæjo	ni-æjo
 nigra	ni-gra
 nigraj	ni-gr-aj
+nigruleco	ni-gr-ul-eco
 nikæjo	nik-æjo
 nikoæjo	ni-ko-æjo
 nikolæjo	ni-kol-æjo
@@ -6124,6 +6145,7 @@ patroj	pa-tr-oj
 patron	pa-tr-on
 patrono	pa-tro-no
 patrujo	pa-tr-ujo
+patruja	pa-tr-uja
 paýlino	paý-li-no
 paýzi	paý-zi
 paýzon	paý-z-on
@@ -6357,7 +6379,7 @@ plibona¼oj	pli-bo-n-a¼-oj
 pliboneco	pli-bo-n-eco
 plibonecon	pli-bo-n-ec-on
 plibonigi	pli-bo-n-igi
-plibonigoj	pli-bo-n-ig-oj
+plibonigojn	pli-bo-n-ig-ojn
 plie	plie
 plifortiøas	pli-for-t-iø-as
 pligrandigo	pli-grand-igo
@@ -6459,6 +6481,7 @@ post	post
 postaj	post-aj
 posta¼truon	post-a¼-tru-on
 postamento	pos-ta-men-to
+postdoktoriøajn	post-dok-to-r-iø-ajn
 poste	poste
 posteno	pos-teno
 postesignoj	poste-sig-n-oj
@@ -6550,6 +6573,7 @@ preferas	pre-fe-r-as
 prefere	pre-fe-re
 preferi	pre-fe-ri
 prefero	pre-fe-ro
+preferindos	pre-fe-r-ind-os
 preferos	pre-fe-r-os
 preferus	pre-fe-r-us
 prefikso	pre-fik-so
@@ -7092,6 +7116,7 @@ revidi	re-vidi
 revidis	re-vid-is
 revido	re-vido
 revigligo	re-vi-gligo
+revindos	re-vin-d-os
 revizii	re-vi-zii
 revolucii	re-vo-lu-cii
 revolucion	re-vo-lu-ci-on
@@ -7145,6 +7170,7 @@ ridinda	ri-d-inda
 ridindaj	ri-d-ind-aj
 ridinde	ri-d-inde
 ridindigis	ri-d-ind-ig-is
+ridindus	ri-d-ind-us
 ridon	rid-on
 ridu	ri-du
 rifuøi	ri-fu-øi
@@ -7449,7 +7475,7 @@ sekrete	se-kre-te
 sekrethava	se-kret-ha-va
 sekreto	se-kre-to
 sekreton	se-kre-t-on
-seksekscita	seks-eks-ci-ta
+seksekscita	seks-eks-cita
 seksismo	sek-s-ismo
 sekslogo	seks-lo-go
 sekso	sek-so
@@ -7547,7 +7573,7 @@ seninflueco	sen-in-flu-eco
 senintence	sen-in-ten-ce
 senkleraj	sen-kle-r-aj
 senkompare	sen-kom-pa-re
-senkompate	sen-kom-pa-te
+senkompate	sen-kom-pate
 senkonscia	sen-kon-scia
 senkonscie	sen-kon-scie
 senkonsciigi	sen-kon-sci-igi
@@ -7750,6 +7776,7 @@ sinkopa	sin-ko-pa
 sinkretismo	sin-kre-t-ismo
 sinkrona	sin-kro-na
 sinkronigi	sin-kro-n-igi
+sinmortiginta	sin-mor-t-ig-in-ta
 sino	sino
 sinodo	sino-do
 sinofero	sin-ofe-ro
@@ -7942,6 +7969,7 @@ spekula	spe-ku-la
 sperta	sper-ta
 spertaj	sper-t-aj
 sperto	sper-to
+spertulecon	sper-t-ul-ec-on
 spesmiloj	spes-mi-l-oj
 spezi	spe-zi
 spico	spi-co
@@ -8798,6 +8826,7 @@ unuigo	unu-igo
 unuiøon	unu-iø-on
 unuj	unuj
 unujn	unujn
+unuleciona	unu-le-ci-o-na
 ununombro	unu-nom-bro
 ununura	unu-nu-ra
 unuoj	unu-oj
