@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-10-14 00:38:50 sergio>
+% Time-stamp: <2020-10-14 14:50:12 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -118,7 +118,7 @@ leýten2an3t mom2ant .okt2an3t
 % AR:
 nom(1a2r) % 1a2rig tra3rig 1a2riø
 am2a3r barb2a3r3 baz2a3r3 biz2a3r bulg2a3r .cez2a3r .ci3d2a3r cig2a3r
-din2a3r dr2a3t dol2a3r er2a3r3 f2a3r % bonfARO, fanfaro
+din2a3r dol2a3r er2a3r3 f2a3r % bonfARO, fanfaro
 j2ar % kvinjara, dujara bojaro
 formul2a3r  garg2a3r git2a3r3
 hung2a3r invent2a3r izob2a3r jug2u3l2a3r
@@ -140,7 +140,7 @@ nom(1a2t) 1a2t1ec
 adiab2a3t a2g1reg2a3t aýtorit2a3t .ab2a3t a2dek2v2a3t
 advok2a3t afrik2a3t .ag2a3t a2k1rob2a3t a2kur2a3t alop2a3t 3a2par2a3t
 a2rom2a3t .ba3t .bl2a3t .brok2a3t .deb2a3t delik2a3t
-diplom2a3t .duk2a3t .et2a3t fakult2a3t form2a3t fr2a3t % (bo|ge)frATOJ
+diplom2a3t dr2a3t .duk2a3t .et2a3t fakult2a3t form2a3t fr2a3t % (bo|ge)frATOJ
 .gla3t .gran2a3t pl4at % cferPLAT*o, manPLATo ...
 .hep2a3t
 kandid2a3t .kar2a3t .kazem2a3t .klim2a3t .kom2a3t .komit2a3t komp2a2t
@@ -188,7 +188,7 @@ nom(1e2c) e2cig
 .apr2e3c .de3c p2e3c %kromp-ecoj
 % EG:
 nom(1e2g) ver(1e2g)
-l2e3g .r2eg ekr2eg gr2eg re3gal % .del2e3g .fl2e3g kol2e3g rel2e3g
+l2e3g ekr2eg gr2eg re3gal % .del2e3g .fl2e3g kol2e3g rel2e3g
 .om2e3g .stra3t2e3g .norv2e3g
 % EJ:
 nom(1e2j) 1e2j1ig 1e2j1iø
@@ -198,7 +198,6 @@ nom(1e2j) 1e2j1ig 1e2j1iø
 .ek2onom
 .ek2s1 ek3s2alt .ek3s2ci 1ek4s3c4i2t ek4s3ciz .ek3s2ekv .ek3s2ent .ek3s2id ek3s2ku ek4s3kur ek4s3kuz .ek3s2on
 .ek3s2tar
-1e2kzem
 % EKSTER-
 .ekste2r1
 % EL-
@@ -210,7 +209,7 @@ adj(1e2m) 1e2mo. 1e2mon. 1e2m1ec
 .boh2e3m diad2e3m .dil2e3m .ed2e3m
 emfiz2e3m .ekz2e3m fon2e3m graf2e3m ø2e3m 1i2ø3e4m .har2e3m jerusal2e3m
 .le3m morf2e3m .po2e3m pr2e3m % .alpr2e3m .ekpr2e3m
-prob1l2e4m3 .sk2e3m s2e3m t2e3m % .anat2e3m .tot2e3m krizant2em
+prob1l2e4m3 s2e3m t2e3m % .sk2e3m .anat2e3m .tot2e3m krizant2em
 .tand2e3m te4or2em tr2e3m % .ektr2e3m ekstr2e3m sist2e3m
 % EN-
 .en1i2r .en1e2st .en1a2m .en1u2z
@@ -329,7 +328,7 @@ ins2ul2i3n
 % strof2a4n3t2
 % IND:
 adj(1in2d) ver_0(1in2d) 1in2do. 1in2don. 1in2d3ec 1in2d3ig 1in2d3iø
-b2ind .hin3d .lin3d rozal4in3d .bl4in3d .pin3d tamar4in3d % .þin3d
+.hin3d .lin3d rozal4in3d .bl4in3d .pin3d tamar4in3d % b2ind .þin3d
 v2in3d % rev#indis; % .in3d4ign
 in3d4iøen
 % % ING:
@@ -407,7 +406,7 @@ li5an li5as
 % MALNOV-
 malno2v1
 % MEM:
-.me2m1 me3m2or .mem3a2 .meme2 .me3m2uar
+.me2m1 me3m2or .mem3a2 .me3m2uar
 % MEZ-
 .me2z1
 mez2alianc me3z2embri me3z2enter .me3z2ere .mez2o me3z2u2r
@@ -418,7 +417,7 @@ mi5asm mi5aý
 .mi4s3
 .mi5s4al mi5s4il .mi5s4ia .mi5s4ie .mi5s4ii .mi5s4io .mi5s4iu
 % NE-
-.nel2 .nei2
+.nei2
 4ne. % [ili þaj-] ne kontraýas mian proponon
 % NENIUokaze ktp:
 i4u3o
@@ -664,7 +663,7 @@ s1v % 4s1z foriginda, æar plejparte en la pola-hungara Warszawa, Haszpra ktp.
 4t1b 4t1c 4t1d 4t1f 2stf 4t1g 4t1h4 4t1j2 4t1k 2t1l2 4t1m 4t1n 4st1n
 4t1p2 % vortp#aro
 4t3s2 4t1t 4t1v
-4t1z .fi2t2z1 t2zs % plejparte en la fremdaj Nitzsche, Ratzinger, Fitzgerald
+4t1z % .fi2t2z1 t2zs plejparte en la fremdaj Nitzsche, Ratzinger, Fitzgerald
 4t1æ 4t1ø 4t1¼ 4t1þ2
 %
 % Ý:
@@ -693,6 +692,7 @@ a2spekt % grava-spekta
 .cen2t cen3t2r % cen#testro
 daý2r
 de2k1o2k de2k1u2n % dudekoka (20a)
+.dra4t1
 3e2kz
 1e2lemen2t1
 3e2senc 1e2sprim
@@ -703,6 +703,7 @@ fo2j .fra2z1 fra3z2eo
 .fre2þ
 %gar2d
 gra2n2d1 gran3d2io
+.¼e4t1
 komuni2k1
 laý2dind laý2d2a3t % laý/data :: laýd/ata
 le2ø % malle#øa¼o
@@ -735,7 +736,6 @@ tolst2oj.
 1u2nuo j2u2n % kom2un
 u2z ku3z mu3z ilu3zi klu3z kru3z % elu#zi
 lin2g2v1uz
-vor2t1uz
 .vi2þ
 .vi2v1 2ipov viza2ø1
 zo2o
@@ -755,6 +755,7 @@ ifdef({RAR}, {3s2lofoks 3s2lojd 3s2malt 3s2milak .ri3g .ri3t .ru3m .tu3l mar2þ1j
 % 1999-08-10  1.0  Complete redesign of the patterns for LaTeX by Sergio Pokrovskij
 % 2012-01-14  2.0  Porting to m4 for use in hyphenator etc.
 % 2013-02-03  3.0  Kontrolita per la vortostoko de Fundamento kaj BRO
+% 2020-10-14  4.0  Redukto en github
 
 % Here ends ``eohyphn.m4''.
 

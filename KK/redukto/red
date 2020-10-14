@@ -17,10 +17,9 @@ rm -f r.l3 r0.l3 h.l3.tex h0.l3 /tmp/e1.l3
 ./mk-nums
 
 declare -i i=`cat h0.l3|wc -l`
-i=1200
 echo "Longo $i"
 
-while let --i; [ $i -gt 999 ]; do
+while let --i; [ $i -gt 1 ]; do
     p=`sed -n ${i}p h0.l3`
     sed ${i}d h1.l3 > h.l3.tex
     echo "$i: $p"
@@ -31,5 +30,5 @@ while let --i; [ $i -gt 999 ]; do
 done
 if test -e r.l3; then
     sed 's/[0-9#]//g' r.l3 > r0.l3
-    paste r.l3 r0.l3 > r2.l3
+    paste r.l3 r0.l3 | sort -t\# -k2,2 -n > r2.l3
 fi

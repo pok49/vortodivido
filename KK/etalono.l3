@@ -240,6 +240,7 @@ alproksimiøis	al-prok-si-m-iø-is
 alproksimiøos	al-prok-si-m-iø-os
 alprunti	al-prun-ti
 alsaltas	al-sal-t-as
+alstrebinda	al-stre-b-inda
 alþvebis	al-þve-b-is
 alta	alta
 altabla	al-ta-b-la
@@ -415,6 +416,8 @@ aprilo	apri-lo
 apro	apro
 aprobas	apro-b-as
 aprobi	apro-bi
+aprobindaj	apro-b-ind-aj
+aprobinda¼ojn	apro-bin-d-a¼-ojn
 aprobo	apro-bo
 aprobon	apro-b-on
 apsido	ap-si-do
@@ -785,6 +788,7 @@ bildo	bil-do
 bileto	bi-le-to
 bileton	bi-le-t-on
 bilo	bi-lo
+bindado	bin-d-ado
 bindi	bin-di
 biogaso	bio-ga-so
 birdido	bir-d-ido
@@ -921,6 +925,7 @@ brokanto	bro-kan-to
 brokato	bro-ka-to
 bronzo	bron-zo
 broso	bro-so
+broþurglubindita	bro-þur-glu-bin-d-ita
 broþuro	bro-þu-ro
 brovo	bro-vo
 bruegon	bru-eg-on
@@ -1644,7 +1649,8 @@ dramo	dra-mo
 drapo	dra-po
 draþcilindro	draþ-ci-lin-dro
 draþmaþino	dra-þ-ma-þi-no
-drato	dra-to
+drato	drato
+dratretaj	drat-ret-aj
 dresi	dre-si
 drilo	dri-lo
 drinkejo	drin-k-ejo
@@ -1660,6 +1666,8 @@ dubaj	du-b-aj
 dubas	du-b-as
 dube	du-be
 dubi	du-bi
+dubindajn?	du-b-ind-ajn
+dubindigis?	du-b-ind-ig-is
 dubis	du-b-is
 dubo	du-bo
 duboj	du-b-oj
@@ -2112,6 +2120,7 @@ enprenitaj	en-pre-n-it-aj
 enpreno	en-pre-no
 enprenu	en-pre-nu
 enprofundiøis	en-pro-fun-d-iø-is
+enretaj	en-ret-aj
 enrubujigus	en-ru-b-uj-ig-us
 ensaluti	en-sa-lu-ti
 enspezfonto	en-spez-fonto
@@ -2327,7 +2336,7 @@ falsan	fals-an
 falseto	fal-se-to
 falsetulo	fal-se-t-ulo
 falsidas	fal-si-d-as
-fals¼uro	fals-¼u-ro
+fals¼urinto	fals-¼u-r-in-to
 falslanga	fals-lan-ga
 falstelo	fal-ste-lo
 falus	fa-l-us
@@ -2352,6 +2361,8 @@ faradi	fa-r-adi
 faradis	fa-r-ad-is
 faras	fa-r-as
 farataj	fa-r-at-aj
+farbindikitaj?	far-bin-di-k-it-aj
+farbindustrion?	far-bin-du-s-tri-on
 farbo	far-bo
 farebla	fa-r-eb-la
 fari	fa-ri
@@ -2783,6 +2794,7 @@ furiozaj	fu-ri-o-z-aj
 furioze	fu-ri-o-ze
 fusilo	fu-si-lo
 fuþa	fuþa
+fuþbindisto	fuþ-bin-d-isto
 fuþe	fuþe
 fuþemaj	fuþ-em-aj
 fuþi	fuþi
@@ -2889,6 +2901,7 @@ globo	glo-bo
 globzono	glob-zo-no
 gloraj	glo-r-aj
 gloro	glo-ro
+glukartonbinda¼o	glu-kar-ton-bin-d-a¼o
 gluo	gluo
 gluti	glu-ti
 gobio	go-bio
@@ -2961,6 +2974,7 @@ grinci	grin-ci
 gripo	gri-po
 griza	gri-za
 grizbarbulo	griz-bar-b-ulo
+grizæevaloj	griz-æe-va-l-oj
 grizfela	griz-fe-la
 grizhara	griz-hara
 groto	gro-to
@@ -3008,6 +3022,7 @@ gvidus	gvid-us
 øin	øin
 øis	øis
 øisfunde	øis-fun-de
+øis¼abote	øis-¼a-bo-te
 øisnunaj	øis-nu-n-aj
 øisvivos	øis-vi-v-os
 øojas	øo-j-as
@@ -3045,6 +3060,7 @@ harmonio	har-mo-nio
 harmoniscienco	har-mo-ni-sci-en-co
 haro	haro
 haroj	har-oj
+harreton	har-ret-on
 Haszpra	ha-sz-pra
 haýto	haý-to
 havanta	ha-v-an-ta
@@ -3434,6 +3450,7 @@ intervenis	in-ter-ve-n-is
 intervjuoj	in-ter-vju-oj
 intesto	in-tes-to
 intima	in-ti-ma
+intrigemaj	in-tri-g-em-aj
 intrigo	in-tri-go
 inundi	inun-di
 invado	in-va-do
@@ -3484,7 +3501,6 @@ jardekoj	jar-de-k-oj
 jaro	jaro
 jaroj	jar-oj
 jaron	jar-on
-jena	je-na
 jenaj	je-n-aj
 jene	jene
 jenon	je-n-on
@@ -3534,12 +3550,13 @@ juvelo	ju-ve-lo
 ¼aketo	¼a-ke-to
 ¼aluza	¼a-luza
 ¼aýdo	¼aý-do
-¼etadi	¼e-t-adi
-¼etados	¼e-t-ad-os
-¼etas	¼e-t-as
-¼eti	¼e-ti
-¼eto	¼e-to
-¼etu	¼e-tu
+¼etadi	¼et-adi
+¼etados	¼et-ad-os
+¼etas	¼et-as
+¼eti	¼eti
+¼eto	¼eto
+¼etretaj	¼et-ret-aj
+¼etu	¼etu
 ¼ulo	¼u-lo
 ¼uri	¼u-ri
 ¼urnalisto	¼ur-na-l-isto
@@ -5333,6 +5350,7 @@ misiisto	mi-si-isto
 misilo	mi-silo
 misio	mi-sio
 misiuloj	mi-si-ul-oj
+mis¼eto	mis-¼e-to
 miskomprenis	mis-kom-pre-n-is
 miskomprenon	mis-kom-pre-n-on
 mislangulo	mis-lan-gu-lo
@@ -5345,6 +5363,7 @@ mistere	mis-te-re
 mistero	mis-te-ro
 mistifiki	mis-tifi-ki
 misuzu	mis-uzu
+Miþno	mi-þ-no
 mitingo	mi-tin-go
 mito	mi-to
 mizeran	mi-ze-r-an
@@ -6733,6 +6752,7 @@ profundiøu	pro-fun-d-iøu
 programo	pro-gra-mo
 progresas	pro-gre-s-as
 progresi	pro-gre-si
+progresigajn	pro-gre-s-ig-ajn
 projektistoj	pro-jek-t-ist-oj
 projektita	pro-jek-t-ita
 projekto	pro-jek-to
@@ -6834,6 +6854,7 @@ psilo	psi-lo
 pterodaktilo	pte-ro-dak-ti-lo
 publika	pu-b-li-ka
 publikaj	pu-b-li-k-aj
+publikigemulo	pu-b-li-k-ig-em-ulo
 publikigis	pu-b-li-k-ig-is
 publiko	pu-b-li-ko
 publikon	pu-b-li-k-on
@@ -6867,6 +6888,7 @@ pustulo	pu-s-tu-lo
 puþæaron	puþ-æar-on
 puþi	puþi
 puþiøas	puþ-iø-as
+puþ¼etante	puþ-¼e-t-an-te
 puþveturilo	puþ-ve-tu-r-ilo
 puto	pu-to
 putri	pu-tri
@@ -6943,6 +6965,7 @@ realigis	re-al-ig-is
 realiøo	re-al-iøo
 rebati	re-ba-ti
 rebato	re-b-ato
+rebindi	re-bin-di
 rebonigi	re-bo-n-igi
 rebrili	re-bri-li
 recenzoekzemplerojn	re-cen-zo-ek-zem-ple-r-ojn
@@ -7267,6 +7290,7 @@ riverenci	ri-ve-ren-ci
 rivereto	ri-ve-reto
 rivero	ri-ve-ro
 rivoluo	ri-vo-luo
+rizæipso	riz-æip-so
 rizherbo	riz-her-bo
 rizo	ri-zo
 robo	ro-bo
@@ -7838,6 +7862,8 @@ skarlata	skar-la-ta
 skatoleto	ska-to-l-eto
 skatolo	ska-to-lo
 skeleto	ske-le-to
+skemismajn	ske-m-ism-ajn
+skemece	skem-ece
 skemoj	ske-m-oj
 sketa	sketa
 skio	skio
@@ -8295,6 +8321,7 @@ sviso	svi-so
 þanøas	þan-ø-as
 þanøi	þan-øi
 þanøiøas	þan-ø-iø-as
+þanøiøemajn	þan-ø-iø-em-ajn
 þanøiøoj	þan-ø-iø-oj
 þanøis	þan-ø-is
 þanøita	þan-ø-ita
@@ -8480,6 +8507,7 @@ tekston	tek-s-t-on
 tekstvortoj	tek-st-vort-oj
 telefone	te-le-fone
 telefono	te-le-fo-no
+telefonretajn	te-le-fon-ret-ajn
 telegrafo	te-le-gra-fo
 telegramo	te-le-gra-mo
 telera	te-le-ra
@@ -8729,6 +8757,7 @@ trockianoj	troc-ki-a-n-oj
 troglodito	tro-glo-di-to
 trograndigas	tro-grand-ig-as
 trograndigo	tro-grand-igo
+troigajn	tro-ig-ajn
 trompi	trom-pi
 trompiøi	trom-p-iøi
 troto	tro-to
@@ -8751,6 +8780,7 @@ trovitaj	tro-v-it-aj
 trovoj	tro-v-oj
 trovos	tro-v-os
 trudi	tru-di
+trudiøemon	tru-d-iø-em-on
 trukartoj	tru-kar-t-oj
 trulo	tru-lo
 trumo	tru-mo
