@@ -302,6 +302,7 @@ ampere	am-pe-re
 ampleksan	am-plek-s-an
 amplekso	am-plek-so
 ampolo	am-po-lo
+amromanojn	am-ro-ma-n-ojn
 amuleto	amu-le-to
 amuzi	amu-zi
 ana¶oreto	ana-¶o-reto
@@ -401,11 +402,11 @@ aperos	ape-r-os
 aperturo	aper-tu-ro
 aperus	ape-r-us
 apetito	ape-ti-to
-aplaýdadojn	aplaý-d-ad-ojn
-aplaýdi	aplaý-di
-apliki	apli-ki
-apliko	apli-ko
-aplombo	aplom-bo
+aplaýdadojn	ap-laý-d-ad-ojn
+aplaýdis	ap-laý-d-is
+apliki	ap-li-ki
+apliko	ap-li-ko
+aplombo	ap-lom-bo
 apogbastonon	apog-ba-s-to-n-on
 apogi	apo-gi
 apogis	apo-g-is
@@ -442,6 +443,7 @@ arbarojn	arb-ar-ojn
 arbeta¼manteloj	arbe-ta¼-man-te-l-oj
 arbeta¼o	arbe-t-a¼o
 arbeto	arb-eto
+arbfolioj	arb-fo-li-oj
 arbgregoj	arb-greg-oj
 arbhava	arb-ha-va
 arbitra	ar-bi-tra
@@ -450,6 +452,7 @@ arbitro	ar-bi-tro
 arbitron	ar-bi-tr-on
 arbkava¼o	arb-ka-v-a¼o
 arbo	arbo
+arbobranæoj	arbo-bran-æ-oj
 arda	ar-da
 arestis	ares-t-is
 arestitajn	ares-t-it-ajn
@@ -462,6 +465,7 @@ argano	ar-ga-no
 argilo	ar-gi-lo
 argumentoj	ar-gu-men-t-oj
 arøento	ar-øen-to
+ar¶ivo	ar-¶i-vo
 arido	ari-do
 ariøo	ar-iøo
 aristo	ari-s-to
@@ -696,7 +700,8 @@ bati	ba-ti
 batis	ba-t-is
 batisto	ba-ti-s-to
 batita	ba-t-ita
-baton	ba-t-on
+baton	bat-on
+batos	ba-t-os
 batþnuro	bat-þnu-ro
 baza	ba-za
 bazan	ba-z-an
@@ -785,6 +790,8 @@ bigoto	bi-go-to
 bilardo	bi-lar-do
 bildgalerioj	bild-ga-le-ri-oj
 bildo	bil-do
+bildrakonto	bild-ra-kon-to
+bildromano	bild-ro-ma-no
 bileto	bi-le-to
 bileton	bi-le-t-on
 bilo	bi-lo
@@ -1251,7 +1258,7 @@ daýron	daýr-on
 daýros	daýr-os
 daýrus	daýr-us
 Davido	da-vi-do
-debato	de-ba-to
+debaton	de-bat-on
 debatos	de-ba-t-os
 debeto	de-be-to
 debilo	de-bi-lo
@@ -1344,6 +1351,7 @@ demando	de-man-do
 demandoj	de-man-d-oj
 demandon	de-man-d-on
 demeto	de-me-to
+Demokrito	de-mo-kri-to
 demono	de-mo-no
 demonstras	de-mons-tr-as
 denove	de-no-ve
@@ -1385,6 +1393,7 @@ detalaj	de-ta-l-aj
 detale	de-ta-le
 detalo	de-ta-lo
 detalon	de-ta-l-on
+detektivromano	de-tek-tiv-ro-ma-no
 detenadus	de-te-n-ad-us
 deteni	de-te-ni
 determini	de-ter-mi-ni
@@ -1607,6 +1616,7 @@ doloro	do-lo-ro
 domaæo	do-m-aæo
 domadministranto?	do-m-ad-mi-ni-s-tr-an-to
 domaøi	do-ma-øi
+dombrulon	dom-brul-on
 domicilo	do-mi-ci-lo
 domingo	do-min-go
 domo	do-mo
@@ -1896,6 +1906,7 @@ ektimis	ek-ti-m-is
 ektimos	ek-ti-m-os
 ektremo	ek-tre-mo
 ekturnis	ek-tur-n-is
+ekumenajn	eku-men-ajn
 ekvatoro	ek-va-to-ro
 ekvidis	ek-vid-is
 ekvidos	ek-vid-os
@@ -2594,6 +2605,7 @@ fonemo	fo-ne-mo
 fonografo	fo-no-gra-fo
 fontano	fon-ta-no
 fonto	fon-to
+fontoplumo	fon-to-plu-mo
 fora	fora
 foraj	for-aj
 forblovi	for-blo-vi
@@ -2692,6 +2704,7 @@ fragila	fra-g-ila
 frago	fra-go
 frakasi	fra-ka-si
 frako	fra-ko
+framasonojn	fra-ma-so-n-ojn
 frambkolora	framb-ko-lo-ra
 frambo	fram-bo
 franca	fran-ca
@@ -2743,6 +2756,7 @@ fridujaj	fri-d-uj-aj
 frigido	fri-gi-do
 fringo	frin-go
 fripono	fri-po-no
+Frisk	frisk
 friti	fri-ti
 fritilario	fri-ti-la-rio
 frito	fri-to
@@ -3315,6 +3329,7 @@ infanlisto	in-fan-listo
 infano	in-fa-no
 infanoj	in-fa-n-oj
 infanon	in-fa-n-on
+infanromanoj	in-fan-ro-ma-n-oj
 infanþteli	in-fan-þte-li
 infanteriano	in-fan-te-ri-a-no
 infanto	in-fan-to
@@ -3511,7 +3526,8 @@ jesigi	je-s-igi
 jida	jida
 joæjo	jo-æjo
 johanæjo	jo-han-æjo
-johano	jo-ha-no
+Johano	jo-ha-no
+John	john
 joto	jo-to
 jubileo	ju-bi-leo
 jubilo	ju-bi-lo
@@ -4111,6 +4127,7 @@ konsonanton	kon-so-nan-t-on
 konstanta	kon-stan-ta
 konstantaj	kon-stan-t-aj
 konstante	kon-stan-te
+Konstantinopolo	kon-stan-ti-no-po-lo
 konstanton	kon-stan-t-on
 konstatas	kon-sta-t-as
 konstatis	kon-sta-t-is
@@ -4290,6 +4307,7 @@ kriistoj	kri-ist-oj
 kriketo	kri-ke-to
 kriman	kri-m-an
 krimo	kri-mo
+krimromanon	krim-ro-ma-n-on
 kringo	krin-go
 krios	kri-os
 kripla	kri-pla
@@ -4363,8 +4381,10 @@ kulpo	kul-po
 kulpulo	kul-p-ulo
 kultivi	kul-ti-vi
 kulto	kul-to
+kultromanon?	kul-tro-ma-n-on
 kulturaj	kul-tu-r-aj
 kulturi	kul-tu-ri
+kulturlingvo	kul-tur-lin-g-vo
 kulturo	kul-tu-ro
 kulturon	kul-tu-r-on
 kumulo	ku-mu-lo
@@ -4477,6 +4497,7 @@ kvieta	kvi-eta
 kvin	kvin
 kvinangule	kvin-an-gu-le
 kvindek	kvin-dek
+kvinetaøa	kvin-eta-øa
 kvinjara	kvin-jara
 kvinono	kvin-o-no
 kvinope	kvin-ope
@@ -4527,6 +4548,7 @@ lameno	la-me-no
 lampfabrikon	lamp-fab-ri-k-on
 lampo	lam-po
 lampþirmilon	lamp-þir-mi-l-on
+lamplumo?	lam-plu-mo
 landlimo	land-li-mo
 lando	lan-do
 landoj	lan-d-oj
@@ -4683,6 +4705,7 @@ libido	li-bi-do
 libreto	li-breto
 libro	li-bro
 libroj	li-br-oj
+libromaniulo	li-bro-ma-ni-ulo
 librotenanto	li-bro-te-n-an-to
 licenco	li-cen-co
 liceo	li-ceo
@@ -4802,6 +4825,7 @@ lumis	lu-m-is
 lumjaroj	lum-jar-oj
 lumo	lu-mo
 lumoj	lu-m-oj
+lumplumo	lum-plu-mo
 lumoseræantoj	lu-mo-ser-æ-an-t-oj
 lumseræantoj	lum-ser-æ-an-t-oj
 lumturo	lum-tu-ro
@@ -5408,6 +5432,7 @@ momento	mo-men-to
 momenton	mo-men-t-on
 mona¶o	mo-na-¶o
 monaj	mo-n-aj
+monar¶ojn	mo-nar-¶ojn
 monatnomoj	mo-nat-no-m-oj
 monato	mo-na-to
 monatoj	mo-na-t-oj
@@ -5489,6 +5514,7 @@ multe	mul-te
 multego	mult-ego
 multegon	mult-eg-on
 multekosta	multe-ko-s-ta
+multelingvan	multe-lin-g-v-an
 multenombro	multe-nom-bro
 multepromesaj	multe-pro-me-s-aj
 multescia	multe-scia
@@ -5908,6 +5934,7 @@ okupiøi	oku-p-iøi
 okupos	oku-p-os
 okupus	oku-p-us
 oleo	oleo
+oligar¶ia	oli-gar-¶ia
 olivøardenojn	oliv-øar-de-n-ojn
 olivo	olivo
 olivoleo	oliv-oleo
@@ -6075,6 +6102,7 @@ pantoflo	pan-to-flo
 papago	pa-pa-go
 papera	pa-pe-ra
 paperan	pa-pe-r-an
+paperfolioj	pa-per-fo-li-oj
 papero	pa-pe-ro
 paperon	pa-pe-r-on
 paperþmiri	pa-per-þmiri
@@ -6232,6 +6260,8 @@ penti	pen-ti
 pentra¼o	pen-tr-a¼o
 pentras	pen-tr-as
 pentri	pen-tri
+pentromaniero	pen-tro-ma-ni-e-ro
+peraýtoritata	per-aý-to-ri-ta-ta
 perdas	per-d-as
 perdi	per-di
 perdiøas	per-d-iø-as
@@ -6449,12 +6479,14 @@ pluralo	plur-a-lo
 pluretapan	plur-e-ta-p-an
 plurfoja	plur-foja
 plurfoje	plur-foje
+plurlingvaj	plur-lin-g-v-aj
 plus	plus
 pluslaboro	plu-sla-bo-ro
 pluþbesto	pluþ-bes-to
 pluvego	plu-v-ego
 pluvglacio	pluv-gla-cio
 pluvo	plu-vo
+pluvskualoj	pluv-sku-a-l-oj
 poemo	po-e-mo
 poemon	po-e-m-on
 poeto	po-e-to
@@ -6964,7 +6996,7 @@ realigeblon	re-al-ig-eb-l-on
 realigis	re-al-ig-is
 realiøo	re-al-iøo
 rebati	re-ba-ti
-rebato	re-b-ato
+rebato	re-bato
 rebindi	re-bin-di
 rebonigi	re-bo-n-igi
 rebrili	re-bri-li
@@ -7042,10 +7074,12 @@ reiri	re-iri
 reiris	re-ir-is
 re¼etis	re-¼e-t-is
 rekaþu	re-ka-þu
+reklamas	re-klam-as
 reklamafiþoj	re-kla-m-afi-þ-oj
 reklami	re-kla-mi
 reklamo	re-kla-mo
 reklamon	re-kla-m-on
+reklamos	re-kla-m-os
 rekomencos	re-ko-men-c-os
 rekomendi	re-ko-men-di
 rekomendite	re-ko-men-d-ite
@@ -7382,6 +7416,7 @@ sakstraton	sak-strat-on
 salajro	sa-laj-ro
 salamoniako	sa-la-mo-ni-a-ko
 salato	sa-la-to
+Salcburgo	salc-burgo
 saliko	sa-li-ko
 salo	sa-lo
 salono	sa-lo-no
@@ -7399,6 +7434,7 @@ samara	sa-ma-ra
 samarkanda	sa-mar-kan-da
 same	same
 samgentanoj	sam-gen-ta-n-oj
+samideanoj	sam-ide-an-oj
 samklasanoj	sam-kla-sa-n-oj
 samlernejanoj	sam-ler-ne-ja-n-oj
 samon	sam-on
@@ -7883,7 +7919,7 @@ skriba	skri-ba
 skribadis	skri-b-ad-is
 skribado	skri-b-ado
 skribas	skri-b-as
-skribataj	skri-b-at-aj
+skribataj	skri-bat-aj
 skribe	skri-be
 skribi	skri-bi
 skribilajn	skri-b-il-ajn
@@ -8008,6 +8044,7 @@ specialaj	spe-ci-a-l-aj
 specialan	spe-ci-a-l-an
 speciale	spe-ci-a-le
 specialisto	spe-ci-a-l-isto
+specialtema	spe-ci-al-te-ma
 specimeno	spe-ci-me-no
 speco	spe-co
 specoj	spe-c-oj
@@ -8629,7 +8666,8 @@ tolstoj	tol-stoj
 tomato	to-ma-to
 tombo	tom-bo
 tombon	tom-b-on
-tombþtonaj	tomb-þto-n-aj
+tombþtona	tomb-þto-na
+Tomsk	tomsk
 tondi	ton-di
 tondilo	ton-d-ilo
 tondro	tond-ro
@@ -8758,6 +8796,7 @@ troglodito	tro-glo-di-to
 trograndigas	tro-grand-ig-as
 trograndigo	tro-grand-igo
 troigajn	tro-ig-ajn
+tromanøemon	tro-man-øe-m-on
 trompi	trom-pi
 trompiøi	trom-p-iøi
 troto	tro-to
@@ -8869,6 +8908,7 @@ unuaj	unu-aj
 unuan	unu-an
 unuanime	unu-ani-me
 unuataga	unua-ta-ga
+unubate	unu-bate
 unudrata	unu-dra-ta
 unue	unue
 unuece	unu-ece
@@ -9059,6 +9099,7 @@ versioj	ver-si-oj
 verslinio	vers-li-nio
 versmezuro	vers-me-zuro
 verso	ver-so
+versromano	vers-ro-ma-no
 verþajne	ver-þajne
 verþi	ver-þi
 vertico	ver-ti-co
@@ -9229,6 +9270,7 @@ vojaøi	vo-ja-øi
 vojaøkamarado	vo-jaø-ka-ma-ra-do
 vojaølibron	vo-jaø-li-br-on
 vojaøo	vo-ja-øo
+vojaøromanon	vo-jaø-ro-ma-n-on
 vojeto	voj-eto
 vojiro	voj-iro
 vojo	vojo

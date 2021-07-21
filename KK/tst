@@ -13,5 +13,5 @@ make test
 test -s hyphen_eo.tex || exit 9
 cd KK
 ./test_eo.pl $FONTO > /tmp/e1.l3
-diff etalono.l3 /tmp/e1.l3
+( luit -encoding 'ISO 8859-3' diff etalono.l3 /tmp/e1.l3 )
 

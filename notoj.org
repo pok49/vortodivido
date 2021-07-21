@@ -12,3 +12,12 @@
      The '"FILE"' part is often omitted when the file name did not
      change from the previous directive.
      (info "(m4)Preprocessor features")
+* LibreOffice
+** url:
+https://wiki.documentfoundation.org/Language/Support
+https://extensions.libreoffice.org/en/extensions/show/esperanto-spellchecker-thesaurus-and-hyphenizer
+
+* Ubuntu:
+https://helpmanual.io/packages/apt/hyphen-de/
+
+

@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2020-10-14 14:50:12 sergio>
+% Time-stamp: <2021-03-24 09:49:49 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -53,7 +53,7 @@ e2sper
 2ou % lingvou#zo
 uo2 % duopo, duobla
 % konsonantaj fina¼oj:
-%?? 2jn. 2lp. 2lt. 2nk. 2ns. 2nt. 2st.
+2hn. 2sk. %?? 2jn. 2lp. 2lt. 2nk. 2ns. 2nt. 2st.
 %
 % .bl4
 .br4 .gl4 .gr4 .kl4 .kr4 .kv4 .pl4
@@ -84,7 +84,7 @@ nom(1a2¼)
 .al2t
 al3tabl al3t2a3r al3ter al3trui
 % AMAS- (popolAMASO):
-3a2mas mals4am1
+3a2mas fr4a3mason mals4am1 rekl4am
 % AN:
 % nom(1a2n) ver(1a2n) 1a2nism 1a2n1i2n
 % afg2a3n akomp2a3n arg2a3n ark2a3n ban2a3n but2a3n cig2a3n
@@ -139,7 +139,8 @@ sanit2a3r sek2u3l2a3r sekund2a3r sing2u3l2ar skal2a3r s2t2a3r % gardos-t-aro
 nom(1a2t) 1a2t1ec
 adiab2a3t a2g1reg2a3t aýtorit2a3t .ab2a3t a2dek2v2a3t
 advok2a3t afrik2a3t .ag2a3t a2k1rob2a3t a2kur2a3t alop2a3t 3a2par2a3t
-a2rom2a3t .ba3t .bl2a3t .brok2a3t .deb2a3t delik2a3t
+a2rom2a3t b2at %skrib3 % skrib-ata
+.bl2a3t .brok2a3t delik2a3t
 diplom2a3t dr2a3t .duk2a3t .et2a3t fakult2a3t form2a3t fr2a3t % (bo|ge)frATOJ
 .gla3t .gran2a3t pl4at % cferPLAT*o, manPLATo ...
 .hep2a3t
@@ -195,7 +196,7 @@ nom(1e2j) 1e2j1ig 1e2j1iø
 .be3j .pl2e2j1 malpl2e2j1 pleja2
 % EK-, EKS-
 .ek1 .eka2m .ekf4 .ek2ip .ek1l2um .ek1l4a2m .ekma2l1
-.ek2onom
+.ek2onom .ek2ume2n
 .ek2s1 ek3s2alt .ek3s2ci 1ek4s3c4i2t ek4s3ciz .ek3s2ekv .ek3s2ent .ek3s2id ek3s2ku ek4s3kur ek4s3kuz .ek3s2on
 .ek3s2tar
 % EKSTER-
@@ -371,7 +372,7 @@ nom(1i2t) 1i2t3ec p2i3t4eci
 .br2i3t .ci3t .cirkv2i3t .civ2i3t defic2i3t .di3g2i3t
 dinam2i3t .ef1r2i3t eksplic2i3t .el2i3t .erm2i3t
 .erud2i3t .ev2i3t .fr2i3t .gl2i3t .graf2i3t .gran2i3t
-.grav2i3t hermafrod2i3t hez2i3t hipokr2i3t im2i3t .inc2i3t
+.grav2i3t hermafrod2i3t hez2i3t kr2i3t im2i3t .inc2i3t
 infin2i3t inkogn2i3t interm2i3t .inv2i3t kapac2i3t komprom2i3t
 .konf2i3t .kred2i3t .kvi3r2i3t .kv2i3t .kval2i3t .kviv2i3t .li3t .mi3t
 malak2i3t .margar2i3t .marm2i3t .med2i3t megal2i3t mer2i3t
@@ -439,7 +440,7 @@ de2k3o2na de2k3o2ne. de2k3o2no cen2t3o2n mil3o2n
 % ONT:
 nom(1on2t)
 disk2on3t .fon3t .fr2on3t .hon3t horiz2on3t .kon3t konfr2on3t
-.mon3t mastod2on3t .melol2on3t .pon3t .rak2on3t .rem2on3t .renk2on3t
+.mon3t mastod2on3t .melol2on3t .pon3t rak2on3t .rem2on3t .renk2on3t
 % .sp2on3t
 vol2on3t
 % OP:
@@ -467,6 +468,8 @@ vol2on3t
 % .tr2o3t .trik2o3t % .vo3t
 % .zel2o3t z2l2o3t
 .pa2þ
+%PER-
+.pe2r1a2
 % PLEN-
 .ple2n3 % plenAØA
 2oplen
@@ -486,7 +489,7 @@ pos3t2ament pos3t2e2n post2esign pos3t2iljon pos3t2u3l
 .re2tro
 % SAM-
 .sa2m
-sa3m2ar .sa3m2u3m sa3m2uraj sa2m1ur2b
+sa3m2ar .sam1i2de .sa3m2u3m sa3m2uraj sa2m1ur2b
 % SEN-
 .se2n1 .sen3s4t % sen-streæa
 sen2e2skal
@@ -523,7 +526,7 @@ nom(1u2j) 1u2j1ig 1u2j1iø
 % UL:
 nom(1u2l) 1e2m1u2l e3m2u3ls 1u2l3ec .un2u3l4e 1u2l3ej
 %
-.akum2u3l ang2u3l .bu3l .bet2u3l .brul3 ejak2u3l .fist2u3l
+.akum2u3l ang2u3l .bu3l .bet2u3l br2ul3 ejak2u3l .fist2u3l
 form2u3l .fu3l galin2u3l .gran2u3l .grat2u3l .herk2u3l
 hierod2u3l homunk2u3l ins2u3l .instanb2u3l .ju3l .¼u3l
 .ku3l .kab2u3l kalend2u3l kalk2u2l1 kapit2u3l kaps2u3l koag2u3l
@@ -539,7 +542,7 @@ turb2u3l .ul2u3l .uv2u3l .vi4st2ul
 % UM:
 nom(1u2m) ver(1u2m) 1u2m3ec
 .alb2u3m .bu3m .opid2u3m referend2u3m .fu3m parf2u3m .gu3m
-.hu3m .kuk2u3m .luk2u3m .lu3m vol2u3m .plu3m .stern2u3m
+.hu3m .kuk2u3m .luk2u3m .lu3m vol2u3m pl2u3m .stern2u3m
 .pu3m .ser2u3m .gru3m .kvor2u3m .tru3m % .stru3m
 .su3m .res2u3m kons2u3m opos2u3m bi5t2u3m .kost2u3m % .zu3m
 % VIA-
@@ -584,7 +587,7 @@ d1z 4d1æ 4d1ø 4d1¼ 4d1þ2
 4g1b 4g1c 4g1æ 2g1d2 4g1f 4g1g2 4g1ø 4g1h4 4g1j2 4g1¼ 4g1k 2g1m 4g1n 4g1p
 4g1s 4g1þ 4g1t g1v 4g1z
 %
-2ø1b2 4ø1c 4ø1d 4ø1f 4ø1g 4ø1h4 4ø1j2 4ø1k 4ø1l 4ø1m 4ø1n 4ø1p
+2ø1b2 4ø1c 4ø1d 4ø1f 4ø1g 4ø1h4 4ø1j2 4ø1k 4ø1l 4ø1m 4ø1n 4ø1p 4ø1r
 4ø1s 4ø1t 4ø1v 4ø1z 4ø1æ 4ø1ø 4ø1¼ 4ø1þ
 %
 4h1æ 4h1ø 4h1¼ 4h1þ
@@ -632,10 +635,10 @@ n2s3t2r % PAG
 %
 4r1b 4r1c 4r1d r2d1r 4r1f
 2r1g zor2g bur2g
-4r1h4 4r1j2 4r1k 4r1l2
+4r1h4 4r1¶4 4r1j2 4r1k 4r1l2
 4r1m 4r1n 4r1p 4r1r4
 4r1s2 r2s3f % dorsflanke, versfarado
-r2s3m % diversmaniera, versmezuro
+r2s3m r2s3r % diversmaniera, versmezuro, versromano
 4r1t 2r1v 2r1z 2r1æ 2r1ø 2r1¼ 2r1þ2 r2þ3j
 %
 4s3b2 s1c s2ci % æios#cia, nes#ciate, biblis#cienca
@@ -672,10 +675,10 @@ s1v % 4s1z foriginda, æar plejparte en la pola-hungara Warszawa, Haszpra ktp.
 ifdef({DIFT}, {â1 ê1 âtorit2a3t êkl2i3d lê1ten2ant})
 %
 4v3b2 4v1c2 4v1d 4v1f 4v1g 4v1h4 2v1j2 inter3v2ju
-4v1k2 4v1l 4v1m 4v1n 4v1p 2v1r2 4v1s 4v1t 4v1v
-4v1z 4v1æ 4v1ø 4v1¼ 4v1þ
+4v1k2 4v1l 4v1m 4v1n 4v1p 2v1r2 4v1s2 4v1t 4v1v2
+4v1z 4v1æ2 4v1ø2 4v1¼2 4v1þ2
 %
-4z1b 4z1c 4z1d 4z1f4 4z1g 4z1h4 4z1j2 4z1k 4z1l
+4z1b 4z1c2 4z1d 4z1f4 4z1g 4z1h4 4z1j2 4z1k 4z1l
 4z1m 4z1n 4z1p 4z1r 4z1s 4z1t 4z1v 4z1æ 4z1ø 4z1¼ 4z1þ
 % MLL:
 .re2sp. % respektive
@@ -685,8 +688,10 @@ ifdef({DIFT}, {â1 ê1 âtorit2a3t êkl2i3d lê1ten2ant})
 1a2kv 3a4ranø a2nali
 1a2f3rik 1a2merik
 1a2kir1 har2a3kir %militakiro
+ap1l p2lek % aplaýdis, traplekti
 a2spekt % grava-spekta
 .aý2d .aý3dac
+bil2d1r
 .bi2o
 .bu2þ
 .cen2t cen3t2r % cen#testro
@@ -698,6 +703,7 @@ de2k1o2k de2k1u2n % dudekoka (20a)
 3e2senc 1e2sprim
 2k3e2rar 4m3e2rar 2s3e2rar % tradukeraro
 e2st % kunesto, foresti, alesto
+1e2taø
 .fi2þ1 1a2fiþ % reklama#fiþ
 fo2j .fra2z1 fra3z2eo
 .fre2þ

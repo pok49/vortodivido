@@ -1,4 +1,6 @@
 UTF-8
+LEFTHYPHENMIN 2
+RIGHTHYPHENMIN 2
 1a2ĉ1aj.
 1a2ĉ1ajn.
 1a2ĉ1oj.
@@ -134,7 +136,6 @@ UTF-8
 1e2ja.
 1e2je.
 1e2jo.
-1e2kzem
 1e2le1g2an3t
 1e2lemen2t1
 1e2m1aj.
@@ -170,6 +171,7 @@ UTF-8
 1e2t3an.
 1e2t3os.
 1e2ta.
+1e2taĝ
 1e2te.
 1e2ti.
 1e2to.
@@ -413,6 +415,7 @@ UTF-8
 2g1d2
 2g1m
 2ĝ1b2
+2hn.
 2ĥ1s2
 2i4larb
 2ipov
@@ -447,6 +450,7 @@ UTF-8
 2s1m
 2s1r2
 2s3e2rar
+2sk.
 2spre
 2stf
 2ŝ1c2
@@ -613,6 +617,7 @@ UTF-8
 4ĝ1m
 4ĝ1n
 4ĝ1p
+4ĝ1r
 4ĝ1s
 4ĝ1ŝ
 4ĝ1t
@@ -777,6 +782,7 @@ UTF-8
 4r1d
 4r1f
 4r1h4
+4r1ĥ4
 4r1j2
 4r1k
 4r1l2
@@ -923,6 +929,7 @@ ang2u3l
 antikr2i3s3t
 antrac2i3t
 aor2i3s3t
+ap1l
 .apet2i3t
 .apr2e3c
 .apr2i3l
@@ -937,7 +944,6 @@ asimil3i4t
 .ask2e3t
 .askar2i3d
 .asp2i3d
-.at1l2an3t
 .at1l2e3t
 .aŭ2d
 .aŭ3dac
@@ -947,13 +953,13 @@ aŭtorit2a3t
 b1l
 b1s2t
 b2ar3b
+b2at
 b2i3l2a3rd
 b2i3t
 b2lek
 b2lok
 b2lov
 b2lu
-.ba3t
 .bab2i3l
 .bac2i3l
 bajon2e3t
@@ -979,13 +985,12 @@ bel3e4g
 .bi4t1
 bi4t1o2k
 bi5t2u3m
+bil2d1r
 bil2e3t
-.bin3d
 biskv2i3t
 biz2a3r
 .bl2a3t
 .bl4in3d
-blasf2e3m
 .bo2n1
 bo2v3id
 .bo3n2ev
@@ -1002,12 +1007,12 @@ br2i3g2a3d
 .br2i3ĝ
 br2i3l
 .br2i3t
+br2ul3
 .br4
 bracel2e3t
 .braz2i3l
 brev2e3t
 .brok2a3t
-.brul3
 .bu2ŝ
 .bu3l
 .bu3m
@@ -1058,7 +1063,6 @@ de2k3o2p
 .de3c
 de3ve2n
 de3vo2j
-.deb2a3t
 .deb2e3t
 .deb2i3l
 .def2i3l
@@ -1091,6 +1095,7 @@ dol2a3r
 dor2m3
 dr2a3t
 .dr2i3l
+.dra4t1
 .du2m1i2r
 .du2on1
 .duk2a3t
@@ -1108,14 +1113,12 @@ ea2
 .eg2i3d
 ejak2u3l
 .ek1
-.ek1i2r
 .ek1l2um
 .ek1l4a2m
-.ek1r
 .ek2ip
-.ek2olog
 .ek2onom
 .ek2s1
+.ek2ume2n
 ek3s2alt
 .ek3s2ci
 .ek3s2ekv
@@ -1143,8 +1146,6 @@ ekz2i3s3t
 .el3v2
 elef2an3t
 elizab2e3t
-embl2e3m
-.emer2i3t
 emfiz2e3m
 .en1a2m
 .en1e2st
@@ -1173,7 +1174,6 @@ fas2a3d
 fen2e3st3r
 fer2m3
 .fi2ŝ1
-.fi2t2z1
 .fi3g
 .fi3l
 .fi4garb
@@ -1196,6 +1196,7 @@ fr2a3t
 .fr2i3d
 .fr2i3t
 .fr2on3t
+fr4a3mason
 .fra2z1
 fra3z2eo
 .fre2ŝ
@@ -1252,7 +1253,6 @@ hiac2in3t
 hibr2i3d
 hierod2u3l
 .hin3d
-hipokr2i3t
 homunk2u3l
 .hon3t
 horiz2on3t
@@ -1304,6 +1304,7 @@ jerusal2e3m
 jug2u3l2a3r
 ĵ2e3t
 .ĵak2e3t
+.ĵe4t1
 .ĵu3l
 k1v
 k2an3t
@@ -1383,6 +1384,7 @@ kors2e3t
 korv2e3t
 .kost2u3m
 .kr2i3s3t
+kr2i3t
 .kr4
 .krav2a3t
 .kred2i3t
@@ -1489,7 +1491,6 @@ meĥ2a3n2is3m
 mek2a3n2is3m
 .melol2on3t
 .mem3a2
-.meme2
 mer2i3t
 .met2i3l
 mez2alianc
@@ -1547,7 +1548,6 @@ naŭt2i3l
 .neb2u3l
 .negl2i3ĝ
 .nei2
-.nel2
 .nema2l1
 .neof2i3t
 .ni4a3
@@ -1591,6 +1591,7 @@ p2a3per
 p2e3c
 p2et
 p2i3t4eci
+p2lek
 .pa2s
 .pa2ŝ
 pa3sa3ĝ
@@ -1607,6 +1608,7 @@ paro2l3
 partik2u3l
 partik2u3l2a3r
 paskv2i3l
+.pe2r1a2
 .ped2an3t
 .pedik2u3l2ar
 perf2i3d
@@ -1684,7 +1686,6 @@ pterodakt2i3l
 .pup2i3l
 .pust2u3l
 r2d1r
-.r2eg
 r2et1aj.
 r2et1ajn.
 r2et1oj.
@@ -1698,11 +1699,13 @@ r2id
 r2k1l
 r2s3f
 r2s3m
+r2s3r
+r2ŝ3j
 r3l2i3g
 .rab2a3t
 rad2a3r
 .rak2e3t
-.rak2on3t
+rak2on3t
 rap2i3d
 .re2f3l2ig
 .re2ĝ
@@ -1716,6 +1719,7 @@ re3ĝust
 referend2u3m
 reg2u2l1
 rehabil2i3t
+rekl4am
 .rem2e3t
 .rem2on3t
 remp2a3r
@@ -1755,6 +1759,7 @@ sa3m2ar
 sa3m2uraj
 .sab2a3t
 .sal2a3t
+.sam1i2de
 sanit2a3r
 sanskr2i3t
 satel2i3t
@@ -1791,7 +1796,6 @@ sindik2a3t
 sing2u3l2ar
 sinjo2r3
 .sis3m
-.sk2e3m
 .sk2i3s3m
 .sk2i3s3t
 .sk2i3t
@@ -1876,8 +1880,6 @@ svah2i3l
 .ŝte2l1
 ŝv2i3t
 t2e3m
-t2zg
-t2zs
 t5c2h
 ta2g1l2
 .tab2u3l
@@ -1979,7 +1981,6 @@ vol2on3t
 vol2u3m
 volat2i3l
 vor2t1
-vor2t1uz
 vort2od
 vort2op
 vulg2a3r

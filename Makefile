@@ -18,24 +18,24 @@ hyphen_eo.l3:	eohyph.m4
 hyphen_eo.tex: hyphen_eo.l3
 	echo -e '% -*- coding: latin-3 -*-\n\\patterns{' | cat - hyphen_eo.l3 | sed '$$s/$$\n/}/' > hyphen_eo.tex
 
-hyph_eo_XX.dic:	hyphen_eo.l3
-	echo "UTF-8" | cat - hyphen_eo.l3 | iconv -f LATIN3 -t UTF-8 -o hyph_eo_XX.dic
+hyph_eo.dic:	hyphen_eo.l3
+	echo "UTF-8\nLEFTHYPHENMIN 2\nRIGHTHYPHENMIN 2" | cat - hyphen_eo.l3 | iconv -f LATIN3 -t UTF-8 -o hyph_eo.dic
 
-fb:	eo.pattern
-eo.pattern: hyph_eo_XX.dic
-	cp fbr-cr-header.txt $(TMP)/eo.pattern
-	sed -n '/Time-stamp/,/any later version/p' eohyph.m4 >> $(TMP)/eo.pattern
-	echo '-->\n<HyphenationDescription>' >> $(TMP)/eo.pattern
-	sed '/^UTF-8$$/d;/^#/d;s/\./ /g;s/^/<pattern>/;s:$$:</pattern>:' hyph_eo_XX.dic >> $(TMP)/eo.pattern
-	echo '</HyphenationDescription>' >> $(TMP)/eo.pattern
-	mv $(TMP)/eo.pattern ./
+fb:	Esperanto.pattern
+Esperanto.pattern: hyph_eo.dic
+	cp fbr-cr-header.txt $(TMP)/Esperanto.pattern
+	sed -n '/Time-stamp/,/any later version/p' eohyph.m4 >> $(TMP)/Esperanto.pattern
+	echo '-->\n<HyphenationDescription>' >> $(TMP)/Esperanto.pattern
+	sed '/^UTF-8$$/d;/^#/d;s/\./ /g;s/^/<pattern>/;s:$$:</pattern>:' hyph_eo.dic >> $(TMP)/Esperanto.pattern
+	echo '</HyphenationDescription>' >> $(TMP)/Esperanto.pattern
+	mv $(TMP)/Esperanto.pattern ./
 
 oo:	hyph_eo_XX.oxt
 
-# hyph_eo_XX.oxt: hyph_eo_XX.zip hyph_eo_XX.dic
-#	zip hyph_eo_XX.zip hyph_eo_XX.dic -O hyph_eo_XX.oxt
-hyph_eo_XX.oxt: hyph_eo_XX.dic oxt/description.xml
-	cp hyph_eo_XX.dic oxt/
+# hyph_eo_XX.oxt: hyph_eo_XX.zip hyph_eo.dic
+#	zip hyph_eo_XX.zip hyph_eo.dic -O hyph_eo_XX.oxt
+hyph_eo_XX.oxt: hyph_eo.dic oxt/description.xml
+	cp hyph_eo.dic oxt/
 	cd oxt && zip -u hyph_eo_XX.oxt && cp hyph_eo_XX.oxt .. 
 
 emacs: $(emacs_hy)

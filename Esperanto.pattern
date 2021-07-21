@@ -4,7 +4,7 @@
 % File name: eo.pattern
 % Unicode hyphenation patterns for Esperanto.
 %
-% Time-stamp: <2020-10-13 13:39:53 sergio>
+% Time-stamp: <2021-01-07 15:26:38 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -14,6 +14,8 @@
 % of the License, or any later version.
 -->
 <HyphenationDescription>
+<pattern>LEFTHYPHENMIN 2</pattern>
+<pattern>RIGHTHYPHENMIN 2</pattern>
 <pattern>1a2ĉ1aj </pattern>
 <pattern>1a2ĉ1ajn </pattern>
 <pattern>1a2ĉ1oj </pattern>
@@ -149,7 +151,6 @@
 <pattern>1e2ja </pattern>
 <pattern>1e2je </pattern>
 <pattern>1e2jo </pattern>
-<pattern>1e2kzem</pattern>
 <pattern>1e2le1g2an3t</pattern>
 <pattern>1e2lemen2t1</pattern>
 <pattern>1e2m1aj </pattern>
@@ -185,6 +186,7 @@
 <pattern>1e2t3an </pattern>
 <pattern>1e2t3os </pattern>
 <pattern>1e2ta </pattern>
+<pattern>1e2taĝ</pattern>
 <pattern>1e2te </pattern>
 <pattern>1e2ti </pattern>
 <pattern>1e2to </pattern>
@@ -428,6 +430,7 @@
 <pattern>2g1d2</pattern>
 <pattern>2g1m</pattern>
 <pattern>2ĝ1b2</pattern>
+<pattern>2hn </pattern>
 <pattern>2ĥ1s2</pattern>
 <pattern>2i4larb</pattern>
 <pattern>2ipov</pattern>
@@ -462,6 +465,7 @@
 <pattern>2s1m</pattern>
 <pattern>2s1r2</pattern>
 <pattern>2s3e2rar</pattern>
+<pattern>2sk </pattern>
 <pattern>2spre</pattern>
 <pattern>2stf</pattern>
 <pattern>2ŝ1c2</pattern>
@@ -628,6 +632,7 @@
 <pattern>4ĝ1m</pattern>
 <pattern>4ĝ1n</pattern>
 <pattern>4ĝ1p</pattern>
+<pattern>4ĝ1r</pattern>
 <pattern>4ĝ1s</pattern>
 <pattern>4ĝ1ŝ</pattern>
 <pattern>4ĝ1t</pattern>
@@ -792,6 +797,7 @@
 <pattern>4r1d</pattern>
 <pattern>4r1f</pattern>
 <pattern>4r1h4</pattern>
+<pattern>4r1ĥ4</pattern>
 <pattern>4r1j2</pattern>
 <pattern>4r1k</pattern>
 <pattern>4r1l2</pattern>
@@ -938,6 +944,7 @@
 <pattern>antikr2i3s3t</pattern>
 <pattern>antrac2i3t</pattern>
 <pattern>aor2i3s3t</pattern>
+<pattern>ap1l</pattern>
 <pattern> apet2i3t</pattern>
 <pattern> apr2e3c</pattern>
 <pattern> apr2i3l</pattern>
@@ -952,7 +959,6 @@
 <pattern> ask2e3t</pattern>
 <pattern> askar2i3d</pattern>
 <pattern> asp2i3d</pattern>
-<pattern> at1l2an3t</pattern>
 <pattern> at1l2e3t</pattern>
 <pattern> aŭ2d</pattern>
 <pattern> aŭ3dac</pattern>
@@ -962,13 +968,13 @@
 <pattern>b1l</pattern>
 <pattern>b1s2t</pattern>
 <pattern>b2ar3b</pattern>
+<pattern>b2at</pattern>
 <pattern>b2i3l2a3rd</pattern>
 <pattern>b2i3t</pattern>
 <pattern>b2lek</pattern>
 <pattern>b2lok</pattern>
 <pattern>b2lov</pattern>
 <pattern>b2lu</pattern>
-<pattern> ba3t</pattern>
 <pattern> bab2i3l</pattern>
 <pattern> bac2i3l</pattern>
 <pattern>bajon2e3t</pattern>
@@ -994,13 +1000,12 @@
 <pattern> bi4t1</pattern>
 <pattern>bi4t1o2k</pattern>
 <pattern>bi5t2u3m</pattern>
+<pattern>bil2d1r</pattern>
 <pattern>bil2e3t</pattern>
-<pattern> bin3d</pattern>
 <pattern>biskv2i3t</pattern>
 <pattern>biz2a3r</pattern>
 <pattern> bl2a3t</pattern>
 <pattern> bl4in3d</pattern>
-<pattern>blasf2e3m</pattern>
 <pattern> bo2n1</pattern>
 <pattern>bo2v3id</pattern>
 <pattern> bo3n2ev</pattern>
@@ -1017,12 +1022,12 @@
 <pattern> br2i3ĝ</pattern>
 <pattern>br2i3l</pattern>
 <pattern> br2i3t</pattern>
+<pattern>br2ul3</pattern>
 <pattern> br4</pattern>
 <pattern>bracel2e3t</pattern>
 <pattern> braz2i3l</pattern>
 <pattern>brev2e3t</pattern>
 <pattern> brok2a3t</pattern>
-<pattern> brul3</pattern>
 <pattern> bu2ŝ</pattern>
 <pattern> bu3l</pattern>
 <pattern> bu3m</pattern>
@@ -1073,7 +1078,6 @@
 <pattern> de3c</pattern>
 <pattern>de3ve2n</pattern>
 <pattern>de3vo2j</pattern>
-<pattern> deb2a3t</pattern>
 <pattern> deb2e3t</pattern>
 <pattern> deb2i3l</pattern>
 <pattern> def2i3l</pattern>
@@ -1106,6 +1110,7 @@
 <pattern>dor2m3</pattern>
 <pattern>dr2a3t</pattern>
 <pattern> dr2i3l</pattern>
+<pattern> dra4t1</pattern>
 <pattern> du2m1i2r</pattern>
 <pattern> du2on1</pattern>
 <pattern> duk2a3t</pattern>
@@ -1123,14 +1128,12 @@
 <pattern> eg2i3d</pattern>
 <pattern>ejak2u3l</pattern>
 <pattern> ek1</pattern>
-<pattern> ek1i2r</pattern>
 <pattern> ek1l2um</pattern>
 <pattern> ek1l4a2m</pattern>
-<pattern> ek1r</pattern>
 <pattern> ek2ip</pattern>
-<pattern> ek2olog</pattern>
 <pattern> ek2onom</pattern>
 <pattern> ek2s1</pattern>
+<pattern> ek2ume2n</pattern>
 <pattern>ek3s2alt</pattern>
 <pattern> ek3s2ci</pattern>
 <pattern> ek3s2ekv</pattern>
@@ -1158,8 +1161,6 @@
 <pattern> el3v2</pattern>
 <pattern>elef2an3t</pattern>
 <pattern>elizab2e3t</pattern>
-<pattern>embl2e3m</pattern>
-<pattern> emer2i3t</pattern>
 <pattern>emfiz2e3m</pattern>
 <pattern> en1a2m</pattern>
 <pattern> en1e2st</pattern>
@@ -1188,7 +1189,6 @@
 <pattern>fen2e3st3r</pattern>
 <pattern>fer2m3</pattern>
 <pattern> fi2ŝ1</pattern>
-<pattern> fi2t2z1</pattern>
 <pattern> fi3g</pattern>
 <pattern> fi3l</pattern>
 <pattern> fi4garb</pattern>
@@ -1211,6 +1211,7 @@
 <pattern> fr2i3d</pattern>
 <pattern> fr2i3t</pattern>
 <pattern> fr2on3t</pattern>
+<pattern>fr4a3mason</pattern>
 <pattern> fra2z1</pattern>
 <pattern>fra3z2eo</pattern>
 <pattern> fre2ŝ</pattern>
@@ -1267,7 +1268,6 @@
 <pattern>hibr2i3d</pattern>
 <pattern>hierod2u3l</pattern>
 <pattern> hin3d</pattern>
-<pattern>hipokr2i3t</pattern>
 <pattern>homunk2u3l</pattern>
 <pattern> hon3t</pattern>
 <pattern>horiz2on3t</pattern>
@@ -1319,6 +1319,7 @@
 <pattern>jug2u3l2a3r</pattern>
 <pattern>ĵ2e3t</pattern>
 <pattern> ĵak2e3t</pattern>
+<pattern> ĵe4t1</pattern>
 <pattern> ĵu3l</pattern>
 <pattern>k1v</pattern>
 <pattern>k2an3t</pattern>
@@ -1398,6 +1399,7 @@
 <pattern>korv2e3t</pattern>
 <pattern> kost2u3m</pattern>
 <pattern> kr2i3s3t</pattern>
+<pattern>kr2i3t</pattern>
 <pattern> kr4</pattern>
 <pattern> krav2a3t</pattern>
 <pattern> kred2i3t</pattern>
@@ -1504,7 +1506,6 @@
 <pattern>mek2a3n2is3m</pattern>
 <pattern> melol2on3t</pattern>
 <pattern> mem3a2</pattern>
-<pattern> meme2</pattern>
 <pattern>mer2i3t</pattern>
 <pattern> met2i3l</pattern>
 <pattern>mez2alianc</pattern>
@@ -1562,7 +1563,6 @@
 <pattern> neb2u3l</pattern>
 <pattern> negl2i3ĝ</pattern>
 <pattern> nei2</pattern>
-<pattern> nel2</pattern>
 <pattern> nema2l1</pattern>
 <pattern> neof2i3t</pattern>
 <pattern> ni4a3</pattern>
@@ -1606,6 +1606,7 @@
 <pattern>p2e3c</pattern>
 <pattern>p2et</pattern>
 <pattern>p2i3t4eci</pattern>
+<pattern>p2lek</pattern>
 <pattern> pa2s</pattern>
 <pattern> pa2ŝ</pattern>
 <pattern>pa3sa3ĝ</pattern>
@@ -1622,6 +1623,7 @@
 <pattern>partik2u3l</pattern>
 <pattern>partik2u3l2a3r</pattern>
 <pattern>paskv2i3l</pattern>
+<pattern> pe2r1a2</pattern>
 <pattern> ped2an3t</pattern>
 <pattern> pedik2u3l2ar</pattern>
 <pattern>perf2i3d</pattern>
@@ -1699,7 +1701,6 @@
 <pattern> pup2i3l</pattern>
 <pattern> pust2u3l</pattern>
 <pattern>r2d1r</pattern>
-<pattern> r2eg</pattern>
 <pattern>r2et1aj </pattern>
 <pattern>r2et1ajn </pattern>
 <pattern>r2et1oj </pattern>
@@ -1713,11 +1714,13 @@
 <pattern>r2k1l</pattern>
 <pattern>r2s3f</pattern>
 <pattern>r2s3m</pattern>
+<pattern>r2s3r</pattern>
+<pattern>r2ŝ3j</pattern>
 <pattern>r3l2i3g</pattern>
 <pattern> rab2a3t</pattern>
 <pattern>rad2a3r</pattern>
 <pattern> rak2e3t</pattern>
-<pattern> rak2on3t</pattern>
+<pattern>rak2on3t</pattern>
 <pattern>rap2i3d</pattern>
 <pattern> re2f3l2ig</pattern>
 <pattern> re2ĝ</pattern>
@@ -1731,6 +1734,7 @@
 <pattern>referend2u3m</pattern>
 <pattern>reg2u2l1</pattern>
 <pattern>rehabil2i3t</pattern>
+<pattern>rekl4am</pattern>
 <pattern> rem2e3t</pattern>
 <pattern> rem2on3t</pattern>
 <pattern>remp2a3r</pattern>
@@ -1770,6 +1774,7 @@
 <pattern>sa3m2uraj</pattern>
 <pattern> sab2a3t</pattern>
 <pattern> sal2a3t</pattern>
+<pattern> sam1i2de</pattern>
 <pattern>sanit2a3r</pattern>
 <pattern>sanskr2i3t</pattern>
 <pattern>satel2i3t</pattern>
@@ -1806,7 +1811,6 @@
 <pattern>sing2u3l2ar</pattern>
 <pattern>sinjo2r3</pattern>
 <pattern> sis3m</pattern>
-<pattern> sk2e3m</pattern>
 <pattern> sk2i3s3m</pattern>
 <pattern> sk2i3s3t</pattern>
 <pattern> sk2i3t</pattern>
@@ -1891,8 +1895,6 @@
 <pattern> ŝte2l1</pattern>
 <pattern>ŝv2i3t</pattern>
 <pattern>t2e3m</pattern>
-<pattern>t2zg</pattern>
-<pattern>t2zs</pattern>
 <pattern>t5c2h</pattern>
 <pattern>ta2g1l2</pattern>
 <pattern> tab2u3l</pattern>
@@ -1994,7 +1996,6 @@
 <pattern>vol2u3m</pattern>
 <pattern>volat2i3l</pattern>
 <pattern>vor2t1</pattern>
-<pattern>vor2t1uz</pattern>
 <pattern>vort2od</pattern>
 <pattern>vort2op</pattern>
 <pattern>vulg2a3r</pattern>

@@ -28,6 +28,13 @@ $ sudo ln -s /home/sergio/git/vortodivido/eo.pattern /usr/share/cr3/hyph/Esperan
 To use the package with AlReader you need to rebuild the reader with
 the file.
 
+PB641 Aqua:
+hyph_eo.dic → /system/adobe/hyphenDicts/
+KOReader:
+eo.pattern → /applications/koreader/data/hyph/Esperanto.pattern
+cr3:
+eo.pattern → /system/share/cr3/hyph/Esperanto.pattern
+
 ### For OpenOffice/LibreOffice
 The package `hyph_eo_XX.oxt` can be routinely installed as
 normal extension via Tools→Extension Manager.
