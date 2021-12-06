@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2021-03-24 09:49:49 sergio>
+% Time-stamp: <2021-12-06 14:19:23 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -528,7 +528,7 @@ nom(1u2l) 1e2m1u2l e3m2u3ls 1u2l3ec .un2u3l4e 1u2l3ej
 %
 .akum2u3l ang2u3l .bu3l .bet2u3l br2ul3 ejak2u3l .fist2u3l
 form2u3l .fu3l galin2u3l .gran2u3l .grat2u3l .herk2u3l
-hierod2u3l homunk2u3l ins2u3l .instanb2u3l .ju3l .¼u3l
+hierod2u3l homunk2u3l ins2u3l .istanb2u3l .ju3l .¼u3l
 .ku3l .kab2u3l kalend2u3l kalk2u2l1 kapit2u3l kaps2u3l koag2u3l
 .kons2u3l .kop2u3l korpusk2u3l .kum2u3l .lu3l .liverp2u3l .mu3l
 mak2u3l manip2u3l matrik2u3l .mod2u3l molek2u3l .nu3l .neb2u3l
@@ -590,7 +590,7 @@ d1z 4d1æ 4d1ø 4d1¼ 4d1þ2
 2ø1b2 4ø1c 4ø1d 4ø1f 4ø1g 4ø1h4 4ø1j2 4ø1k 4ø1l 4ø1m 4ø1n 4ø1p 4ø1r
 4ø1s 4ø1t 4ø1v 4ø1z 4ø1æ 4ø1ø 4ø1¼ 4ø1þ
 %
-4h1æ 4h1ø 4h1¼ 4h1þ
+4h1æ 4h1ø 4h1¼ 4h1m 4h1þ 4h1v
 %
 4¶1b 4¶1c 4¶1d 4¶1f 4¶1g 4¶1h4 4¶1j2 4¶1k 4¶1m 4¶1n 4¶1p
 2¶1s2 4¶1t 4¶1v 4¶1z 4¶1æ 4¶1ø 4¶1¼ 4¶1þ

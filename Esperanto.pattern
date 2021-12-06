@@ -4,7 +4,7 @@
 % File name: eo.pattern
 % Unicode hyphenation patterns for Esperanto.
 %
-% Time-stamp: <2021-01-07 15:26:38 sergio>
+% Time-stamp: <2021-10-24 09:14:29 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -641,7 +641,9 @@
 <pattern>4h1ĉ</pattern>
 <pattern>4h1ĝ</pattern>
 <pattern>4h1ĵ</pattern>
+<pattern>4h1m</pattern>
 <pattern>4h1ŝ</pattern>
+<pattern>4h1v</pattern>
 <pattern>4ĥ1b</pattern>
 <pattern>4ĥ1c</pattern>
 <pattern>4ĥ1ĉ</pattern>
@@ -848,26 +850,26 @@
 <pattern>4t3s2</pattern>
 <pattern>4ŭ1</pattern>
 <pattern>4v1c2</pattern>
-<pattern>4v1ĉ</pattern>
+<pattern>4v1ĉ2</pattern>
 <pattern>4v1d</pattern>
 <pattern>4v1f</pattern>
 <pattern>4v1g</pattern>
-<pattern>4v1ĝ</pattern>
+<pattern>4v1ĝ2</pattern>
 <pattern>4v1h4</pattern>
-<pattern>4v1ĵ</pattern>
+<pattern>4v1ĵ2</pattern>
 <pattern>4v1k2</pattern>
 <pattern>4v1l</pattern>
 <pattern>4v1m</pattern>
 <pattern>4v1n</pattern>
 <pattern>4v1p</pattern>
-<pattern>4v1s</pattern>
-<pattern>4v1ŝ</pattern>
+<pattern>4v1s2</pattern>
+<pattern>4v1ŝ2</pattern>
 <pattern>4v1t</pattern>
-<pattern>4v1v</pattern>
+<pattern>4v1v2</pattern>
 <pattern>4v1z</pattern>
 <pattern>4v3b2</pattern>
 <pattern>4z1b</pattern>
-<pattern>4z1c</pattern>
+<pattern>4z1c2</pattern>
 <pattern>4z1ĉ</pattern>
 <pattern>4z1d</pattern>
 <pattern>4z1f4</pattern>
@@ -1296,7 +1298,6 @@
 <pattern>ins2ul2i3n</pattern>
 <pattern>inst2an3t</pattern>
 <pattern> inst2i3g</pattern>
-<pattern> instanb2u3l</pattern>
 <pattern>inte3r2es</pattern>
 <pattern>inte3r2ez</pattern>
 <pattern>inte3r2upt</pattern>
@@ -1308,6 +1309,7 @@
 <pattern>invent2a3r</pattern>
 <pattern> io2m1</pattern>
 <pattern>is1la2m3</pattern>
+<pattern> istanb2u3l</pattern>
 <pattern>iud2</pattern>
 <pattern>izob2a3r</pattern>
 <pattern>j2ar</pattern>
@@ -1642,6 +1644,7 @@
 <pattern> pl2e2j1</pattern>
 <pattern> pl2e3t</pattern>
 <pattern>pl2i3l2a3rĝ</pattern>
+<pattern>pl2u3m</pattern>
 <pattern> pl4</pattern>
 <pattern>pl4at</pattern>
 <pattern> ple2n3</pattern>
@@ -1649,7 +1652,6 @@
 <pattern>pleja2</pattern>
 <pattern>plu2m1in2g</pattern>
 <pattern> plu2r1</pattern>
-<pattern> plu3m</pattern>
 <pattern> po2e3m</pattern>
 <pattern> po2e3t</pattern>
 <pattern>po2marb</pattern>
