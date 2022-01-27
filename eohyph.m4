@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2021-12-06 14:19:23 sergio>
+% Time-stamp: <2022-01-27 12:48:10 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -513,7 +513,7 @@ iud2 %tiud-ata
 % ius2 % tius#peca
 ias2
 % TRANS:
-.tran2s3
+.tran2s3 .netran2s3
 tran3s4ept tran3s4i2stor tran3s4it tran4s5i4tal tran3s4pir
 % TRI
 .tris2
