@@ -16,7 +16,7 @@ hyphen_eo.l3:	eohyph.m4
 	mv $(TMP)/hyphen_eo.l3 ./
 
 hyphen_eo.tex: hyphen_eo.l3
-	echo -e '% -*- coding: latin-3 -*-\n\\patterns{' | cat - hyphen_eo.l3 | sed '$$s/$$\n/}/' > hyphen_eo.tex
+	echo -e '% -*- coding: latin-3 -*-\n\\patterns{' | cat - hyphen_eo.l3 | sed '$$a}\n' > hyphen_eo.tex
 
 hyph_eo.dic:	hyphen_eo.l3
 	echo "UTF-8\nLEFTHYPHENMIN 2\nRIGHTHYPHENMIN 2" | cat - hyphen_eo.l3 | iconv -f LATIN3 -t UTF-8 -o hyph_eo.dic

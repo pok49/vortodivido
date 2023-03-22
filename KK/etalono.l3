@@ -3,8 +3,8 @@ abdiki	ab-di-ki
 abdomeno	ab-do-me-no
 abelo	abe-lo
 abio	abio
-abism'?	abis-m'
-abismo	abis-mo
+abism'?	abi-s-m'
+abismoj	abi-sm-oj
 abomeno	abo-me-no
 aboni	abo-ni
 abonpago	abon-pa-go
@@ -682,6 +682,7 @@ barko	bar-ko
 baro	baro
 basko	ba-s-ko
 basraj	bas-r-aj
+bastonbatojn	ba-s-ton-bat-ojn
 bastoneto	ba-s-to-n-eto
 bastono	ba-s-to-no
 bataladi	ba-ta-l-adi
@@ -2857,6 +2858,7 @@ gazeto	ga-ze-to
 gazetoj	ga-ze-t-oj
 geedzoj	ge-edz-oj
 gefianæoj	ge-fi-an-æ-oj
+gefiloj	ge-fil-oj
 gefratoj	ge-fra-t-oj
 gejunuloj	ge-jun-ul-oj
 gejþejo	gej-þ-ejo
@@ -3640,6 +3642,7 @@ kanalo	ka-na-lo
 kandelingo	kan-del-ingo
 kandelo	kan-de-lo
 kandidato	kan-di-da-to
+Kandidon	kan-di-d-on
 kanino	ka-ni-no
 kankano	kan-ka-no
 kankro	kan-kro
@@ -4582,6 +4585,7 @@ latina	la-ti-na
 latinan	la-ti-n-an
 latino	la-ti-no
 latitudo	la-ti-tu-do
+latkradoj	lat-krad-oj
 latuno	la-tu-no
 laý	laý
 laýbo	laý-bo
@@ -5441,6 +5445,7 @@ monatoj	mo-na-t-oj
 monavidajn?	mo-n-a-vi-d-ajn
 monda	mon-da
 mondcivitanoj	mond-ci-vi-ta-n-oj
+mondparton	mond-par-t-on
 mondregado	mond-re-g-ado
 mondo	mon-do
 monero	mo-ne-ro
@@ -5448,6 +5453,7 @@ moneroj	mo-ne-r-oj
 mono	mo-no
 monon	mo-n-on
 monstro	mons-tro
+monsumojn	mon-sum-ojn
 monta	mon-ta
 montaron	mon-t-ar-on
 monteto	mon-t-eto
@@ -5724,6 +5730,7 @@ nesto	nes-to
 nesufiæa	ne-su-fi-æa
 netaýgeco	ne-taý-g-eco
 neto	ne-to
+netransirebla	ne-trans-ir-eb-la
 neýtrala	neý-tra-la
 neýtralan	neý-tra-l-an
 neýtraleco	neý-tra-l-eco
@@ -7176,6 +7183,7 @@ retikulo	re-ti-ku-lo
 reto	reto
 retorto	re-tor-to
 retrankviliøi	re-trank-vi-l-iøi
+retregiono	ret-re-gi-o-no
 retrovi	retro-vi
 retroviøas	retro-v-iø-as
 retroviøis	retro-v-iø-is
@@ -8441,6 +8449,7 @@ sviso	svi-so
 þtatcivitana	þtat-ci-vi-ta-na
 þtato	þta-to
 þtatoj	þta-t-oj
+þtatregado	þtat-re-g-ado
 þtela	þtela
 þteli	þteli
 þteliris	þtel-ir-is
@@ -9360,4 +9369,5 @@ zorgis	zorg-is
 zorgoj	zorg-oj
 zorgos	zorg-os
 zumi	zumi
+PRETE	prete
 PRETE

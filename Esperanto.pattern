@@ -4,7 +4,7 @@
 % File name: eo.pattern
 % Unicode hyphenation patterns for Esperanto.
 %
-% Time-stamp: <2021-10-24 09:14:29 sergio>
+% Time-stamp: <2022-12-26 14:53:16 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -843,6 +843,7 @@
 <pattern>4t1m</pattern>
 <pattern>4t1n</pattern>
 <pattern>4t1p2</pattern>
+<pattern>4t1r2eg</pattern>
 <pattern>4t1ŝ2</pattern>
 <pattern>4t1t</pattern>
 <pattern>4t1v</pattern>
@@ -908,7 +909,7 @@
 <pattern>a2rom2a3t</pattern>
 <pattern>a2spekt</pattern>
 <pattern> ab2a3t</pattern>
-<pattern> ab2is3m</pattern>
+<pattern> ab2i3sm</pattern>
 <pattern> abs2i3d</pattern>
 <pattern> abs2in3t</pattern>
 <pattern>adiab2a3t</pattern>
@@ -1227,6 +1228,7 @@
 <pattern>galin2u3l</pattern>
 <pattern>garg2a3r</pattern>
 <pattern> gaz2e3t</pattern>
+<pattern>gef2il</pattern>
 <pattern> gen2i3s3t</pattern>
 <pattern> gi3s3t</pattern>
 <pattern> gig2an3t</pattern>
@@ -1342,6 +1344,7 @@
 <pattern> kamar2i3l</pattern>
 <pattern> kan2a3d</pattern>
 <pattern>kan3t2ar2i3d</pattern>
+<pattern> kand2i3d</pattern>
 <pattern>kande2l1in2g</pattern>
 <pattern>kandid2a3t</pattern>
 <pattern>kap2i3l2a3r3</pattern>
@@ -1567,6 +1570,7 @@
 <pattern> nei2</pattern>
 <pattern> nema2l1</pattern>
 <pattern> neof2i3t</pattern>
+<pattern> netran2s3</pattern>
 <pattern> ni4a3</pattern>
 <pattern> no4v</pattern>
 <pattern> nor2d1</pattern>
@@ -1921,6 +1925,7 @@
 <pattern> tie4s</pattern>
 <pattern>tim2i3d</pattern>
 <pattern> tio4m1</pattern>
+<pattern>tk2r2</pattern>
 <pattern> tok2a3t</pattern>
 <pattern>tolst2oj </pattern>
 <pattern>tom2a3t</pattern>

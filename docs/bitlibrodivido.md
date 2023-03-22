@@ -15,10 +15,9 @@ entenas eraron pri vortodivido. Bv preni pli freŝan version, ekz-e
 3.0.59.2-1 [ĉi tie](https://launchpad.net/~vovansrnd/+archive/coolreader/+build/3535055).
 
 Kulridero komprenas du formojn ŝablonarajn: la formon de Palma
-[.pdb-arkivo](https://en.wikipedia.org/wiki/PDB_(Palm_OS)) (uzatan en
-Alrirero), kaj la XML-an `.pattern`-formon uzatan en Foboridero
-(*FBReader*). Mi ne konas la arkaikan PDB-sistemon, tial mi uzis la
-memevidentan `.pattern`-formon.
+[.pdb-arkivo](https://en.wikipedia.org/wiki/PDB_(Palm_OS)) (uzatan en Alrirero), kaj la XML-an `.pattern`-formon uzatan
+en Foboridero (*FBReader*). Mi ne konas la arkaikan PDB-sistemon, tial
+mi uzis la memevidentan `.pattern`-formon.
 
 Trovu la dosierujon `.cr3/` aŭ `cr3`.  En mia Androjda poŝtelefono ĝi
 estas en la enkonstruita memoro, `/sdcard/.cr3/`; en mia Ubunto ĝi estas

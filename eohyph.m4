@@ -1,7 +1,7 @@
 changecom(`%')
 divert(-1)
 % Esperanto Hyphenation Patterns "eohyph"
-% Time-stamp: <2022-01-27 12:48:10 sergio>
+% Time-stamp: <2022-12-26 14:53:16 sergio>
 
 % Copyright (C) 1999, 2013 Sergio B. Pokrovskij
 %
@@ -265,7 +265,7 @@ eýkl2i3d
 .eg2i3d .flor2i3d .fr2i3d
 v2i2d e2vi3dent bo2v3id divi3d %gv#ide, eksterv#ide tute#vidente
 hibr2i3d
-hum2i3d ¶lam2i3d .ins2i3d kan3t2ar2i3d
+hum2i3d ¶lam2i3d .ins2i3d .kand2i3d kan3t2ar2i3d
 .konf2i3d krizal2i3d % kun1s4 % kunSID
 .lib2i3d likv2i3d .liv2i3d
 .madr2i3d morb2i3d .num2i3d
@@ -302,7 +302,7 @@ a2bu3t2i3l a2cet2i3l .ang2i3l .apr2i3l .arg2i3l .az2i3l .bab2i3l .bac2i3l
 .baz2i3l .ber2i3l .bi3l br2i3l % ekBRILO, kvankam þvaBRILO
 .braz2i3l .ced2i3l .ci3r2i3l .civ2i3l % .æi3l
 æinæ2i3l .dakt2i3l .deb2i3l .def2i3l .dist2i3l .domic2i3l .dr2i3l
-.ed2i3l .ekz2i3l .et2i3l .fi3l fac2i3l3 .fus2i3l .gor2i3l
+.ed2i3l .ekz2i3l .et2i3l .fi3l fac2i3l3 .fus2i3l gef2il .gor2i3l
 .gr2i3l .øent2i3l
 .jub2i3l .ki3l .kamar2i3l .ki3r2i3l
 .komp2i3l kons2i3l krokod2i3l m2i3l % kamom2i3l sim2i3l hum2i3l
@@ -356,7 +356,7 @@ inte3r2es inte3r2ez inte3r2upt
 i2r di3rekt hi3rund i3rurg .ti3ran si3rin % siringo
 % ISM:
 nom(1is2m) 1i2s2m3ec
-.ab2is3m .pr2is3m .ris3m .sk2i3s3m .sis3m .sof2is3 me¶2a3n2is3m mek2a3n2is3m
+.ab2i3sm .pr2is3m .ris3m .sk2i3s3m .sis3m .sof2is3 me¶2a3n2is3m mek2a3n2is3m
 % IST:
 nom(1i2s2t) 1i2s2t3ec 1i2s2t3a4r
 %
@@ -663,8 +663,10 @@ s1v % 4s1z foriginda, æar plejparte en la pola-hungara Warszawa, Haszpra ktp.
 4þ1z 2þ1æ2 4þ1ø 4þ1¼ 4þ1þ2
 .þte2l1
 %
-4t1b 4t1c 4t1d 4t1f 2stf 4t1g 4t1h4 4t1j2 4t1k 2t1l2 4t1m 4t1n 4st1n
+4t1b 4t1c 4t1d 4t1f 2stf 4t1g 4t1h4 4t1j2 4t1k tk2r2 % latkr#ado
+2t1l2 4t1m 4t1n 4st1n
 4t1p2 % vortp#aro
+4t1r2eg % retregiono, þtatregado
 4t3s2 4t1t 4t1v
 4t1z % .fi2t2z1 t2zs plejparte en la fremdaj Nitzsche, Ratzinger, Fitzgerald
 4t1æ 4t1ø 4t1¼ 4t1þ2

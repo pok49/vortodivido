@@ -8,7 +8,7 @@ foreach(@ARGV){
 die "Mankas fonto" unless -e $fonto;
 
 use TeX::Hyphen;
-my $hyp = new TeX::Hyphen 'file' => "../hyphen_eo.tex";
+my $hyp = new TeX::Hyphen 'file' => "../hyphen_eo.tex", leftmin => 2, rightmin => 2;
 
 open TEST, $fonto or die "La dosiero $fonto ne legeblas";
 while (<TEST>) {
