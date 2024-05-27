@@ -39,12 +39,16 @@ eo.pattern → /system/share/cr3/hyph/Esperanto.pattern
 The package `hyph_eo_XX.oxt` can be routinely installed as
 normal extension via Tools→Extension Manager.
 
+### In Linux
+In Linux the `hyph_eo.dic` patterns can be installed in a system-wide
+manner, so that they should be available to various users and
+applications (not only LibreOffice). In Ubuntu and similar
+distributions the system-wide location is `/usr/share/hyphen/`.
+
 ## En Esperanto:
 Ĉi tiu ŝablonaro por vortodivido estis unue farita de Sergio
 Pokrovskij por TeX kaj deponita ĉe teTeX (en 1999); poste adaptita por
-Hyphenator, {Open,Libre}Office,
-[Mozilla](https://dxr.mozilla.org/mozilla-central/source/intl/locales/eo/hyphenation)
-kaj Scribus.
+Hyphenator, {Open,Libre}Office, [Mozilla](https://dxr.mozilla.org/mozilla-central/source/intl/locales/eo/hyphenation) kaj Scribus.
 
 Ĉio disponeblas libere laŭ GPL-2.0.
 

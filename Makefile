@@ -1,5 +1,6 @@
-# Where to install the *.hash files; you could try
-# /usr/share/cr3/hyph
+# Where to install the dictionary files; you could try
+# /usr/share/hyphen/hyph_eo.dic
+# /usr/share/cr3/hyph/Esperanto.pattern
 emacs_hy = /usr/local/share/emacs/site-lisp/hyphen/eo_XX.l3
 TMP = /tmp
 ##########################
@@ -25,7 +26,9 @@ fb:	Esperanto.pattern
 Esperanto.pattern: hyph_eo.dic
 	cp fbr-cr-header.txt $(TMP)/Esperanto.pattern
 	sed -n '/Time-stamp/,/any later version/p' eohyph.m4 >> $(TMP)/Esperanto.pattern
-	echo '-->\n<HyphenationDescription>' >> $(TMP)/Esperanto.pattern
+	echo '-->\n<HyphenationDescription' >> $(TMP)/Esperanto.pattern
+	echo '  title="Esperanto" lang="eo"' >> $(TMP)/Esperanto.pattern
+	echo '  lefthyphenmin="2" righthyphenmin="2">' >> $(TMP)/Esperanto.pattern
 	sed '/^UTF-8$$/d;/^#/d;s/\./ /g;s/^/<pattern>/;s:$$:</pattern>:' hyph_eo.dic >> $(TMP)/Esperanto.pattern
 	echo '</HyphenationDescription>' >> $(TMP)/Esperanto.pattern
 	mv $(TMP)/Esperanto.pattern ./
